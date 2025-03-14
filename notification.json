@@ -65,7 +65,7 @@
     "Buy or Sell": "Bought",
     "Average Price": "#N/A",
     "Total Investment": 27229,
-    "Allocation": 10.88,
+    "Allocation": 10.89,
     "Content": "Bought 0.303 Bitcoin (BTC) at an average price of $89890 per BTC. Total Allocation changed to 12.44%",
     "Date": "02/03/2025"
   },
@@ -95,7 +95,7 @@
     "Buy or Sell": "Bought",
     "Average Price": "#VALUE!",
     "Total Investment": 6000,
-    "Allocation": 8.04,
+    "Allocation": 8.03,
     "Content": "#VALUE!",
     "Date": "19/02/2025"
   },
