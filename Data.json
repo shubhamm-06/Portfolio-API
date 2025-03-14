@@ -116,7 +116,7 @@
     "Buy Value": "#REF!",
     "Present Value": 456789,
     "P&L (%)": 154.75,
-    "Allocation (%)": "#REF!",
+    "Allocation (%)": 3.2,
     "Price Change (1D)": 2.76
   },
   {
@@ -176,7 +176,7 @@
     "Buy Value": "#REF!",
     "Present Value": 456789,
     "P&L (%)": 212.75,
-    "Allocation (%)": "#REF!",
+    "Allocation (%)": 4.8,
     "Price Change (1D)": 2.57
   },
   {
@@ -188,7 +188,7 @@
     "Buy Value": "#REF!",
     "Present Value": 456789,
     "P&L (%)": 703909.8333333333,
-    "Allocation (%)": "#REF!",
+    "Allocation (%)": 10.92,
     "Price Change (1D)": "#REF!"
   }
 ]
