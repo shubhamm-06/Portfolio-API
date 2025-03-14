@@ -14,7 +14,7 @@
   {
     "Ticker": "AVGO",
     "Name": "Broadcom Inc",
-    "Qty": "#REF!",
+    "Qty": 23,
     "Avg Buy Price (P/S)": 12,
     "LTP": 195.01,
     "Buy Value": "#REF!",
@@ -26,7 +26,7 @@
   {
     "Ticker": "HCA",
     "Name": "HCA Healthcare Inc",
-    "Qty": 12,
+    "Qty": 23,
     "Avg Buy Price (P/S)": 12,
     "LTP": 320.59,
     "Buy Value": "#REF!",
@@ -38,7 +38,7 @@
   {
     "Ticker": "MSFT",
     "Name": "Microsoft Corp",
-    "Qty": "#REF!",
+    "Qty": 23,
     "Avg Buy Price (P/S)": 12,
     "LTP": 387.53,
     "Buy Value": "#REF!",
@@ -50,7 +50,7 @@
   {
     "Ticker": "NKE",
     "Name": "Nike Inc",
-    "Qty": 45,
+    "Qty": 23,
     "Avg Buy Price (P/S)": 12,
     "LTP": 71.52,
     "Buy Value": "#REF!",
@@ -62,7 +62,7 @@
   {
     "Ticker": "NVDA",
     "Name": "NVIDIA Corp",
-    "Qty": "#REF!",
+    "Qty": 23,
     "Avg Buy Price (P/S)": 12,
     "LTP": 120.56,
     "Buy Value": "#REF!",
@@ -74,7 +74,7 @@
   {
     "Ticker": "PANW",
     "Name": "Palo Alto Networks Inc",
-    "Qty": "#REF!",
+    "Qty": 23,
     "Avg Buy Price (P/S)": 12,
     "LTP": 182.39,
     "Buy Value": "#REF!",
@@ -86,7 +86,7 @@
   {
     "Ticker": "AMD",
     "Name": "Advanced Micro Devices Inc",
-    "Qty": "#REF!",
+    "Qty": 23,
     "Avg Buy Price (P/S)": 12,
     "LTP": 100.31,
     "Buy Value": "#REF!",
@@ -98,7 +98,7 @@
   {
     "Ticker": "AMZN",
     "Name": "Amazon.com Inc",
-    "Qty": "#REF!",
+    "Qty": 23,
     "Avg Buy Price (P/S)": 12,
     "LTP": 197.56,
     "Buy Value": "#REF!",
@@ -110,7 +110,7 @@
   {
     "Ticker": "BOTZ",
     "Name": "Global X Robotics and Artificial Intelligence ETF",
-    "Qty": "#REF!",
+    "Qty": 23,
     "Avg Buy Price (P/S)": 12,
     "LTP": 30.57,
     "Buy Value": "#REF!",
@@ -122,7 +122,7 @@
   {
     "Ticker": "QQQM",
     "Name": "Invesco NASDAQ 100 ETF",
-    "Qty": "#REF!",
+    "Qty": 23,
     "Avg Buy Price (P/S)": 12,
     "LTP": 197.07,
     "Buy Value": "#REF!",
@@ -134,7 +134,7 @@
   {
     "Ticker": "XLK",
     "Name": "Technology Select Sector SPDR Fund",
-    "Qty": "#REF!",
+    "Qty": 23,
     "Avg Buy Price (P/S)": 12,
     "LTP": 213,
     "Buy Value": "#REF!",
@@ -146,7 +146,7 @@
   {
     "Ticker": "IYW",
     "Name": "iShares US Technology ETF",
-    "Qty": "#REF!",
+    "Qty": 23,
     "Avg Buy Price (P/S)": 12,
     "LTP": 145.52,
     "Buy Value": "#REF!",
@@ -158,7 +158,7 @@
   {
     "Ticker": "SOXX",
     "Name": "iShares Semiconductor ETF",
-    "Qty": "#REF!",
+    "Qty": 23,
     "Avg Buy Price (P/S)": 12,
     "LTP": 200.57,
     "Buy Value": "#REF!",
@@ -170,7 +170,7 @@
   {
     "Ticker": "FXI",
     "Name": "iShares China Large-Cap ETF",
-    "Qty": "#REF!",
+    "Qty": 23,
     "Avg Buy Price (P/S)": 12,
     "LTP": 37.53,
     "Buy Value": "#REF!",
@@ -182,7 +182,7 @@
   {
     "Ticker": "BTCUSD",
     "Name": "Bitcoin ",
-    "Qty": "#REF!",
+    "Qty": 23,
     "Avg Buy Price (P/S)": 12,
     "LTP": 84481.18,
     "Buy Value": "#REF!",
