@@ -3,11 +3,11 @@
     "Ticker": "ASML",
     "Name": "hogya bro",
     "Qty": 23,
-    "Avg Buy Price (P/S)": "#REF!",
+    "Avg Buy Price (P/S)": 12,
     "LTP": 717.56,
     "Buy Value": "#REF!",
     "Present Value": "#REF!",
-    "P&L (%)": "#REF!",
+    "P&L (%)": 5879.666666666666,
     "Allocation (%)": "#REF!",
     "Price Change (1D)": 3.31
   },
