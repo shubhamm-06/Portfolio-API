@@ -183,12 +183,12 @@
     "Ticker": "BTCUSD",
     "Name": "Bitcoin ",
     "Qty": 23,
-    "Avg Buy Price (P/S)": 12,
-    "LTP": 84535.26,
+    "Avg Buy Price (P/S)": 998985.12,
+    "LTP": 84565.12,
     "Buy Value": 12323,
     "Present Value": 456789,
-    "P&L (%)": 704360.5,
-    "Allocation (%)": 10.89,
+    "P&L (%)": -91.53489693620261,
+    "Allocation (%)": 10.9,
     "Price Change (1D)": 12
   }
 ]
