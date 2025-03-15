@@ -159,11 +159,11 @@
     "Ticker": "SOXX",
     "Name": "iShares Semiconductor ETF",
     "Qty": 23,
-    "Avg Buy Price (P/S)": 12,
+    "Avg Buy Price (P/S)": 200.12,
     "LTP": 201.12,
     "Buy Value": 12323,
     "Present Value": 456789,
-    "P&L (%)": 1576,
+    "P&L (%)": 0.4997001798920648,
     "Allocation (%)": 4.98,
     "Price Change (1D)": 3.09
   },
