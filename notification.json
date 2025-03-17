@@ -25,7 +25,7 @@
     "Buy or Sell": "Bought",
     "Average Price": "#N/A",
     "Total Investment": 6759,
-    "Allocation": 4.82,
+    "Allocation": 4.83,
     "Content": "Bought 20.52 shares of Invesco NASDAQ 100 ETF (QQQM) at an average price of $194.87 per share. Total Allocation changed to 13.8%",
     "Date": "06/03/2025"
   },
@@ -35,7 +35,7 @@
     "Buy or Sell": "Bought",
     "Average Price": "#N/A",
     "Total Investment": 3000,
-    "Allocation": 3.8,
+    "Allocation": 3.81,
     "Content": "Bought 56.54 shares of Amazon.com Inc (AMZN) at an average price of $194.54 per share. Total Allocation changed to 4.78%",
     "Date": "06/03/2025"
   },
@@ -65,7 +65,7 @@
     "Buy or Sell": "Bought",
     "Average Price": 92883.21,
     "Total Investment": 27229,
-    "Allocation": 10.68,
+    "Allocation": 10.67,
     "Content": "Bought 0.303 Bitcoin (BTC) at an average price of $89890 per BTC. Total Allocation changed to 12.44%",
     "Date": "02/03/2025"
   },
@@ -75,7 +75,7 @@
     "Buy or Sell": "Bought",
     "Average Price": "#VALUE!",
     "Total Investment": 4263,
-    "Allocation": 4.82,
+    "Allocation": 4.83,
     "Content": "#VALUE!",
     "Date": "26/02/2025"
   },
