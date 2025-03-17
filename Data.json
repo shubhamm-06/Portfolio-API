@@ -9,7 +9,7 @@
     "Present Value": 456789,
     "P&L (%)": 58.666666666666664,
     "Allocation (%)": 1.98,
-    "Price Change (1D)": 2.79,
+    "Price Change (1D)": 0,
     "LWD Close": ""
   },
   {
@@ -22,7 +22,7 @@
     "Present Value": 456789,
     "P&L (%)": -56.54666666666667,
     "Allocation (%)": 3.85,
-    "Price Change (1D)": 2.18,
+    "Price Change (1D)": 0,
     "LWD Close": ""
   },
   {
@@ -48,7 +48,7 @@
     "Present Value": 456789,
     "P&L (%)": -13.653333333333334,
     "Allocation (%)": 8.04,
-    "Price Change (1D)": 2.58,
+    "Price Change (1D)": 0,
     "LWD Close": ""
   },
   {
@@ -61,7 +61,7 @@
     "Present Value": 456789,
     "P&L (%)": -84.07555555555555,
     "Allocation (%)": 5.67,
-    "Price Change (1D)": -1.35,
+    "Price Change (1D)": 0,
     "LWD Close": ""
   },
   {
@@ -74,7 +74,7 @@
     "Present Value": 456789,
     "P&L (%)": -72.96222222222222,
     "Allocation (%)": 6.59,
-    "Price Change (1D)": 5.27,
+    "Price Change (1D)": 0,
     "LWD Close": ""
   },
   {
@@ -87,7 +87,7 @@
     "Present Value": 456789,
     "P&L (%)": -59.47999999999999,
     "Allocation (%)": 3.38,
-    "Price Change (1D)": 3.41,
+    "Price Change (1D)": 0,
     "LWD Close": ""
   },
   {
@@ -100,7 +100,7 @@
     "Present Value": 456789,
     "P&L (%)": -77.56222222222222,
     "Allocation (%)": 3.01,
-    "Price Change (1D)": 2.92,
+    "Price Change (1D)": 0,
     "LWD Close": ""
   },
   {
@@ -113,7 +113,7 @@
     "Present Value": 456789,
     "P&L (%)": -56.01111111111111,
     "Allocation (%)": 4.76,
-    "Price Change (1D)": 2.09,
+    "Price Change (1D)": 0,
     "LWD Close": ""
   },
   {
@@ -126,7 +126,7 @@
     "Present Value": 456789,
     "P&L (%)": -93.18666666666667,
     "Allocation (%)": 3.21,
-    "Price Change (1D)": 3.06,
+    "Price Change (1D)": 0,
     "LWD Close": ""
   },
   {
@@ -139,7 +139,7 @@
     "Present Value": 456789,
     "P&L (%)": -56.11555555555556,
     "Allocation (%)": 13.75,
-    "Price Change (1D)": 2.42,
+    "Price Change (1D)": 0,
     "LWD Close": ""
   },
   {
@@ -152,7 +152,7 @@
     "Present Value": 456789,
     "P&L (%)": -52.45777777777778,
     "Allocation (%)": 13.88,
-    "Price Change (1D)": 3.02,
+    "Price Change (1D)": 0,
     "LWD Close": ""
   },
   {
@@ -165,7 +165,7 @@
     "Present Value": 456789,
     "P&L (%)": -67.5488888888889,
     "Allocation (%)": 9.18,
-    "Price Change (1D)": 3.1,
+    "Price Change (1D)": 0,
     "LWD Close": ""
   },
   {
@@ -178,7 +178,7 @@
     "Present Value": 456789,
     "P&L (%)": 0.4997001798920648,
     "Allocation (%)": 4.99,
-    "Price Change (1D)": 3.09,
+    "Price Change (1D)": 0,
     "LWD Close": ""
   },
   {
@@ -191,7 +191,7 @@
     "Present Value": 456789,
     "P&L (%)": 213.83333333333331,
     "Allocation (%)": 4.81,
-    "Price Change (1D)": 2.92,
+    "Price Change (1D)": 0,
     "LWD Close": ""
   },
   {
@@ -199,11 +199,11 @@
     "Name": "Bitcoin ",
     "Qty": 23,
     "Avg Buy Price (P/S)": 998985.12,
-    "LTP": 83584.83,
+    "LTP": 83572.01,
     "Buy Value": 12323,
     "Present Value": 456789,
-    "P&L (%)": -91.63302552494476,
-    "Allocation (%)": 10.79,
+    "P&L (%)": -91.63430882734269,
+    "Allocation (%)": 10.78,
     "Price Change (1D)": 12,
     "LWD Close": ""
   }
