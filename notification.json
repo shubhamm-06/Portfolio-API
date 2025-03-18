@@ -1,12 +1,12 @@
 [
   {
-    "Ticker": "",
-    "TickerImg": "",
-    "Buy or Sell": "",
-    "Average Price": "#N/A",
-    "Total Investment": "",
-    "Allocation": "#N/A",
-    "Content": "#N/A",
+    "Ticker": "XLK",
+    "TickerImg": "https://g.foolcdn.com/art/companylogos/square/spy.png",
+    "Buy or Sell": "Bought",
+    "Average Price": 215.43,
+    "Total Investment": 5999,
+    "Allocation": 15.39,
+    "Content": "Bought 27.84 shares of Technology Select Sector SPDR Fund (XLK) at an average price of $215.43 per share. Total Allocation changed to 15.39%",
     "Date": "17/03/2025"
   },
   {
