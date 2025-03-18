@@ -1,5 +1,15 @@
 [
   {
+    "Ticker": "",
+    "TickerImg": "",
+    "Buy or Sell": "",
+    "Average Price": "#N/A",
+    "Total Investment": "",
+    "Allocation": "#N/A",
+    "Content": "#N/A",
+    "Date": ""
+  },
+  {
     "Ticker": "QQQM",
     "TickerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQytaKH3k45hW8zmw_fmq3jrT42KRRxcuMePA&s",
     "Buy or Sell": "Bought",
