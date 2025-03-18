@@ -7,17 +7,17 @@
     "Total Investment": "",
     "Allocation": "#N/A",
     "Content": "#N/A",
-    "Date": ""
+    "Date": "17/03/2025"
   },
   {
     "Ticker": "SOXX",
     "TickerImg": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/072015/ishares_by_blackrock.png?itok=PTkpmJEu",
     "Buy or Sell": "Bought",
-    "Average Price": "#N/A",
+    "Average Price": 204.44,
     "Total Investment": 6000,
     "Allocation": 7.1,
-    "Content": "#N/A",
-    "Date": ""
+    "Content": "Bought 29.34 shares of iShares Semiconductor ETF (SOXX) at an average price of $204.44 per share. Total Allocation changed to 7.1%",
+    "Date": "17/03/2025"
   },
   {
     "Ticker": "QQQM",
