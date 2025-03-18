@@ -11,8 +11,8 @@
   },
   {
     "Ticker": "SOXX",
-    "TickerImg": 204.44,
-    "Buy or Sell": "",
+    "TickerImg": "",
+    "Buy or Sell": "Bought",
     "Average Price": "#N/A",
     "Total Investment": 6000,
     "Allocation": 7.1,
