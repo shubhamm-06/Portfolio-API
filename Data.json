@@ -182,12 +182,12 @@
   {
     "Ticker": "IJR",
     "Name": "iShares Core S&P Small-Cap ETF",
-    "Qty": 47.05,
-    "Avg Buy Price (P/S)": 106.26,
+    "Qty": 47.12,
+    "Avg Buy Price (P/S)": 106.11,
     "LTP": 106.34,
     "Buy Value": 5000,
-    "Present Value": 5003.29,
-    "P&L (%)": 0.07528703180876933,
+    "Present Value": 5010.74,
+    "P&L (%)": 0.21675619639996607,
     "Allocation (%)": 1.94,
     "Price Change (1D)": 1.14
   },
@@ -196,11 +196,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.3,
     "Avg Buy Price (P/S)": 89890.82,
-    "LTP": 84556.17,
+    "LTP": 84464.95,
     "Buy Value": 27229,
-    "Present Value": 25620.51,
-    "P&L (%)": -5.934588203778771,
-    "Allocation (%)": 9.95,
-    "Price Change (1D)": 0.38
+    "Present Value": 25592.87,
+    "P&L (%)": -6.036066864224856,
+    "Allocation (%)": 9.94,
+    "Price Change (1D)": 0.27
   }
 ]
