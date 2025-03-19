@@ -1,5 +1,15 @@
 [
   {
+    "Ticker": "",
+    "TickerImg": "",
+    "Buy or Sell": "",
+    "Average Price": "#N/A",
+    "Total Investment": "",
+    "Allocation": "#N/A",
+    "Content": "#N/A",
+    "Date": ""
+  },
+  {
     "Ticker": "XLK",
     "TickerImg": "https://g.foolcdn.com/art/companylogos/square/spy.png",
     "Buy or Sell": "Bought",
