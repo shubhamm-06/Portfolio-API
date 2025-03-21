@@ -8,7 +8,7 @@
     "Buy Value": 4839,
     "Present Value": 4778.73,
     "P&L (%)": -1.2444336817747643,
-    "Allocation (%)": 1.86,
+    "Allocation (%)": 1.87,
     "Price Change (1D)": -0.12
   },
   {
@@ -44,7 +44,7 @@
     "Buy Value": 19970,
     "Present Value": 18808.16,
     "P&L (%)": -5.816473108854976,
-    "Allocation (%)": 7.35,
+    "Allocation (%)": 7.36,
     "Price Change (1D)": -0.25
   },
   {
@@ -56,7 +56,7 @@
     "Buy Value": 13916,
     "Present Value": 13363.8,
     "P&L (%)": -3.956161454156635,
-    "Allocation (%)": 5.22,
+    "Allocation (%)": 5.23,
     "Price Change (1D)": -1.55
   },
   {
@@ -68,7 +68,7 @@
     "Buy Value": 15000,
     "Present Value": 15073.46,
     "P&L (%)": 0.49173378550233005,
-    "Allocation (%)": 5.89,
+    "Allocation (%)": 5.9,
     "Price Change (1D)": 0.86
   },
   {
@@ -108,6 +108,18 @@
     "Price Change (1D)": -0.3
   },
   {
+    "Ticker": "",
+    "Name": "#N/A",
+    "Qty": 56.54,
+    "Avg Buy Price (P/S)": 194.55,
+    "LTP": "#N/A",
+    "Buy Value": 11000,
+    "Present Value": 11022.47,
+    "P&L (%)": "#N/A",
+    "Allocation (%)": 4.31,
+    "Price Change (1D)": "#N/A"
+  },
+  {
     "Ticker": "BOTZ",
     "Name": "Global X Robotics and Artificial Intelligence ETF",
     "Qty": 245.79,
@@ -128,7 +140,7 @@
     "Buy Value": 38853,
     "Present Value": 36307.14,
     "P&L (%)": -6.550466537204558,
-    "Allocation (%)": 14.2,
+    "Allocation (%)": 14.21,
     "Price Change (1D)": -0.35
   },
   {
@@ -140,7 +152,7 @@
     "Buy Value": 41495,
     "Present Value": 38446.8,
     "P&L (%)": -7.342915454427025,
-    "Allocation (%)": 15.03,
+    "Allocation (%)": 15.04,
     "Price Change (1D)": -0.71
   },
   {
@@ -152,7 +164,7 @@
     "Buy Value": 23942,
     "Present Value": 21518.41,
     "P&L (%)": -10.1178357702511,
-    "Allocation (%)": 8.41,
+    "Allocation (%)": 8.42,
     "Price Change (1D)": -0.36
   },
   {
@@ -196,11 +208,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.3,
     "Avg Buy Price (P/S)": 89890.82,
-    "LTP": 84721.68,
+    "LTP": 84142.79,
     "Buy Value": 27229,
-    "Present Value": 25670.66,
-    "P&L (%)": -5.750464841682403,
-    "Allocation (%)": 10.04,
-    "Price Change (1D)": 0.57
+    "Present Value": 25495.26,
+    "P&L (%)": -6.394457187063166,
+    "Allocation (%)": 9.97,
+    "Price Change (1D)": -0.1
   }
 ]
