@@ -108,16 +108,16 @@
     "Price Change (1D)": -0.3
   },
   {
-    "Ticker": "",
-    "Name": "#N/A",
+    "Ticker": "NVO",
+    "Name": "Novo Nordisk A/S",
     "Qty": 63.46,
     "Avg Buy Price (P/S)": 78.78,
-    "LTP": "#N/A",
+    "LTP": 78.79,
     "Buy Value": 5000,
     "Present Value": 5000.01,
-    "P&L (%)": "#N/A",
+    "P&L (%)": 0.012693577050019186,
     "Allocation (%)": 1.91,
-    "Price Change (1D)": "#N/A"
+    "Price Change (1D)": -0.27
   },
   {
     "Ticker": "BOTZ",
