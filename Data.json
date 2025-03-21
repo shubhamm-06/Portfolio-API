@@ -108,18 +108,6 @@
     "Price Change (1D)": -0.3
   },
   {
-    "Ticker": "",
-    "Name": "#N/A",
-    "Qty": 56.54,
-    "Avg Buy Price (P/S)": 194.55,
-    "LTP": "#N/A",
-    "Buy Value": 11000,
-    "Present Value": 11022.47,
-    "P&L (%)": "#N/A",
-    "Allocation (%)": 4.31,
-    "Price Change (1D)": "#N/A"
-  },
-  {
     "Ticker": "BOTZ",
     "Name": "Global X Robotics and Artificial Intelligence ETF",
     "Qty": 245.79,
