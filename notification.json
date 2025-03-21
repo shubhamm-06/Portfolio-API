@@ -1,5 +1,15 @@
 [
   {
+    "Ticker": "",
+    "TickerImg": "",
+    "Buy or Sell": "",
+    "Average Price": "",
+    "Total Investment": "",
+    "Allocation": "#N/A",
+    "Content": "#DIV/0!",
+    "Date": ""
+  },
+  {
     "Ticker": "IJR",
     "TickerImg": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/072015/ishares_by_blackrock.png?itok=PTkpmJEu",
     "Buy or Sell": "Bought",
