@@ -4,180 +4,180 @@
     "Name": "ASML Holding NV",
     "Qty": 6.51,
     "Avg Buy Price (P/S)": 743.31,
-    "LTP": 726.79,
+    "LTP": 728.8,
     "Buy Value": 4839,
-    "Present Value": 4731.4,
-    "P&L (%)": -2.222491288964225,
-    "Allocation (%)": 1.78,
-    "Price Change (1D)": 1.48
+    "Present Value": 4744.48,
+    "P&L (%)": -1.9520792132488454,
+    "Allocation (%)": 1.79,
+    "Price Change (1D)": 1.76
   },
   {
     "Ticker": "AVGO",
     "Name": "Broadcom Inc",
     "Qty": 46.23,
     "Avg Buy Price (P/S)": 216.3,
-    "LTP": 193.07,
+    "LTP": 192.08,
     "Buy Value": 10000,
-    "Present Value": 8925.62,
-    "P&L (%)": -10.739713361072592,
-    "Allocation (%)": 3.37,
-    "Price Change (1D)": 0.74
+    "Present Value": 8879.85,
+    "P&L (%)": -11.197411003236244,
+    "Allocation (%)": 3.35,
+    "Price Change (1D)": 0.22
   },
   {
     "Ticker": "HCA",
     "Name": "HCA Healthcare Inc",
     "Qty": 15.05,
     "Avg Buy Price (P/S)": 332.22,
-    "LTP": 333.69,
+    "LTP": 334.74,
     "Buy Value": 5000,
-    "Present Value": 5022.03,
-    "P&L (%)": 0.4424778761061858,
-    "Allocation (%)": 1.89,
-    "Price Change (1D)": 1.47
+    "Present Value": 5037.83,
+    "P&L (%)": 0.7585335018963282,
+    "Allocation (%)": 1.9,
+    "Price Change (1D)": 1.79
   },
   {
     "Ticker": "MSFT",
     "Name": "Microsoft Corp",
     "Qty": 48.62,
     "Avg Buy Price (P/S)": 410.73,
-    "LTP": 392.62,
+    "LTP": 392.31,
     "Buy Value": 19970,
-    "Present Value": 19089.18,
-    "P&L (%)": -4.409222603656906,
-    "Allocation (%)": 7.21,
-    "Price Change (1D)": 0.35
+    "Present Value": 19074.11,
+    "P&L (%)": -4.484697976773067,
+    "Allocation (%)": 7.2,
+    "Price Change (1D)": 0.27
   },
   {
     "Ticker": "NKE",
     "Name": "Nike Inc",
     "Qty": 185.97,
     "Avg Buy Price (P/S)": 74.82,
-    "LTP": 67.24,
+    "LTP": 67.15,
     "Buy Value": 13916,
-    "Present Value": 12504.62,
-    "P&L (%)": -10.130981021117346,
-    "Allocation (%)": 4.72,
-    "Price Change (1D)": -1.03
+    "Present Value": 12487.88,
+    "P&L (%)": -10.251269713980204,
+    "Allocation (%)": 4.71,
+    "Price Change (1D)": -1.16
   },
   {
     "Ticker": "NVDA",
     "Name": "NVIDIA Corp",
     "Qty": 127.17,
     "Avg Buy Price (P/S)": 117.95,
-    "LTP": 121.82,
+    "LTP": 121.92,
     "Buy Value": 15000,
-    "Present Value": 15491.84,
-    "P&L (%)": 3.281051292920721,
+    "Present Value": 15504.56,
+    "P&L (%)": 3.3658329800763025,
     "Allocation (%)": 5.85,
-    "Price Change (1D)": 3.5
+    "Price Change (1D)": 3.58
   },
   {
     "Ticker": "PANW",
     "Name": "Palo Alto Networks Inc",
     "Qty": 43.52,
     "Avg Buy Price (P/S)": 183.82,
-    "LTP": 184.91,
+    "LTP": 184.61,
     "Buy Value": 8000,
-    "Present Value": 8047.28,
-    "P&L (%)": 0.5929713850505949,
-    "Allocation (%)": 3.04,
-    "Price Change (1D)": 1.42
+    "Present Value": 8034.22,
+    "P&L (%)": 0.4297682515504409,
+    "Allocation (%)": 3.03,
+    "Price Change (1D)": 1.26
   },
   {
     "Ticker": "AMD",
     "Name": "Advanced Micro Devices Inc",
     "Qty": 70.18,
     "Avg Buy Price (P/S)": 113.99,
-    "LTP": 113.73,
+    "LTP": 114.67,
     "Buy Value": 8000,
-    "Present Value": 7981.57,
-    "P&L (%)": -0.22809018334940864,
-    "Allocation (%)": 3.01,
-    "Price Change (1D)": 6.84
+    "Present Value": 8047.54,
+    "P&L (%)": 0.5965435564523264,
+    "Allocation (%)": 3.03,
+    "Price Change (1D)": 7.73
   },
   {
     "Ticker": "AMZN",
     "Name": "Amazon.com Inc",
     "Qty": 56.54,
     "Avg Buy Price (P/S)": 194.55,
-    "LTP": 202.05,
+    "LTP": 202.29,
     "Buy Value": 11000,
-    "Present Value": 11423.9,
-    "P&L (%)": 3.855050115651503,
+    "Present Value": 11437.47,
+    "P&L (%)": 3.978411719352341,
     "Allocation (%)": 4.31,
-    "Price Change (1D)": 2.98
+    "Price Change (1D)": 3.1
   },
   {
     "Ticker": "NVO",
     "Name": "Novo Nordisk A/S",
     "Qty": 63.46,
     "Avg Buy Price (P/S)": 78.78,
-    "LTP": 75.22,
+    "LTP": 75.27,
     "Buy Value": 5000,
-    "Present Value": 4773.46,
-    "P&L (%)": -4.518913429804522,
+    "Present Value": 4776.63,
+    "P&L (%)": -4.455445544554462,
     "Allocation (%)": 1.8,
-    "Price Change (1D)": -2.13
+    "Price Change (1D)": -2.07
   },
   {
     "Ticker": "BOTZ",
     "Name": "Global X Robotics and Artificial Intelligence ETF",
     "Qty": 245.79,
     "Avg Buy Price (P/S)": 34.58,
-    "LTP": 30.56,
+    "LTP": 30.62,
     "Buy Value": 8500,
-    "Present Value": 7511.34,
-    "P&L (%)": -11.625216888374784,
+    "Present Value": 7526.08,
+    "P&L (%)": -11.451706188548288,
     "Allocation (%)": 2.84,
-    "Price Change (1D)": 0.73
+    "Price Change (1D)": 0.92
   },
   {
     "Ticker": "QQQM",
     "Name": "Invesco NASDAQ 100 ETF",
     "Qty": 184.02,
     "Avg Buy Price (P/S)": 211.13,
-    "LTP": 201.46,
+    "LTP": 201.74,
     "Buy Value": 38853,
-    "Present Value": 37072.66,
-    "P&L (%)": -4.580116515890677,
+    "Present Value": 37124.19,
+    "P&L (%)": -4.447496802917628,
     "Allocation (%)": 14.01,
-    "Price Change (1D)": 1.91
+    "Price Change (1D)": 2.05
   },
   {
     "Ticker": "XLK",
     "Name": "Technology Select Sector SPDR Fund",
     "Qty": 180.18,
     "Avg Buy Price (P/S)": 230.29,
-    "LTP": 217.34,
+    "LTP": 217.6,
     "Buy Value": 41495,
-    "Present Value": 39160.32,
-    "P&L (%)": -5.623344478700764,
+    "Present Value": 39207.16,
+    "P&L (%)": -5.510443354031872,
     "Allocation (%)": 14.8,
-    "Price Change (1D)": 1.76
+    "Price Change (1D)": 1.88
   },
   {
     "Ticker": "IYW",
     "Name": "iShares US Technology ETF",
     "Qty": 147.7,
     "Avg Buy Price (P/S)": 162.09,
-    "LTP": 149.05,
+    "LTP": 149.26,
     "Buy Value": 23942,
-    "Present Value": 22014.68,
-    "P&L (%)": -8.04491331976062,
+    "Present Value": 22045.7,
+    "P&L (%)": -7.91535566660498,
     "Allocation (%)": 8.32,
-    "Price Change (1D)": 1.93
+    "Price Change (1D)": 2.07
   },
   {
     "Ticker": "SOXX",
     "Name": "iShares Semiconductor ETF",
     "Qty": 87.59,
     "Avg Buy Price (P/S)": 219.28,
-    "LTP": 205.56,
+    "LTP": 205.67,
     "Buy Value": 19207,
-    "Present Value": 18005,
-    "P&L (%)": -6.256840569135351,
+    "Present Value": 18014.63,
+    "P&L (%)": -6.20667639547611,
     "Allocation (%)": 6.8,
-    "Price Change (1D)": 3.1
+    "Price Change (1D)": 3.15
   },
   {
     "Ticker": "FXI",
@@ -189,30 +189,30 @@
     "Present Value": 10994.03,
     "P&L (%)": -0.2448313384113066,
     "Allocation (%)": 4.15,
-    "Price Change (1D)": 0.29
+    "Price Change (1D)": 0.3
   },
   {
     "Ticker": "IJR",
     "Name": "iShares Core S&P Small-Cap ETF",
     "Qty": 47.12,
     "Avg Buy Price (P/S)": 106.11,
-    "LTP": 107.39,
+    "LTP": 107.73,
     "Buy Value": 5000,
-    "Present Value": 5060.21,
-    "P&L (%)": 1.206295353878052,
+    "Present Value": 5076.23,
+    "P&L (%)": 1.5267175572519127,
     "Allocation (%)": 1.91,
-    "Price Change (1D)": 1.92
+    "Price Change (1D)": 2.24
   },
   {
     "Ticker": "BTCUSD",
     "Name": "Bitcoin ",
     "Qty": 0.3,
     "Avg Buy Price (P/S)": 89890.82,
-    "LTP": 87922.46,
+    "LTP": 88403.95,
     "Buy Value": 27229,
-    "Present Value": 26640.5,
-    "P&L (%)": -2.1897230440216258,
-    "Allocation (%)": 10.07,
-    "Price Change (1D)": 2.2
+    "Present Value": 26786.39,
+    "P&L (%)": -1.6540843659007782,
+    "Allocation (%)": 10.11,
+    "Price Change (1D)": 0
   }
 ]
