@@ -15,8 +15,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 106.11,
     "Total Investment": 5000,
-    "Allocation": 1.91,
-    "Content": "Bought 47.12 shares of iShares Core S&P Small-Cap ETF (IJR) at an average price of $106.11 per share. Total Allocation changed to 1.91%",
+    "Allocation": 1.9,
+    "Content": "Bought 47.12 shares of iShares Core S&P Small-Cap ETF (IJR) at an average price of $106.11 per share. Total Allocation changed to 1.9%",
     "Date": "19/03/2025"
   },
   {
@@ -45,8 +45,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 194.87,
     "Total Investment": 4000,
-    "Allocation": 14.11,
-    "Content": "Bought 20.52 shares of Invesco NASDAQ 100 ETF (QQQM) at an average price of $194.87 per share. Total Allocation changed to 14.11%",
+    "Allocation": 14.1,
+    "Content": "Bought 20.52 shares of Invesco NASDAQ 100 ETF (QQQM) at an average price of $194.87 per share. Total Allocation changed to 14.1%",
     "Date": "10/03/2025"
   },
   {
@@ -85,8 +85,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 201.06,
     "Total Investment": 5000,
-    "Allocation": 14.11,
-    "Content": "Bought 24.86 shares of Invesco NASDAQ 100 ETF (QQQM) at an average price of $201.06 per share. Total Allocation changed to 14.11%",
+    "Allocation": 14.1,
+    "Content": "Bought 24.86 shares of Invesco NASDAQ 100 ETF (QQQM) at an average price of $201.06 per share. Total Allocation changed to 14.1%",
     "Date": "06/03/2025"
   },
   {
@@ -105,7 +105,7 @@
     "Buy or Sell": "Bought",
     "Average Price": 94325.63,
     "Total Investment": 27229,
-    "Allocation": 10,
+    "Allocation": 10.03,
     "Content": "Bought 0.303 Bitcoin (BTC) at an average price of $89890 per BTC. Total Allocation changed to 12.44%",
     "Date": "02/03/2025"
   },
