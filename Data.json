@@ -8,7 +8,7 @@
     "Buy Value": 4839,
     "Present Value": 4580.82,
     "P&L (%)": -5.334248160256149,
-    "Allocation (%)": 1.76,
+    "Allocation (%)": "#N/A",
     "Price Change (1D)": -3.18
   },
   {
@@ -20,7 +20,7 @@
     "Buy Value": 10000,
     "Present Value": 8258.06,
     "P&L (%)": -17.415626444752665,
-    "Allocation (%)": 3.19,
+    "Allocation (%)": "#N/A",
     "Price Change (1D)": -5.12
   },
   {
@@ -32,7 +32,7 @@
     "Buy Value": 5000,
     "Present Value": 5060.56,
     "P&L (%)": 1.213051592318335,
-    "Allocation (%)": 1.95,
+    "Allocation (%)": "#N/A",
     "Price Change (1D)": -0.06
   },
   {
@@ -44,7 +44,7 @@
     "Buy Value": 19970,
     "Present Value": 19044.45,
     "P&L (%)": -4.633214033550027,
-    "Allocation (%)": 7.35,
+    "Allocation (%)": "#N/A",
     "Price Change (1D)": -0.88
   },
   {
@@ -56,7 +56,7 @@
     "Buy Value": 13916,
     "Present Value": 12145.7,
     "P&L (%)": -12.710505212510013,
-    "Allocation (%)": 4.69,
+    "Allocation (%)": "#N/A",
     "Price Change (1D)": -1.86
   },
   {
@@ -68,7 +68,7 @@
     "Buy Value": 15000,
     "Present Value": 14449.05,
     "P&L (%)": -3.6710470538363698,
-    "Allocation (%)": 5.58,
+    "Allocation (%)": "#N/A",
     "Price Change (1D)": -5.86
   },
   {
@@ -80,7 +80,7 @@
     "Buy Value": 8000,
     "Present Value": 8077.74,
     "P&L (%)": 0.9737786965509849,
-    "Allocation (%)": 3.12,
+    "Allocation (%)": "#N/A",
     "Price Change (1D)": -2.28
   },
   {
@@ -92,7 +92,7 @@
     "Buy Value": 8000,
     "Present Value": 7695.93,
     "P&L (%)": -3.7985788227037443,
-    "Allocation (%)": 2.97,
+    "Allocation (%)": "#N/A",
     "Price Change (1D)": -4.49
   },
   {
@@ -104,7 +104,7 @@
     "Buy Value": 11000,
     "Present Value": 11418.25,
     "P&L (%)": 3.803649447442805,
-    "Allocation (%)": 4.41,
+    "Allocation (%)": "#N/A",
     "Price Change (1D)": -1.83
   },
   {
@@ -116,7 +116,7 @@
     "Buy Value": 5000,
     "Present Value": 4566.58,
     "P&L (%)": -8.657019548108666,
-    "Allocation (%)": 1.76,
+    "Allocation (%)": "#N/A",
     "Price Change (1D)": -2.23
   },
   {
@@ -128,7 +128,7 @@
     "Buy Value": 8500,
     "Present Value": 7385.98,
     "P&L (%)": -13.100057836899936,
-    "Allocation (%)": 2.85,
+    "Allocation (%)": "#N/A",
     "Price Change (1D)": -2.26
   },
   {
@@ -140,7 +140,7 @@
     "Buy Value": 38853,
     "Present Value": 36713.83,
     "P&L (%)": -5.503718088381568,
-    "Allocation (%)": 14.18,
+    "Allocation (%)": "#N/A",
     "Price Change (1D)": -1.78
   },
   {
@@ -152,7 +152,7 @@
     "Buy Value": 41495,
     "Present Value": 38432.39,
     "P&L (%)": -7.377654262017448,
-    "Allocation (%)": 14.84,
+    "Allocation (%)": "#N/A",
     "Price Change (1D)": -2.31
   },
   {
@@ -164,7 +164,7 @@
     "Buy Value": 23942,
     "Present Value": 21633.61,
     "P&L (%)": -9.636621629958668,
-    "Allocation (%)": 8.35,
+    "Allocation (%)": "#N/A",
     "Price Change (1D)": -2.42
   },
   {
@@ -176,7 +176,7 @@
     "Buy Value": 19207,
     "Present Value": 17259.6,
     "P&L (%)": -10.13772345859175,
-    "Allocation (%)": 6.66,
+    "Allocation (%)": "#N/A",
     "Price Change (1D)": -3.5
   },
   {
@@ -188,7 +188,7 @@
     "Buy Value": 11022,
     "Present Value": 10859.11,
     "P&L (%)": -1.4689880304678977,
-    "Allocation (%)": 4.19,
+    "Allocation (%)": "#N/A",
     "Price Change (1D)": -0.22
   },
   {
@@ -200,7 +200,7 @@
     "Buy Value": 5000,
     "Present Value": 5022.99,
     "P&L (%)": 0.4617849401564366,
-    "Allocation (%)": 1.94,
+    "Allocation (%)": "#N/A",
     "Price Change (1D)": -0.71
   },
   {
@@ -212,7 +212,7 @@
     "Buy Value": 27229,
     "Present Value": 26250.28,
     "P&L (%)": -3.6224054914617603,
-    "Allocation (%)": 10.14,
+    "Allocation (%)": "#N/A",
     "Price Change (1D)": -0.98
   }
 ]
