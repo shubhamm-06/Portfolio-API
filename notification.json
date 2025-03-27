@@ -1,5 +1,15 @@
 [
   {
+    "Ticker": "",
+    "TickerImg": "",
+    "Buy or Sell": "",
+    "Average Price": "#N/A",
+    "Total Investment": "",
+    "Allocation": "#N/A",
+    "Content": "#N/A",
+    "Date": ""
+  },
+  {
     "Ticker": "NVO",
     "TickerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3s3mvhhcsti4CfcfLtFOjWL1_HCVDZYl9Jw&s",
     "Buy or Sell": "Bought",
