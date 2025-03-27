@@ -1,7 +1,7 @@
 [
   {
     "Ticker": "GOOG",
-    "TickerImg": "",
+    "TickerImg": "https://s3-symbol-logo.tradingview.com/alphabet--600.png",
     "Buy or Sell": "Bought",
     "Average Price": 171.27,
     "Total Investment": 7000,
