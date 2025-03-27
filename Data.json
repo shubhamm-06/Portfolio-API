@@ -120,16 +120,16 @@
     "Price Change (1D)": -2.54
   },
   {
-    "Ticker": "",
-    "Name": "#N/A",
+    "Ticker": "GOOG",
+    "Name": "Alphabet Inc Class C",
     "Qty": 40.87,
     "Avg Buy Price (P/S)": 171.27,
-    "LTP": "#N/A",
+    "LTP": 167.14,
     "Buy Value": 7000,
     "Present Value": 6831.01,
-    "P&L (%)": "#N/A",
+    "P&L (%)": -2.4113972090850844,
     "Allocation (%)": 2.56,
-    "Price Change (1D)": "#N/A"
+    "Price Change (1D)": -3.27
   },
   {
     "Ticker": "BOTZ",
