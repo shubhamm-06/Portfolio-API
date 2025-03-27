@@ -120,6 +120,18 @@
     "Price Change (1D)": -2.54
   },
   {
+    "Ticker": "",
+    "Name": "#N/A",
+    "Qty": 40.87,
+    "Avg Buy Price (P/S)": 171.27,
+    "LTP": "#N/A",
+    "Buy Value": 7000,
+    "Present Value": 6831.01,
+    "P&L (%)": "#N/A",
+    "Allocation (%)": 2.56,
+    "Price Change (1D)": "#N/A"
+  },
+  {
     "Ticker": "BOTZ",
     "Name": "Global X Robotics and Artificial Intelligence ETF",
     "Qty": 245.79,
@@ -208,11 +220,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.3,
     "Avg Buy Price (P/S)": 89890.82,
-    "LTP": 87644.71,
+    "LTP": 87684.23,
     "Buy Value": 27229,
-    "Present Value": 26556.34,
-    "P&L (%)": -2.498708989416272,
-    "Allocation (%)": 9.97,
-    "Price Change (1D)": 0.82
+    "Present Value": 26568.32,
+    "P&L (%)": -2.45474454454861,
+    "Allocation (%)": 9.98,
+    "Price Change (1D)": 0.87
   }
 ]
