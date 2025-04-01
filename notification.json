@@ -1,5 +1,15 @@
 [
   {
+    "Ticker": "ASML",
+    "TickerImg": "",
+    "Buy or Sell": "",
+    "Average Price": "",
+    "Total Investment": "",
+    "Allocation": 1.69,
+    "Content": "#DIV/0!",
+    "Date": ""
+  },
+  {
     "Ticker": "GOOG",
     "TickerImg": "https://s3-symbol-logo.tradingview.com/alphabet--600.png",
     "Buy or Sell": "Bought",
