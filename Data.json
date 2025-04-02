@@ -8,7 +8,7 @@
     "Buy Value": 10839,
     "Present Value": 10390.48,
     "P&L (%)": -4.137098859424822,
-    "Allocation (%)": 3.94,
+    "Allocation (%)": 3.4,
     "Price Change (1D)": 0.71
   },
   {
@@ -20,7 +20,7 @@
     "Buy Value": 10000,
     "Present Value": 7790.67,
     "P&L (%)": -22.08969024503005,
-    "Allocation (%)": 2.95,
+    "Allocation (%)": 2.55,
     "Price Change (1D)": 0.65
   },
   {
@@ -32,19 +32,19 @@
     "Buy Value": 5000,
     "Present Value": 5203.23,
     "P&L (%)": 4.066582385166453,
-    "Allocation (%)": 1.97,
+    "Allocation (%)": 1.7,
     "Price Change (1D)": 0.05
   },
   {
     "Ticker": "MSFT",
     "Name": "Microsoft Corp",
-    "Qty": 48.62,
-    "Avg Buy Price (P/S)": 410.73,
+    "Qty": 61.93,
+    "Avg Buy Price (P/S)": 403.19,
     "LTP": 382.19,
-    "Buy Value": 19970,
-    "Present Value": 18582.07,
-    "P&L (%)": -6.948603705597356,
-    "Allocation (%)": 7.05,
+    "Buy Value": 24970,
+    "Present Value": 23669.02,
+    "P&L (%)": -5.208462511471019,
+    "Allocation (%)": 7.76,
     "Price Change (1D)": 1.81
   },
   {
@@ -56,7 +56,7 @@
     "Buy Value": 13916,
     "Present Value": 12043.41,
     "P&L (%)": -13.44560278000533,
-    "Allocation (%)": 4.57,
+    "Allocation (%)": 3.95,
     "Price Change (1D)": 2.02
   },
   {
@@ -68,7 +68,7 @@
     "Buy Value": 15000,
     "Present Value": 14007.77,
     "P&L (%)": -6.612971598134801,
-    "Allocation (%)": 5.31,
+    "Allocation (%)": 4.59,
     "Price Change (1D)": 1.63
   },
   {
@@ -80,7 +80,7 @@
     "Buy Value": 8000,
     "Present Value": 7455.41,
     "P&L (%)": -6.8055706669568,
-    "Allocation (%)": 2.83,
+    "Allocation (%)": 2.44,
     "Price Change (1D)": 0.39
   },
   {
@@ -92,44 +92,56 @@
     "Buy Value": 8000,
     "Present Value": 7213.1,
     "P&L (%)": -9.834195982103688,
-    "Allocation (%)": 2.73,
+    "Allocation (%)": 2.36,
     "Price Change (1D)": 0.04
   },
   {
     "Ticker": "AMZN",
     "Name": "Amazon.com Inc",
-    "Qty": 56.54,
-    "Avg Buy Price (P/S)": 194.55,
+    "Qty": 82.81,
+    "Avg Buy Price (P/S)": 193.21,
     "LTP": 192.17,
-    "Buy Value": 11000,
-    "Present Value": 10865.29,
-    "P&L (%)": -1.223335903366756,
-    "Allocation (%)": 4.12,
+    "Buy Value": 16000,
+    "Present Value": 15913.59,
+    "P&L (%)": -0.5382744164380832,
+    "Allocation (%)": 5.22,
     "Price Change (1D)": 1
   },
   {
     "Ticker": "NVO",
     "Name": "Novo Nordisk A/S",
-    "Qty": 63.46,
-    "Avg Buy Price (P/S)": 78.78,
+    "Qty": 164.26,
+    "Avg Buy Price (P/S)": 73.05,
     "LTP": 68.03,
-    "Buy Value": 5000,
-    "Present Value": 4317.18,
-    "P&L (%)": -13.645595328763646,
-    "Allocation (%)": 1.63,
+    "Buy Value": 12000,
+    "Present Value": 11174.6,
+    "P&L (%)": -6.8720054757015685,
+    "Allocation (%)": 3.66,
     "Price Change (1D)": -2.03
   },
   {
-    "Ticker": "GOOG",
-    "Name": "Alphabet Inc Class C",
-    "Qty": 40.87,
-    "Avg Buy Price (P/S)": 171.27,
-    "LTP": 158.88,
-    "Buy Value": 7000,
-    "Present Value": 6493.42,
-    "P&L (%)": -7.234191627255219,
-    "Allocation (%)": 2.46,
-    "Price Change (1D)": 1.7
+    "Ticker": "GOOGL",
+    "Name": "Alphabet Inc Class A",
+    "Qty": 94.28,
+    "Avg Buy Price (P/S)": 159.1,
+    "LTP": 157.07,
+    "Buy Value": 15000,
+    "Present Value": 14808.55,
+    "P&L (%)": -1.275927089880579,
+    "Allocation (%)": 4.85,
+    "Price Change (1D)": 1.57
+  },
+  {
+    "Ticker": "META",
+    "Name": "Meta Platforms Inc",
+    "Qty": 13.88,
+    "Avg Buy Price (P/S)": 576.36,
+    "LTP": 586,
+    "Buy Value": 8000,
+    "Present Value": 8133.68,
+    "P&L (%)": 1.6725657575126631,
+    "Allocation (%)": 2.66,
+    "Price Change (1D)": 1.67
   },
   {
     "Ticker": "BOTZ",
@@ -140,19 +152,19 @@
     "Buy Value": 8500,
     "Present Value": 7036.96,
     "P&L (%)": -17.20647773279352,
-    "Allocation (%)": 2.67,
+    "Allocation (%)": 2.3,
     "Price Change (1D)": 0.6
   },
   {
     "Ticker": "QQQM",
     "Name": "Invesco NASDAQ 100 ETF",
-    "Qty": 184.02,
-    "Avg Buy Price (P/S)": 211.13,
+    "Qty": 225.46,
+    "Avg Buy Price (P/S)": 207.81,
     "LTP": 194.6,
-    "Buy Value": 38853,
-    "Present Value": 35810.29,
-    "P&L (%)": -7.829299483730404,
-    "Allocation (%)": 13.6,
+    "Buy Value": 46853,
+    "Present Value": 43874.51,
+    "P&L (%)": -6.356768201722732,
+    "Allocation (%)": 14.39,
     "Price Change (1D)": 0.82
   },
   {
@@ -164,7 +176,7 @@
     "Buy Value": 41495,
     "Present Value": 37475.63,
     "P&L (%)": -9.683442615832206,
-    "Allocation (%)": 14.23,
+    "Allocation (%)": 12.29,
     "Price Change (1D)": 0.73
   },
   {
@@ -176,7 +188,7 @@
     "Buy Value": 23942,
     "Present Value": 20952.72,
     "P&L (%)": -12.480720587328022,
-    "Allocation (%)": 7.95,
+    "Allocation (%)": 6.87,
     "Price Change (1D)": 1.01
   },
   {
@@ -188,7 +200,7 @@
     "Buy Value": 19207,
     "Present Value": 16490.56,
     "P&L (%)": -14.141736592484492,
-    "Allocation (%)": 6.26,
+    "Allocation (%)": 5.41,
     "Price Change (1D)": 0.05
   },
   {
@@ -200,7 +212,7 @@
     "Buy Value": 11022,
     "Present Value": 10721.2,
     "P&L (%)": -2.720348204570185,
-    "Allocation (%)": 4.07,
+    "Allocation (%)": 3.51,
     "Price Change (1D)": -0.22
   },
   {
@@ -212,7 +224,7 @@
     "Buy Value": 5000,
     "Present Value": 4938.17,
     "P&L (%)": -1.23456790123457,
-    "Allocation (%)": 1.87,
+    "Allocation (%)": 1.62,
     "Price Change (1D)": 0.22
   },
   {
@@ -220,11 +232,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.3,
     "Avg Buy Price (P/S)": 89890.82,
-    "LTP": 84220.74,
+    "LTP": 84169.48,
     "Buy Value": 27229,
-    "Present Value": 25518.88,
-    "P&L (%)": -6.307740879435745,
-    "Allocation (%)": 9.69,
-    "Price Change (1D)": -1.15
+    "Present Value": 25503.35,
+    "P&L (%)": -6.364765612328389,
+    "Allocation (%)": 8.36,
+    "Price Change (1D)": -1.21
   }
 ]
