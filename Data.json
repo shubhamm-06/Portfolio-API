@@ -33,7 +33,7 @@
     "Present Value": 5254.55,
     "P&L (%)": 5.093010655589657,
     "Allocation (%)": 1.82,
-    "Price Change (1D)": 0.61
+    "Price Change (1D)": 0.58
   },
   {
     "Ticker": "MSFT",
@@ -44,7 +44,7 @@
     "Buy Value": 24970,
     "Present Value": 23106.7,
     "P&L (%)": -7.46050249262134,
-    "Allocation (%)": 8.02,
+    "Allocation (%)": 8.01,
     "Price Change (1D)": -2.36
   },
   {
@@ -176,7 +176,7 @@
     "Buy Value": 41495,
     "Present Value": 35176.54,
     "P&L (%)": -15.224282426505711,
-    "Allocation (%)": 12.21,
+    "Allocation (%)": 12.2,
     "Price Change (1D)": -6.82
   },
   {
@@ -232,11 +232,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.3,
     "Avg Buy Price (P/S)": 89890.82,
-    "LTP": 82363.2,
+    "LTP": 82462.16,
     "Buy Value": 27229,
-    "Present Value": 24956.04,
-    "P&L (%)": -8.374181034281374,
-    "Allocation (%)": 8.66,
+    "Present Value": 24986.03,
+    "P&L (%)": -8.264091928408265,
+    "Allocation (%)": 8.67,
     "Price Change (1D)": "-"
   }
 ]
