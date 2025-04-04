@@ -5,8 +5,8 @@
     "Buy or Sell": "Bought ",
     "Average Price": 186.42,
     "Total Investment": 12975,
-    "Allocation": 16.65,
-    "Content": "Bought  69.6 shares of Invesco NASDAQ 100 ETF (QQQM) at an average price of $186.42 per share. Total Allocation changed to 16.65%",
+    "Allocation": 16.64,
+    "Content": "Bought  69.6 shares of Invesco NASDAQ 100 ETF (QQQM) at an average price of $186.42 per share. Total Allocation changed to 16.64%",
     "Date": "03/03/2025"
   },
   {
@@ -53,10 +53,10 @@
     "Ticker": "ASML",
     "TickerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx72B79u6LaENX_yULKgk2-yGRb9F0rOLHbg&s",
     "Buy or Sell": "Bought",
-    "Average Price": "#N/A",
+    "Average Price": 662.63,
     "Total Investment": 6000,
     "Allocation": 2.94,
-    "Content": "#N/A",
+    "Content": "Bought 9.05 shares of ASML Holding NV (ASML) at an average price of $662.63 per share. Total Allocation changed to 2.94%",
     "Date": "31/03/2025"
   },
   {
@@ -65,8 +65,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 193.02,
     "Total Investment": 8000,
-    "Allocation": 16.65,
-    "Content": "Bought 41.44 shares of Invesco NASDAQ 100 ETF (QQQM) at an average price of $193.02 per share. Total Allocation changed to 16.65%",
+    "Allocation": 16.64,
+    "Content": "Bought 41.44 shares of Invesco NASDAQ 100 ETF (QQQM) at an average price of $193.02 per share. Total Allocation changed to 16.64%",
     "Date": "31/03/2025"
   },
   {
@@ -83,40 +83,40 @@
     "Ticker": "NVO",
     "TickerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3s3mvhhcsti4CfcfLtFOjWL1_HCVDZYl9Jw&s",
     "Buy or Sell": "Bought",
-    "Average Price": "#N/A",
+    "Average Price": 69.44,
     "Total Investment": 7000,
-    "Allocation": 3.35,
-    "Content": "#N/A",
+    "Allocation": 3.34,
+    "Content": "Bought 100.8 shares of Novo Nordisk A/S (NVO) at an average price of $69.44 per share. Total Allocation changed to 3.34%",
     "Date": "31/03/2025"
   },
   {
     "Ticker": "MSFT",
     "TickerImg": "https://images.seeklogo.com/logo-png/16/1/microsoft-logo-png_seeklogo-168319.png",
     "Buy or Sell": "Bought",
-    "Average Price": "#N/A",
+    "Average Price": 375.39,
     "Total Investment": 5000,
     "Allocation": 7.02,
-    "Content": "#N/A",
+    "Content": "Bought 13.31 shares of Microsoft Corp (MSFT) at an average price of $375.39 per share. Total Allocation changed to 7.02%",
     "Date": "31/03/2025"
   },
   {
     "Ticker": "META",
     "TickerImg": "https://blog.logomyway.com/wp-content/uploads/2021/11/meta-logo.png",
     "Buy or Sell": "Bought",
-    "Average Price": "#N/A",
+    "Average Price": 576.36,
     "Total Investment": 8000,
     "Allocation": 5.24,
-    "Content": "#N/A",
+    "Content": "Bought 13.88 shares of Meta Platforms Inc (META) at an average price of $576.36 per share. Total Allocation changed to 5.24%",
     "Date": "31/03/2025"
   },
   {
     "Ticker": "AMZN",
     "TickerImg": "https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/amazon-512.png",
     "Buy or Sell": "Bought",
-    "Average Price": "#N/A",
+    "Average Price": 190.26,
     "Total Investment": 5000,
     "Allocation": 6.3,
-    "Content": "#N/A",
+    "Content": "Bought 26.27 shares of Amazon.com Inc (AMZN) at an average price of $190.26 per share. Total Allocation changed to 6.3%",
     "Date": "31/03/2025"
   },
   {
@@ -133,10 +133,10 @@
     "Ticker": "NVO",
     "TickerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3s3mvhhcsti4CfcfLtFOjWL1_HCVDZYl9Jw&s",
     "Buy or Sell": "Bought",
-    "Average Price": "#N/A",
+    "Average Price": 78.79,
     "Total Investment": 5000,
-    "Allocation": 3.35,
-    "Content": "#N/A",
+    "Allocation": 3.34,
+    "Content": "Bought 63.45 shares of Novo Nordisk A/S (NVO) at an average price of $78.79 per share. Total Allocation changed to 3.34%",
     "Date": "20/03/2025"
   },
   {
@@ -153,10 +153,10 @@
     "Ticker": "XLK",
     "TickerImg": "https://g.foolcdn.com/art/companylogos/square/spy.png",
     "Buy or Sell": "Bought",
-    "Average Price": "#N/A",
+    "Average Price": 215.43,
     "Total Investment": 5999,
     "Allocation": 10.69,
-    "Content": "#N/A",
+    "Content": "Bought 27.84 shares of Technology Select Sector SPDR Fund (XLK) at an average price of $215.43 per share. Total Allocation changed to 10.69%",
     "Date": "17/03/2025"
   },
   {
@@ -175,58 +175,58 @@
     "Buy or Sell": "Bought",
     "Average Price": 194.87,
     "Total Investment": 4000,
-    "Allocation": 16.65,
-    "Content": "Bought 20.52 shares of Invesco NASDAQ 100 ETF (QQQM) at an average price of $194.87 per share. Total Allocation changed to 16.65%",
+    "Allocation": 16.64,
+    "Content": "Bought 20.52 shares of Invesco NASDAQ 100 ETF (QQQM) at an average price of $194.87 per share. Total Allocation changed to 16.64%",
     "Date": "10/03/2025"
   },
   {
     "Ticker": "AMZN",
     "TickerImg": "https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/amazon-512.png",
     "Buy or Sell": "Bought",
-    "Average Price": "#N/A",
+    "Average Price": 194.54,
     "Total Investment": 11000,
     "Allocation": 6.3,
-    "Content": "#N/A",
+    "Content": "Bought 56.54 shares of Amazon.com Inc (AMZN) at an average price of $194.54 per share. Total Allocation changed to 6.3%",
     "Date": "10/03/2025"
   },
   {
     "Ticker": "FXI",
     "TickerImg": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/072015/ishares_by_blackrock.png?itok=PTkpmJEu",
     "Buy or Sell": "Bought",
-    "Average Price": "#N/A",
+    "Average Price": 36.97,
     "Total Investment": 6759,
     "Allocation": 3.2,
-    "Content": "#N/A",
+    "Content": "Bought 182.82 shares of iShares China Large-Cap ETF (FXI) at an average price of $36.97 per share. Total Allocation changed to 3.2%",
     "Date": "06/03/2025"
   },
   {
     "Ticker": "AVGO",
     "TickerImg": "https://s.yimg.com/uu/api/res/1.2/5yTX_hi82kkMF.pyKrq02w--~B/aD00MDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/us.finance.gurufocus/af6ba755dda68906b5bf581711656523.cf.webp",
     "Buy or Sell": "Bought",
-    "Average Price": "#N/A",
+    "Average Price": 179.45,
     "Total Investment": 3000,
     "Allocation": 2.16,
-    "Content": "#N/A",
+    "Content": "Bought 16.71 shares of Broadcom Inc (AVGO) at an average price of $179.45 per share. Total Allocation changed to 2.16%",
     "Date": "06/03/2025"
   },
   {
     "Ticker": "QQQM",
     "TickerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQytaKH3k45hW8zmw_fmq3jrT42KRRxcuMePA&s",
     "Buy or Sell": "Bought",
-    "Average Price": "#N/A",
+    "Average Price": 201.06,
     "Total Investment": 5000,
-    "Allocation": 16.65,
-    "Content": "#N/A",
+    "Allocation": 16.64,
+    "Content": "Bought 24.86 shares of Invesco NASDAQ 100 ETF (QQQM) at an average price of $201.06 per share. Total Allocation changed to 16.64%",
     "Date": "06/03/2025"
   },
   {
     "Ticker": "XLK",
     "TickerImg": "https://g.foolcdn.com/art/companylogos/square/spy.png",
     "Buy or Sell": "Bought",
-    "Average Price": "#N/A",
+    "Average Price": 215.42,
     "Total Investment": 5000,
     "Allocation": 10.69,
-    "Content": "#N/A",
+    "Content": "Bought 23.21 shares of Technology Select Sector SPDR Fund (XLK) at an average price of $215.42 per share. Total Allocation changed to 10.69%",
     "Date": "06/03/2025"
   },
   {
@@ -235,7 +235,7 @@
     "Buy or Sell": "Bought",
     "Average Price": 85812.15,
     "Total Investment": 27229,
-    "Allocation": 7.75,
+    "Allocation": 7.77,
     "Content": "Bought 0.303 Bitcoin (BTC) at an average price of $89890 per BTC. Total Allocation changed to 12.44%",
     "Date": "02/03/2025"
   },
@@ -243,10 +243,10 @@
     "Ticker": "FXI",
     "TickerImg": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/072015/ishares_by_blackrock.png?itok=PTkpmJEu",
     "Buy or Sell": "Bought",
-    "Average Price": "#N/A",
+    "Average Price": 36.44,
     "Total Investment": 4263,
     "Allocation": 3.2,
-    "Content": "#N/A",
+    "Content": "Bought 116.98 shares of iShares China Large-Cap ETF (FXI) at an average price of $36.44 per share. Total Allocation changed to 3.2%",
     "Date": "26/02/2025"
   },
   {
@@ -263,20 +263,20 @@
     "Ticker": "MSFT",
     "TickerImg": "https://images.seeklogo.com/logo-png/16/1/microsoft-logo-png_seeklogo-168319.png",
     "Buy or Sell": "Bought",
-    "Average Price": "#N/A",
+    "Average Price": 414.77,
     "Total Investment": 6000,
     "Allocation": 7.02,
-    "Content": "#N/A",
+    "Content": "Bought 14.46 shares of Microsoft Corp (MSFT) at an average price of $414.77 per share. Total Allocation changed to 7.02%",
     "Date": "19/02/2025"
   },
   {
     "Ticker": "AMD",
     "TickerImg": "https://brandlogos.net/wp-content/uploads/2012/03/amd-vector.jpg",
     "Buy or Sell": "Bought",
-    "Average Price": "#N/A",
+    "Average Price": 111.72,
     "Total Investment": 8000,
     "Allocation": 2,
-    "Content": "#N/A",
+    "Content": "Bought 71.6 shares of Advanced Micro Devices Inc (AMD) at an average price of $111.72 per share. Total Allocation changed to 2%",
     "Date": "12/02/2025"
   }
 ]
