@@ -183,11 +183,11 @@
     "Ticker": "QQQM",
     "Name": "Invesco NASDAQ 100 ETF",
     "Qty": 419.97,
-    "Avg Buy Price (P/S)": 155.14,
+    "Avg Buy Price (P/S)": 195.26,
     "LTP": 174.28,
-    "Buy Value": 65155,
+    "Buy Value": 82004,
     "Present Value": 73192.37,
-    "P&L (%)": 12.337243779811793,
+    "P&L (%)": -10.744648161425786,
     "Allocation (%)": 17.37,
     "Price Change (1D)": -6.11
   },
@@ -268,11 +268,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.3,
     "Avg Buy Price (P/S)": 89890.82,
-    "LTP": 83914.86,
+    "LTP": 83860.33,
     "Buy Value": 27229,
-    "Present Value": 25426.2,
-    "P&L (%)": -6.648020342900428,
+    "Present Value": 25409.67,
+    "P&L (%)": -6.708682822116881,
     "Allocation (%)": 6.03,
-    "Price Change (1D)": 0.07
+    "Price Change (1D)": 0.01
   }
 ]
