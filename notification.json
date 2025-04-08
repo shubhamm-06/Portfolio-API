@@ -15,8 +15,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 499.58,
     "Total Investment": 9000,
-    "Allocation": 9.08,
-    "Content": "Bought 18.01 shares of iShares Core S&P 500 ETF (IVV) at an average price of $499.58 per share. Total Allocation changed to 9.08%",
+    "Allocation": 9.07,
+    "Content": "Bought 18.01 shares of iShares Core S&P 500 ETF (IVV) at an average price of $499.58 per share. Total Allocation changed to 9.07%",
     "Date": "07/04/2025"
   },
   {
@@ -85,8 +85,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 515.99,
     "Total Investment": 15000,
-    "Allocation": 9.08,
-    "Content": "Bought 29.07 shares of iShares Core S&P 500 ETF (IVV) at an average price of $515.99 per share. Total Allocation changed to 9.08%",
+    "Allocation": 9.07,
+    "Content": "Bought 29.07 shares of iShares Core S&P 500 ETF (IVV) at an average price of $515.99 per share. Total Allocation changed to 9.07%",
     "Date": "04/04/2025"
   },
   {
@@ -435,7 +435,7 @@
     "Buy or Sell": "Bought",
     "Average Price": 85812.15,
     "Total Investment": 27229,
-    "Allocation": 4.94,
+    "Allocation": 4.95,
     "Content": "Bought 0.303 Bitcoin (BTC) at an average price of $89890 per BTC. Total Allocation changed to 12.44%",
     "Date": "02/03/2025"
   },
