@@ -44,7 +44,7 @@
     "Buy Value": 32970,
     "Present Value": 29995.77,
     "P&L (%)": -9.019527340843187,
-    "Allocation (%)": 6.01,
+    "Allocation (%)": 6.02,
     "Price Change (1D)": -0.92
   },
   {
@@ -80,7 +80,7 @@
     "Buy Value": 13175,
     "Present Value": 11615.15,
     "P&L (%)": -11.837466042425287,
-    "Allocation (%)": 2.32,
+    "Allocation (%)": 2.33,
     "Price Change (1D)": 0.06
   },
   {
@@ -116,7 +116,7 @@
     "Buy Value": 18000,
     "Present Value": 16098.54,
     "P&L (%)": -10.556120226513725,
-    "Allocation (%)": 3.22,
+    "Allocation (%)": 3.23,
     "Price Change (1D)": -3.21
   },
   {
@@ -128,7 +128,7 @@
     "Buy Value": 35000,
     "Present Value": 33353.35,
     "P&L (%)": -4.7023182297155,
-    "Allocation (%)": 6.68,
+    "Allocation (%)": 6.69,
     "Price Change (1D)": -1.4
   },
   {
@@ -140,7 +140,7 @@
     "Buy Value": 32000,
     "Present Value": 31601.95,
     "P&L (%)": -1.2420918219281474,
-    "Allocation (%)": 6.33,
+    "Allocation (%)": 6.34,
     "Price Change (1D)": -1.12
   },
   {
@@ -212,7 +212,7 @@
     "Buy Value": 91004,
     "Present Value": 81010.49,
     "P&L (%)": -10.979536719642665,
-    "Allocation (%)": 16.24,
+    "Allocation (%)": 16.25,
     "Price Change (1D)": -1.78
   },
   {
@@ -260,7 +260,7 @@
     "Buy Value": 27882,
     "Present Value": 22174.76,
     "P&L (%)": -20.466334548816185,
-    "Allocation (%)": 4.44,
+    "Allocation (%)": 4.45,
     "Price Change (1D)": -3.97
   },
   {
@@ -272,7 +272,7 @@
     "Buy Value": 11022,
     "Present Value": 8871.37,
     "P&L (%)": -19.504896626768222,
-    "Allocation (%)": 1.77,
+    "Allocation (%)": 1.78,
     "Price Change (1D)": -1.37
   },
   {
@@ -292,11 +292,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.44,
     "Avg Buy Price (P/S)": 89890.82,
-    "LTP": 77422.76,
+    "LTP": 76499.63,
     "Buy Value": 38274,
-    "Present Value": 34607.97,
-    "P&L (%)": -13.870226125426392,
-    "Allocation (%)": 6.93,
-    "Price Change (1D)": 1.5
+    "Present Value": 34195.33,
+    "P&L (%)": -14.897171924786093,
+    "Allocation (%)": 6.86,
+    "Price Change (1D)": 0.29
   }
 ]
