@@ -20,7 +20,7 @@
     "Buy Value": 16000,
     "Present Value": 16296.9,
     "P&L (%)": 1.8594927655828768,
-    "Allocation (%)": 2.88,
+    "Allocation (%)": 2.87,
     "Price Change (1D)": 18.66
   },
   {
@@ -57,7 +57,7 @@
     "Present Value": 11031.74,
     "P&L (%)": -20.71638599304998,
     "Allocation (%)": 1.94,
-    "Price Change (1D)": 11.36
+    "Price Change (1D)": 11.32
   },
   {
     "Ticker": "NVDA",
@@ -224,7 +224,7 @@
     "Buy Value": 51068,
     "Present Value": 54549.18,
     "P&L (%)": 6.818804020493567,
-    "Allocation (%)": 9.64,
+    "Allocation (%)": 9.63,
     "Price Change (1D)": 9.51
   },
   {
@@ -236,7 +236,7 @@
     "Buy Value": 41495,
     "Present Value": 36731.49,
     "P&L (%)": -11.476833557688124,
-    "Allocation (%)": 6.49,
+    "Allocation (%)": 6.48,
     "Price Change (1D)": 13.43
   },
   {
@@ -291,12 +291,12 @@
     "Ticker": "BTCUSD",
     "Name": "Bitcoin ",
     "Qty": 0.44,
-    "Avg Buy Price (P/S)": 89890.82,
-    "LTP": 82986.36,
+    "Avg Buy Price (P/S)": 85624.16,
+    "LTP": 83326.45,
     "Buy Value": 38274,
-    "Present Value": 37094.9,
-    "P&L (%)": -7.680940055947877,
-    "Allocation (%)": 6.55,
-    "Price Change (1D)": 0.25
+    "Present Value": 37246.92,
+    "P&L (%)": -2.68348325986498,
+    "Allocation (%)": 6.58,
+    "Price Change (1D)": 0.66
   }
 ]
