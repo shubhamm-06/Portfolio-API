@@ -2,13 +2,13 @@
   {
     "Ticker": "ASML",
     "Name": "ASML Holding NV",
-    "Qty": 25.44,
-    "Avg Buy Price (P/S)": 661.91,
+    "Qty": 28.39,
+    "Avg Buy Price (P/S)": 663.55,
     "LTP": 672.87,
-    "Buy Value": 16839,
-    "Present Value": 17117.81,
-    "P&L (%)": 1.655814234563617,
-    "Allocation (%)": 3.04,
+    "Buy Value": 18839,
+    "Present Value": 19103.45,
+    "P&L (%)": 1.40456634767539,
+    "Allocation (%)": 3.24,
     "Price Change (1D)": 0.61
   },
   {
@@ -20,7 +20,7 @@
     "Buy Value": 16000,
     "Present Value": 15699.24,
     "P&L (%)": -1.8759971392418973,
-    "Allocation (%)": 2.79,
+    "Allocation (%)": 2.66,
     "Price Change (1D)": -1.97
   },
   {
@@ -32,7 +32,7 @@
     "Buy Value": 5000,
     "Present Value": 5126.33,
     "P&L (%)": 2.5284450063211055,
-    "Allocation (%)": 0.91,
+    "Allocation (%)": 0.87,
     "Price Change (1D)": 2.17
   },
   {
@@ -44,7 +44,7 @@
     "Buy Value": 32970,
     "Present Value": 32808.72,
     "P&L (%)": -0.4875420184239505,
-    "Allocation (%)": 5.84,
+    "Allocation (%)": 5.57,
     "Price Change (1D)": -0.16
   },
   {
@@ -56,7 +56,7 @@
     "Buy Value": 13916,
     "Present Value": 10304.59,
     "P&L (%)": -25.942261427425823,
-    "Allocation (%)": 1.83,
+    "Allocation (%)": 1.75,
     "Price Change (1D)": 1.88
   },
   {
@@ -68,7 +68,7 @@
     "Buy Value": 16570,
     "Present Value": 15912.34,
     "P&L (%)": -3.9642609299097917,
-    "Allocation (%)": 2.83,
+    "Allocation (%)": 2.7,
     "Price Change (1D)": -0.2
   },
   {
@@ -80,7 +80,7 @@
     "Buy Value": 13175,
     "Present Value": 12943.97,
     "P&L (%)": -1.7513438529564773,
-    "Allocation (%)": 2.3,
+    "Allocation (%)": 2.19,
     "Price Change (1D)": 0.97
   },
   {
@@ -92,7 +92,7 @@
     "Buy Value": 8000,
     "Present Value": 6632.01,
     "P&L (%)": -17.097991051846652,
-    "Allocation (%)": 1.18,
+    "Allocation (%)": 1.12,
     "Price Change (1D)": 1.18
   },
   {
@@ -104,7 +104,7 @@
     "Buy Value": 28000,
     "Present Value": 28011.87,
     "P&L (%)": 0.043946385409806915,
-    "Allocation (%)": 4.99,
+    "Allocation (%)": 4.76,
     "Price Change (1D)": -1.49
   },
   {
@@ -116,7 +116,7 @@
     "Buy Value": 18000,
     "Present Value": 17264.12,
     "P&L (%)": -4.080151009147673,
-    "Allocation (%)": 3.07,
+    "Allocation (%)": 2.93,
     "Price Change (1D)": 2.05
   },
   {
@@ -128,7 +128,7 @@
     "Buy Value": 35000,
     "Present Value": 36665.63,
     "P&L (%)": 4.761591148577443,
-    "Allocation (%)": 6.53,
+    "Allocation (%)": 6.23,
     "Price Change (1D)": 1.23
   },
   {
@@ -140,7 +140,7 @@
     "Buy Value": 32000,
     "Present Value": 32903.92,
     "P&L (%)": 2.8266295199953593,
-    "Allocation (%)": 5.86,
+    "Allocation (%)": 5.59,
     "Price Change (1D)": -2.22
   },
   {
@@ -152,7 +152,7 @@
     "Buy Value": 6000,
     "Present Value": 7179.39,
     "P&L (%)": 19.658713856849435,
-    "Allocation (%)": 1.27,
+    "Allocation (%)": 1.21,
     "Price Change (1D)": 0.2
   },
   {
@@ -164,19 +164,19 @@
     "Buy Value": 16000,
     "Present Value": 17303.18,
     "P&L (%)": 8.145017070395056,
-    "Allocation (%)": 3.08,
+    "Allocation (%)": 2.94,
     "Price Change (1D)": 1.41
   },
   {
     "Ticker": "MELI",
     "Name": "MercadoLibre Inc",
-    "Qty": 3.27,
-    "Avg Buy Price (P/S)": 1834.86,
+    "Qty": 4.72,
+    "Avg Buy Price (P/S)": 1906.77,
     "LTP": 2037.12,
-    "Buy Value": 6000,
-    "Present Value": 6661.38,
-    "P&L (%)": 11.02318433013963,
-    "Allocation (%)": 1.18,
+    "Buy Value": 9000,
+    "Present Value": 9615.2,
+    "P&L (%)": 6.83616796991771,
+    "Allocation (%)": 1.63,
     "Price Change (1D)": 2.01
   },
   {
@@ -188,7 +188,7 @@
     "Buy Value": 8150,
     "Present Value": 9572.49,
     "P&L (%)": 17.45737153462477,
-    "Allocation (%)": 1.7,
+    "Allocation (%)": 1.62,
     "Price Change (1D)": 2.21
   },
   {
@@ -200,31 +200,31 @@
     "Buy Value": 8500,
     "Present Value": 6646.16,
     "P&L (%)": -21.804511278195488,
-    "Allocation (%)": 1.18,
+    "Allocation (%)": 1.12,
     "Price Change (1D)": 0.63
   },
   {
     "Ticker": "QQQM",
     "Name": "Invesco NASDAQ 100 ETF",
-    "Qty": 472.64,
-    "Avg Buy Price (P/S)": 192.54,
+    "Qty": 489.59,
+    "Avg Buy Price (P/S)": 192.44,
     "LTP": 188.42,
-    "Buy Value": 91004,
-    "Present Value": 89054.82,
-    "P&L (%)": -2.1398151033551494,
-    "Allocation (%)": 15.86,
+    "Buy Value": 94219,
+    "Present Value": 92249.67,
+    "P&L (%)": -2.08896279359801,
+    "Allocation (%)": 15.67,
     "Price Change (1D)": 0.75
   },
   {
     "Ticker": "IVV",
     "Name": "iShares Core S&P 500 ETF",
-    "Qty": 99.86,
-    "Avg Buy Price (P/S)": 511.38,
+    "Qty": 112.72,
+    "Avg Buy Price (P/S)": 515.14,
     "LTP": 541.52,
-    "Buy Value": 51068,
-    "Present Value": 54076.84,
-    "P&L (%)": 5.893855841057528,
-    "Allocation (%)": 9.63,
+    "Buy Value": 58068,
+    "Present Value": 61040.78,
+    "P&L (%)": 5.120937997437589,
+    "Allocation (%)": 10.37,
     "Price Change (1D)": 0.85
   },
   {
@@ -236,7 +236,7 @@
     "Buy Value": 41495,
     "Present Value": 36064.82,
     "P&L (%)": -13.083503408745493,
-    "Allocation (%)": 6.42,
+    "Allocation (%)": 6.12,
     "Price Change (1D)": 0.91
   },
   {
@@ -248,19 +248,19 @@
     "Buy Value": 23942,
     "Present Value": 20184.68,
     "P&L (%)": -15.688814855944234,
-    "Allocation (%)": 3.59,
+    "Allocation (%)": 3.42,
     "Price Change (1D)": 0.71
   },
   {
     "Ticker": "SOXX",
     "Name": "iShares Semiconductor ETF",
-    "Qty": 143.19,
-    "Avg Buy Price (P/S)": 194.71,
+    "Qty": 171.76,
+    "Avg Buy Price (P/S)": 191.43,
     "LTP": 173.4,
-    "Buy Value": 27882,
-    "Present Value": 24829.55,
-    "P&L (%)": -10.94448153664424,
-    "Allocation (%)": 4.42,
+    "Buy Value": 32882,
+    "Present Value": 29783.76,
+    "P&L (%)": -9.41858642845949,
+    "Allocation (%)": 5.06,
     "Price Change (1D)": 0.66
   },
   {
@@ -272,19 +272,19 @@
     "Buy Value": 11022,
     "Present Value": 10004.65,
     "P&L (%)": -9.221980413492929,
-    "Allocation (%)": 1.78,
+    "Allocation (%)": 1.7,
     "Price Change (1D)": 1.31
   },
   {
     "Ticker": "IJR",
     "Name": "iShares Core S&P Small-Cap ETF",
-    "Qty": 47.12,
-    "Avg Buy Price (P/S)": 106.11,
+    "Qty": 119.77,
+    "Avg Buy Price (P/S)": 100.18,
     "LTP": 96.46,
-    "Buy Value": 5000,
-    "Present Value": 4545.19,
-    "P&L (%)": -9.09433606634625,
-    "Allocation (%)": 0.8,
+    "Buy Value": 12000,
+    "Present Value": 11553.4,
+    "P&L (%)": -3.713316031143954,
+    "Allocation (%)": 1.96,
     "Price Change (1D)": 1.1
   },
   {
@@ -292,11 +292,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.51,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 85528.07,
+    "LTP": 85685.29,
     "Buy Value": 43719,
-    "Present Value": 43820.85,
-    "P&L (%)": 0.2329680972346282,
-    "Allocation (%)": 7.8,
+    "Present Value": 43901.4,
+    "P&L (%)": 0.41721903665423493,
+    "Allocation (%)": 7.46,
     "Price Change (1D)": "-"
   }
 ]
