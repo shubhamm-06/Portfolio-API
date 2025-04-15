@@ -100,12 +100,12 @@
     "Name": "Amazon.com Inc",
     "Qty": 153.81,
     "Avg Buy Price (P/S)": 182.04,
-    "LTP": 182.12,
+    "LTP": 182.13,
     "Buy Value": 28000,
-    "Present Value": 28011.87,
-    "P&L (%)": 0.043946385409806915,
+    "Present Value": 28013.41,
+    "P&L (%)": 0.04943968358602693,
     "Allocation (%)": 4.75,
-    "Price Change (1D)": -1.49
+    "Price Change (1D)": -1.48
   },
   {
     "Ticker": "NVO",
@@ -128,7 +128,7 @@
     "Buy Value": 35000,
     "Present Value": 36665.63,
     "P&L (%)": 4.761591148577443,
-    "Allocation (%)": 6.23,
+    "Allocation (%)": 6.22,
     "Price Change (1D)": 1.23
   },
   {
@@ -164,7 +164,7 @@
     "Buy Value": 16000,
     "Present Value": 17303.18,
     "P&L (%)": 8.145017070395056,
-    "Allocation (%)": 2.94,
+    "Allocation (%)": 2.93,
     "Price Change (1D)": 1.41
   },
   {
@@ -292,11 +292,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.51,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 85791.76,
+    "LTP": 85927.59,
     "Buy Value": 43719,
-    "Present Value": 43955.95,
-    "P&L (%)": 0.5419944947384953,
-    "Allocation (%)": 7.46,
-    "Price Change (1D)": "-"
+    "Present Value": 44025.54,
+    "P&L (%)": 0.7011778371972641,
+    "Allocation (%)": 7.47,
+    "Price Change (1D)": 1.54
   }
 ]
