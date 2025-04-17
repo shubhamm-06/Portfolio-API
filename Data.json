@@ -88,24 +88,24 @@
     "Name": "Advanced Micro Devices Inc",
     "Qty": 70.18,
     "Avg Buy Price (P/S)": 113.99,
-    "LTP": 87.44,
+    "LTP": 87.5,
     "Buy Value": 8000,
-    "Present Value": 6136.53,
-    "P&L (%)": -23.291516799719272,
+    "Present Value": 6140.75,
+    "P&L (%)": -23.23888060356171,
     "Allocation (%)": 1.03,
-    "Price Change (1D)": -0.96
+    "Price Change (1D)": -0.89
   },
   {
     "Ticker": "AMZN",
     "Name": "Amazon.com Inc",
     "Qty": 153.81,
     "Avg Buy Price (P/S)": 182.04,
-    "LTP": 172.63,
+    "LTP": 172.61,
     "Buy Value": 28000,
-    "Present Value": 26552.22,
-    "P&L (%)": -5.169193583827728,
+    "Present Value": 26549.14,
+    "P&L (%)": -5.180180180180169,
     "Allocation (%)": 4.45,
-    "Price Change (1D)": -0.98
+    "Price Change (1D)": -0.99
   },
   {
     "Ticker": "NVO",
@@ -184,12 +184,12 @@
     "Name": "Apple Inc",
     "Qty": 47.26,
     "Avg Buy Price (P/S)": 172.42,
-    "LTP": 196.94,
+    "LTP": 196.98,
     "Buy Value": 8150,
-    "Present Value": 9308.74,
-    "P&L (%)": 14.221088040830537,
+    "Present Value": 9310.63,
+    "P&L (%)": 14.2442872056606,
     "Allocation (%)": 1.56,
-    "Price Change (1D)": 1.37
+    "Price Change (1D)": 1.39
   },
   {
     "Ticker": "LLY",
@@ -304,11 +304,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.51,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 84978.67,
+    "LTP": 85075.13,
     "Buy Value": 43719,
-    "Present Value": 43539.36,
-    "P&L (%)": -0.41089061105402575,
-    "Allocation (%)": 7.31,
-    "Price Change (1D)": 0.09
+    "Present Value": 43588.78,
+    "P&L (%)": -0.297846178943493,
+    "Allocation (%)": 7.32,
+    "Price Change (1D)": 0.13
   }
 ]
