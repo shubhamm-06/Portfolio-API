@@ -64,12 +64,12 @@
     "Name": "NVIDIA Corp",
     "Qty": 191.79,
     "Avg Buy Price (P/S)": 112.43,
-    "LTP": 101.49,
+    "LTP": 101.43,
     "Buy Value": 21565,
-    "Present Value": 19465.35,
-    "P&L (%)": -9.730498977141343,
+    "Present Value": 19453.85,
+    "P&L (%)": -9.783865516321267,
     "Allocation (%)": 3.26,
-    "Price Change (1D)": -2.87
+    "Price Change (1D)": -2.93
   },
   {
     "Ticker": "PANW",
@@ -124,12 +124,12 @@
     "Name": "Alphabet Inc Class A",
     "Qty": 230.5,
     "Avg Buy Price (P/S)": 151.84,
-    "LTP": 151.16,
+    "LTP": 151.22,
     "Buy Value": 35000,
-    "Present Value": 34842.38,
-    "P&L (%)": -0.44783983140147976,
-    "Allocation (%)": 5.83,
-    "Price Change (1D)": -1.42
+    "Present Value": 34856.21,
+    "P&L (%)": -0.4083245521601716,
+    "Allocation (%)": 5.84,
+    "Price Change (1D)": -1.38
   },
   {
     "Ticker": "META",
@@ -164,7 +164,7 @@
     "Buy Value": 16000,
     "Present Value": 18078.89,
     "P&L (%)": 12.993241517058781,
-    "Allocation (%)": 3.02,
+    "Allocation (%)": 3.03,
     "Price Change (1D)": 1.19
   },
   {
@@ -184,12 +184,12 @@
     "Name": "Apple Inc",
     "Qty": 47.26,
     "Avg Buy Price (P/S)": 172.42,
-    "LTP": 196.98,
+    "LTP": 196.94,
     "Buy Value": 8150,
-    "Present Value": 9310.63,
-    "P&L (%)": 14.2442872056606,
+    "Present Value": 9308.74,
+    "P&L (%)": 14.221088040830537,
     "Allocation (%)": 1.56,
-    "Price Change (1D)": 1.39
+    "Price Change (1D)": 1.37
   },
   {
     "Ticker": "LLY",
@@ -304,11 +304,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.51,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 87502.66,
+    "LTP": 87454.34,
     "Buy Value": 43719,
-    "Present Value": 44832.54,
-    "P&L (%)": 2.547050672406945,
+    "Present Value": 44807.78,
+    "P&L (%)": 2.4904229825916704,
     "Allocation (%)": 7.51,
-    "Price Change (1D)": 2.75
+    "Price Change (1D)": 2.69
   }
 ]
