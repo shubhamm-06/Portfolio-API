@@ -33,7 +33,7 @@
     "Present Value": 4780.48,
     "P&L (%)": -4.388658118114514,
     "Allocation (%)": 0.73,
-    "Price Change (1D)": -5.17
+    "Price Change (1D)": -5.19
   },
   {
     "Ticker": "MSFT",
@@ -201,7 +201,7 @@
     "Present Value": 10761.05,
     "P&L (%)": 7.611555462008,
     "Allocation (%)": 1.64,
-    "Price Change (1D)": -2.55
+    "Price Change (1D)": -2.61
   },
   {
     "Ticker": "BOTZ",
@@ -256,12 +256,12 @@
     "Name": "iShares US Technology ETF",
     "Qty": 147.7,
     "Avg Buy Price (P/S)": 162.09,
-    "LTP": 127.85,
+    "LTP": 127.81,
     "Buy Value": 23942,
-    "Present Value": 18883.44,
-    "P&L (%)": -21.12406687642668,
+    "Present Value": 18877.53,
+    "P&L (%)": -21.1487445246468,
     "Allocation (%)": 2.88,
-    "Price Change (1D)": -2.65
+    "Price Change (1D)": -2.68
   },
   {
     "Ticker": "SOXX",
@@ -316,10 +316,10 @@
     "Name": "Bitcoin ",
     "Qty": 0.51,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 87195.81,
+    "LTP": 87179.6,
     "Buy Value": 43719,
-    "Present Value": 44675.32,
-    "P&L (%)": 2.187443747327997,
+    "Present Value": 44667.02,
+    "P&L (%)": 2.1684467512206913,
     "Allocation (%)": 6.82,
     "Price Change (1D)": "-"
   }
