@@ -32,7 +32,7 @@
     "Buy Value": 5000,
     "Present Value": 4780.48,
     "P&L (%)": -4.388658118114514,
-    "Allocation (%)": 0.73,
+    "Allocation (%)": 0.72,
     "Price Change (1D)": -5.19
   },
   {
@@ -44,7 +44,7 @@
     "Buy Value": 32970,
     "Present Value": 30381.55,
     "P&L (%)": -7.84942649662569,
-    "Allocation (%)": 4.64,
+    "Allocation (%)": 4.63,
     "Price Change (1D)": -2.35
   },
   {
@@ -57,7 +57,7 @@
     "Present Value": 10436.63,
     "P&L (%)": -24.993317294840946,
     "Allocation (%)": 1.59,
-    "Price Change (1D)": 0.61
+    "Price Change (1D)": 0.65
   },
   {
     "Ticker": "NVDA",
@@ -116,8 +116,8 @@
     "Buy Value": 24000,
     "Present Value": 20633.42,
     "P&L (%)": -14.018278301886799,
-    "Allocation (%)": 3.15,
-    "Price Change (1D)": 0.48
+    "Allocation (%)": 3.14,
+    "Price Change (1D)": 0.43
   },
   {
     "Ticker": "GOOGL",
@@ -152,7 +152,7 @@
     "Buy Value": 6000,
     "Present Value": 6876.6,
     "P&L (%)": 14.612103017854325,
-    "Allocation (%)": 1.05,
+    "Allocation (%)": 1.04,
     "Price Change (1D)": -3.44
   },
   {
@@ -224,7 +224,7 @@
     "Buy Value": 94219,
     "Present Value": 87407.57,
     "P&L (%)": -7.228226979837869,
-    "Allocation (%)": 13.35,
+    "Allocation (%)": 13.34,
     "Price Change (1D)": -2.37
   },
   {
@@ -236,7 +236,7 @@
     "Buy Value": 63808,
     "Present Value": 63663.35,
     "P&L (%)": -0.2260651144816847,
-    "Allocation (%)": 9.72,
+    "Allocation (%)": 9.71,
     "Price Change (1D)": -2.32
   },
   {
@@ -248,7 +248,7 @@
     "Buy Value": 41495,
     "Present Value": 33852.21,
     "P&L (%)": -18.415910373876414,
-    "Allocation (%)": 5.17,
+    "Allocation (%)": 5.16,
     "Price Change (1D)": -2.58
   },
   {
@@ -316,11 +316,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.51,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 87575.75,
+    "LTP": 88171.77,
     "Buy Value": 43719,
-    "Present Value": 44869.99,
-    "P&L (%)": 2.6327070848365315,
-    "Allocation (%)": 6.85,
+    "Present Value": 45175.36,
+    "P&L (%)": 3.3312012008070444,
+    "Allocation (%)": 6.89,
     "Price Change (1D)": "-"
   }
 ]
