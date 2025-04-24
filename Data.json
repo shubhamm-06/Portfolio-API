@@ -33,7 +33,7 @@
     "Present Value": 5138.22,
     "P&L (%)": 2.7662392390584545,
     "Allocation (%)": 0.72,
-    "Price Change (1D)": 1.62
+    "Price Change (1D)": 1.71
   },
   {
     "Ticker": "MSFT",
@@ -201,7 +201,7 @@
     "Present Value": 11309.74,
     "P&L (%)": 13.098558198274054,
     "Allocation (%)": 1.59,
-    "Price Change (1D)": 3.69
+    "Price Change (1D)": 3.65
   },
   {
     "Ticker": "BOTZ",
@@ -316,11 +316,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.51,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 93572.28,
+    "LTP": 93567.93,
     "Buy Value": 43719,
-    "Present Value": 47942.35,
-    "P&L (%)": 9.660224485663068,
+    "Present Value": 47940.12,
+    "P&L (%)": 9.655126587262888,
     "Allocation (%)": 6.75,
-    "Price Change (1D)": 0.22
+    "Price Change (1D)": -0.02
   }
 ]
