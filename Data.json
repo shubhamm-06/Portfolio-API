@@ -21,7 +21,7 @@
     "Present Value": 16923.6,
     "P&L (%)": 5.7765307806568735,
     "Allocation (%)": 2.21,
-    "Price Change (1D)": -0.02
+    "Price Change (1D)": 0.05
   },
   {
     "Ticker": "HCA",
@@ -40,11 +40,11 @@
     "Name": "Microsoft Corp",
     "Qty": 92.29,
     "Avg Buy Price (P/S)": 389.74,
-    "LTP": 391.34,
+    "LTP": 391.31,
     "Buy Value": 35970,
-    "Present Value": 36116.76,
-    "P&L (%)": 0.41053009698772663,
-    "Allocation (%)": 4.72,
+    "Present Value": 36113.99,
+    "P&L (%)": 0.4028326576692136,
+    "Allocation (%)": 4.71,
     "Price Change (1D)": -0.05
   },
   {
@@ -64,12 +64,12 @@
     "Name": "NVIDIA Corp",
     "Qty": 243.88,
     "Avg Buy Price (P/S)": 108.92,
-    "LTP": 108.36,
+    "LTP": 108.39,
     "Buy Value": 26565,
-    "Present Value": 26427.25,
-    "P&L (%)": -0.5141388174807219,
+    "Present Value": 26434.56,
+    "P&L (%)": -0.48659566654425374,
     "Allocation (%)": 3.45,
-    "Price Change (1D)": -2.39
+    "Price Change (1D)": -2.36
   },
   {
     "Ticker": "PANW",
@@ -88,10 +88,10 @@
     "Name": "Advanced Micro Devices Inc",
     "Qty": 111.47,
     "Avg Buy Price (P/S)": 107.64,
-    "LTP": 96.22,
+    "LTP": 96.31,
     "Buy Value": 12000,
-    "Present Value": 10726.41,
-    "P&L (%)": -10.609438870308436,
+    "Present Value": 10736.44,
+    "P&L (%)": -10.525826830174655,
     "Allocation (%)": 1.4,
     "Price Change (1D)": -0.44
   },
@@ -100,22 +100,22 @@
     "Name": "Amazon.com Inc",
     "Qty": 187.25,
     "Avg Buy Price (P/S)": 179.22,
-    "LTP": 187.51,
+    "LTP": 187.65,
     "Buy Value": 33560,
-    "Present Value": 35111.24,
-    "P&L (%)": 4.625599821448494,
-    "Allocation (%)": 4.58,
-    "Price Change (1D)": -0.78
+    "Present Value": 35137.46,
+    "P&L (%)": 4.7037161031134955,
+    "Allocation (%)": 4.59,
+    "Price Change (1D)": -0.71
   },
   {
     "Ticker": "NVO",
     "Name": "Novo Nordisk A/S",
     "Qty": 513.46,
     "Avg Buy Price (P/S)": 66.21,
-    "LTP": 62.42,
+    "LTP": 62.44,
     "Buy Value": 34000,
-    "Present Value": 32050.42,
-    "P&L (%)": -5.724210844283329,
+    "Present Value": 32060.69,
+    "P&L (%)": -5.694003926899254,
     "Allocation (%)": 4.18,
     "Price Change (1D)": 0.55
   },
@@ -124,11 +124,11 @@
     "Name": "Alphabet Inc Class A",
     "Qty": 230.5,
     "Avg Buy Price (P/S)": 151.84,
-    "LTP": 159.94,
+    "LTP": 160.12,
     "Buy Value": 35000,
-    "Present Value": 36866.17,
-    "P&L (%)": 5.334562697576392,
-    "Allocation (%)": 4.81,
+    "Present Value": 36907.66,
+    "P&L (%)": 5.453108535300317,
+    "Allocation (%)": 4.82,
     "Price Change (1D)": -1.24
   },
   {
@@ -184,12 +184,12 @@
     "Name": "Apple Inc",
     "Qty": 47.26,
     "Avg Buy Price (P/S)": 172.42,
-    "LTP": 210.67,
+    "LTP": 210.69,
     "Buy Value": 8150,
-    "Present Value": 9957.72,
-    "P&L (%)": 22.184201368750728,
+    "Present Value": 9958.66,
+    "P&L (%)": 22.195800951165765,
     "Allocation (%)": 1.3,
-    "Price Change (1D)": 0.66
+    "Price Change (1D)": 0.67
   },
   {
     "Ticker": "LLY",
@@ -201,7 +201,7 @@
     "Present Value": 11546.8,
     "P&L (%)": 15.469111765944016,
     "Allocation (%)": 1.5,
-    "Price Change (1D)": -0.77
+    "Price Change (1D)": -0.86
   },
   {
     "Ticker": "NU",
@@ -213,7 +213,7 @@
     "Present Value": 14144.94,
     "P&L (%)": -98.40559882130077,
     "Allocation (%)": 1.84,
-    "Price Change (1D)": 0.87
+    "Price Change (1D)": 1
   },
   {
     "Ticker": "UNH",
@@ -225,17 +225,17 @@
     "Present Value": 8954.16,
     "P&L (%)": -0.06414368184733371,
     "Allocation (%)": 1.17,
-    "Price Change (1D)": 0.48
+    "Price Change (1D)": 0.39
   },
   {
     "Ticker": "TSM",
     "Name": "Taiwan Semicndctr Mnufctrng Co Ltd",
     "Qty": 36.63,
     "Avg Buy Price (P/S)": 163.79,
-    "LTP": 162.6,
+    "LTP": 162.71,
     "Buy Value": 6000,
-    "Present Value": 5956.2,
-    "P&L (%)": -0.7265400818120751,
+    "Present Value": 5960.23,
+    "P&L (%)": -0.6593809145857403,
     "Allocation (%)": 0.77,
     "Price Change (1D)": -1.51
   },
@@ -256,12 +256,12 @@
     "Name": "Invesco NASDAQ 100 ETF",
     "Qty": 489.59,
     "Avg Buy Price (P/S)": 192.44,
-    "LTP": 194.35,
+    "LTP": 194.41,
     "Buy Value": 94219,
-    "Present Value": 95152.98,
-    "P&L (%)": 0.9925171482020353,
+    "Present Value": 95182.35,
+    "P&L (%)": 1.0236956973602156,
     "Allocation (%)": 12.43,
-    "Price Change (1D)": -0.11
+    "Price Change (1D)": -0.08
   },
   {
     "Ticker": "IVV",
@@ -273,7 +273,7 @@
     "Present Value": 68237.33,
     "P&L (%)": 6.942324413100197,
     "Allocation (%)": 8.91,
-    "Price Change (1D)": 0.05
+    "Price Change (1D)": -0.05
   },
   {
     "Ticker": "XLK",
@@ -285,17 +285,17 @@
     "Present Value": 37481.04,
     "P&L (%)": -9.670415562985793,
     "Allocation (%)": 4.89,
-    "Price Change (1D)": -0.18
+    "Price Change (1D)": -0.22
   },
   {
     "Ticker": "IYW",
     "Name": "iShares US Technology ETF",
     "Qty": 147.7,
     "Avg Buy Price (P/S)": 162.09,
-    "LTP": 142.11,
+    "LTP": 142,
     "Buy Value": 23942,
-    "Present Value": 20989.64,
-    "P&L (%)": -12.326485285952241,
+    "Present Value": 20973.4,
+    "P&L (%)": -12.394348818557594,
     "Allocation (%)": 2.74,
     "Price Change (1D)": -0.15
   },
@@ -316,10 +316,10 @@
     "Name": "iShares China Large-Cap ETF",
     "Qty": 299.81,
     "Avg Buy Price (P/S)": 36.76,
-    "LTP": 33.99,
+    "LTP": 33.98,
     "Buy Value": 11022,
-    "Present Value": 10190.54,
-    "P&L (%)": -7.535364526659402,
+    "Present Value": 10187.54,
+    "P&L (%)": -7.562568008705117,
     "Allocation (%)": 1.33,
     "Price Change (1D)": 0.01
   },
@@ -333,7 +333,7 @@
     "Present Value": 11966.62,
     "P&L (%)": -0.26951487322819945,
     "Allocation (%)": 1.56,
-    "Price Change (1D)": 0.07
+    "Price Change (1D)": 0.13
   },
   {
     "Ticker": "VOO",
@@ -345,17 +345,17 @@
     "Present Value": 54437.31,
     "P&L (%)": 8.225561659648152,
     "Allocation (%)": 7.11,
-    "Price Change (1D)": 0.04
+    "Price Change (1D)": -0.03
   },
   {
     "Ticker": "BTCUSD",
     "Name": "Bitcoin ",
     "Qty": 0.51,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 94861.04,
+    "LTP": 94859.71,
     "Buy Value": 43719,
-    "Present Value": 48602.65,
-    "P&L (%)": 11.17056185168795,
+    "Present Value": 48601.97,
+    "P&L (%)": 11.169003183901244,
     "Allocation (%)": 6.35,
     "Price Change (1D)": 0.35
   }
