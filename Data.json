@@ -57,7 +57,7 @@
     "Present Value": 10657.94,
     "P&L (%)": -23.402833466987428,
     "Allocation (%)": 1.39,
-    "Price Change (1D)": -0.52
+    "Price Change (1D)": -0.54
   },
   {
     "Ticker": "NVDA",
@@ -296,7 +296,7 @@
     "Buy Value": 23942,
     "Present Value": 20988.17,
     "P&L (%)": -12.332654698007286,
-    "Allocation (%)": 2.74,
+    "Allocation (%)": 2.73,
     "Price Change (1D)": -0.16
   },
   {
@@ -352,11 +352,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.51,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 94677.54,
+    "LTP": 95090.27,
     "Buy Value": 43719,
-    "Present Value": 48508.63,
-    "P&L (%)": 10.955512574347276,
-    "Allocation (%)": 6.33,
-    "Price Change (1D)": 0.24
+    "Present Value": 48720.1,
+    "P&L (%)": 11.43920351841713,
+    "Allocation (%)": 6.35,
+    "Price Change (1D)": "-"
   }
 ]
