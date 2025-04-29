@@ -201,7 +201,7 @@
     "Present Value": 11644.8,
     "P&L (%)": 16.449168596085045,
     "Allocation (%)": 1.51,
-    "Price Change (1D)": 0.9
+    "Price Change (1D)": 0.92
   },
   {
     "Ticker": "NU",
@@ -260,7 +260,7 @@
     "Buy Value": 94219,
     "Present Value": 95867.79,
     "P&L (%)": 1.7511951777177328,
-    "Allocation (%)": 12.44,
+    "Allocation (%)": 12.45,
     "Price Change (1D)": 0.67
   },
   {
@@ -296,7 +296,7 @@
     "Buy Value": 23942,
     "Present Value": 21098.94,
     "P&L (%)": -11.86994879387995,
-    "Allocation (%)": 2.73,
+    "Allocation (%)": 2.74,
     "Price Change (1D)": 0.53
   },
   {
@@ -352,11 +352,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.51,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 94328.07,
+    "LTP": 93848.32,
     "Buy Value": 43719,
-    "Present Value": 48329.58,
-    "P&L (%)": 10.545957964253311,
-    "Allocation (%)": 6.27,
-    "Price Change (1D)": -0.35
+    "Present Value": 48083.78,
+    "P&L (%)": 9.983724226900788,
+    "Allocation (%)": 6.24,
+    "Price Change (1D)": -0.03
   }
 ]
