@@ -9,7 +9,7 @@
     "Present Value": 19100.32,
     "P&L (%)": 1.3879888478637687,
     "Allocation (%)": 2.49,
-    "Price Change (1D)": -0.38
+    "Price Change (1D)": 0
   },
   {
     "Ticker": "AVGO",
@@ -21,7 +21,7 @@
     "Present Value": 16941.2,
     "P&L (%)": 5.886559938383665,
     "Allocation (%)": 2.21,
-    "Price Change (1D)": 0.08
+    "Price Change (1D)": 0
   },
   {
     "Ticker": "HCA",
@@ -33,7 +33,7 @@
     "Present Value": 4996.9,
     "P&L (%)": -0.060201071579087787,
     "Allocation (%)": 0.65,
-    "Price Change (1D)": 1.25
+    "Price Change (1D)": -0.05
   },
   {
     "Ticker": "MSFT",
@@ -45,7 +45,7 @@
     "Present Value": 36100.15,
     "P&L (%)": 0.36434546107661925,
     "Allocation (%)": 4.71,
-    "Price Change (1D)": -0.18
+    "Price Change (1D)": 0
   },
   {
     "Ticker": "NKE",
@@ -57,7 +57,7 @@
     "Present Value": 10657.94,
     "P&L (%)": -23.402833466987428,
     "Allocation (%)": 1.39,
-    "Price Change (1D)": -0.54
+    "Price Change (1D)": -0.02
   },
   {
     "Ticker": "NVDA",
@@ -69,7 +69,7 @@
     "Present Value": 26517.48,
     "P&L (%)": -0.1744399559309564,
     "Allocation (%)": 3.46,
-    "Price Change (1D)": -2.05
+    "Price Change (1D)": 0
   },
   {
     "Ticker": "PANW",
@@ -81,7 +81,7 @@
     "Present Value": 13824.27,
     "P&L (%)": 4.930350846771864,
     "Allocation (%)": 1.8,
-    "Price Change (1D)": 1.43
+    "Price Change (1D)": 0
   },
   {
     "Ticker": "AMD",
@@ -93,7 +93,7 @@
     "Present Value": 10745.36,
     "P&L (%)": -10.451505016722408,
     "Allocation (%)": 1.4,
-    "Price Change (1D)": -0.26
+    "Price Change (1D)": 0
   },
   {
     "Ticker": "AMZN",
@@ -105,7 +105,7 @@
     "Present Value": 35146.82,
     "P&L (%)": 4.7316147751366975,
     "Allocation (%)": 4.58,
-    "Price Change (1D)": -0.68
+    "Price Change (1D)": 0
   },
   {
     "Ticker": "NVO",
@@ -117,7 +117,7 @@
     "Present Value": 32153.11,
     "P&L (%)": -5.422141670442526,
     "Allocation (%)": 4.19,
-    "Price Change (1D)": 0.87
+    "Price Change (1D)": 0.02
   },
   {
     "Ticker": "GOOGL",
@@ -129,7 +129,7 @@
     "Present Value": 37020.6,
     "P&L (%)": 5.775816649104327,
     "Allocation (%)": 4.83,
-    "Price Change (1D)": -0.83
+    "Price Change (1D)": 0
   },
   {
     "Ticker": "META",
@@ -141,7 +141,7 @@
     "Present Value": 34034.4,
     "P&L (%)": 6.359432739373538,
     "Allocation (%)": 4.44,
-    "Price Change (1D)": 0.45
+    "Price Change (1D)": 0
   },
   {
     "Ticker": "CRWD",
@@ -153,7 +153,7 @@
     "Present Value": 8021.59,
     "P&L (%)": 33.695686522357406,
     "Allocation (%)": 1.04,
-    "Price Change (1D)": -0.42
+    "Price Change (1D)": 0
   },
   {
     "Ticker": "NFLX",
@@ -165,7 +165,7 @@
     "Present Value": 20630.86,
     "P&L (%)": 28.943029008059103,
     "Allocation (%)": 2.69,
-    "Price Change (1D)": 0.8
+    "Price Change (1D)": 0
   },
   {
     "Ticker": "MELI",
@@ -177,7 +177,7 @@
     "Present Value": 13396.15,
     "P&L (%)": 11.635148592428589,
     "Allocation (%)": 1.74,
-    "Price Change (1D)": -0.78
+    "Price Change (1D)": 0
   },
   {
     "Ticker": "AAPL",
@@ -189,7 +189,7 @@
     "Present Value": 9932.67,
     "P&L (%)": 21.87681243475235,
     "Allocation (%)": 1.29,
-    "Price Change (1D)": 0.41
+    "Price Change (1D)": 0
   },
   {
     "Ticker": "LLY",
@@ -201,7 +201,7 @@
     "Present Value": 11540.74,
     "P&L (%)": 15.408598189854766,
     "Allocation (%)": 1.5,
-    "Price Change (1D)": -0.82
+    "Price Change (1D)": 0.01
   },
   {
     "Ticker": "NU",
@@ -213,7 +213,7 @@
     "Present Value": 14168.29,
     "P&L (%)": -98.40296779625342,
     "Allocation (%)": 1.84,
-    "Price Change (1D)": 1.08
+    "Price Change (1D)": 0.08
   },
   {
     "Ticker": "UNH",
@@ -225,7 +225,7 @@
     "Present Value": 8940.12,
     "P&L (%)": -0.22093934858527708,
     "Allocation (%)": 1.16,
-    "Price Change (1D)": 0.32
+    "Price Change (1D)": -0.01
   },
   {
     "Ticker": "TSM",
@@ -237,7 +237,7 @@
     "Present Value": 5985.5,
     "P&L (%)": -0.23810977471151254,
     "Allocation (%)": 0.78,
-    "Price Change (1D)": -1.03
+    "Price Change (1D)": 0.06
   },
   {
     "Ticker": "BOTZ",
@@ -249,7 +249,7 @@
     "Present Value": 7007.47,
     "P&L (%)": -17.553499132446493,
     "Allocation (%)": 0.91,
-    "Price Change (1D)": -0.28
+    "Price Change (1D)": 0
   },
   {
     "Ticker": "QQQM",
@@ -261,7 +261,7 @@
     "Present Value": 95231.31,
     "P&L (%)": 1.0756599459571778,
     "Allocation (%)": 12.43,
-    "Price Change (1D)": -0.03
+    "Price Change (1D)": 0
   },
   {
     "Ticker": "IVV",
@@ -273,7 +273,7 @@
     "Present Value": 68231.17,
     "P&L (%)": 6.9326635107719055,
     "Allocation (%)": 8.9,
-    "Price Change (1D)": 0.04
+    "Price Change (1D)": 0
   },
   {
     "Ticker": "XLK",
@@ -285,7 +285,7 @@
     "Present Value": 37500.86,
     "P&L (%)": -9.622649702548959,
     "Allocation (%)": 4.89,
-    "Price Change (1D)": -0.16
+    "Price Change (1D)": 0
   },
   {
     "Ticker": "IYW",
@@ -296,8 +296,8 @@
     "Buy Value": 23942,
     "Present Value": 20988.17,
     "P&L (%)": -12.332654698007286,
-    "Allocation (%)": 2.73,
-    "Price Change (1D)": -0.16
+    "Allocation (%)": 2.74,
+    "Price Change (1D)": 0
   },
   {
     "Ticker": "SOXX",
@@ -309,7 +309,7 @@
     "Present Value": 41916.31,
     "P&L (%)": 0.0868055555555537,
     "Allocation (%)": 5.47,
-    "Price Change (1D)": -0.18
+    "Price Change (1D)": 0
   },
   {
     "Ticker": "FXI",
@@ -321,7 +321,7 @@
     "Present Value": 10193.54,
     "P&L (%)": -7.508161044613705,
     "Allocation (%)": 1.33,
-    "Price Change (1D)": 0.06
+    "Price Change (1D)": 0
   },
   {
     "Ticker": "IJR",
@@ -333,7 +333,7 @@
     "Present Value": 12000.15,
     "P&L (%)": 0.009982032341775708,
     "Allocation (%)": 1.56,
-    "Price Change (1D)": 0.35
+    "Price Change (1D)": 0
   },
   {
     "Ticker": "VOO",
@@ -345,18 +345,18 @@
     "Present Value": 54451.29,
     "P&L (%)": 8.253350719309124,
     "Allocation (%)": 7.1,
-    "Price Change (1D)": 0.06
+    "Price Change (1D)": 0
   },
   {
     "Ticker": "BTCUSD",
     "Name": "Bitcoin ",
     "Qty": 0.51,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 95103.78,
+    "LTP": 94671.41,
     "Buy Value": 43719,
-    "Present Value": 48727.02,
-    "P&L (%)": 11.455036301724332,
-    "Allocation (%)": 6.36,
-    "Price Change (1D)": 0.07
+    "Present Value": 48505.49,
+    "P&L (%)": 10.948328639360374,
+    "Allocation (%)": 6.33,
+    "Price Change (1D)": -0.38
   }
 ]
