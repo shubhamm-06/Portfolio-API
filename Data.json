@@ -57,7 +57,7 @@
     "Present Value": 10488.7,
     "P&L (%)": -24.619085805934237,
     "Allocation (%)": 1.35,
-    "Price Change (1D)": -1.98
+    "Price Change (1D)": -2.02
   },
   {
     "Ticker": "NVDA",
@@ -117,7 +117,7 @@
     "Present Value": 34119.68,
     "P&L (%)": 0.3624830086089852,
     "Allocation (%)": 4.42,
-    "Price Change (1D)": 2.02
+    "Price Change (1D)": 1.98
   },
   {
     "Ticker": "GOOGL",
@@ -328,12 +328,12 @@
     "Name": "iShares Core S&P Small-Cap ETF",
     "Qty": 119.77,
     "Avg Buy Price (P/S)": 100.18,
-    "LTP": 100.09,
+    "LTP": 100.13,
     "Buy Value": 12000,
-    "Present Value": 11988.17,
-    "P&L (%)": -0.08983829107606649,
+    "Present Value": 11992.97,
+    "P&L (%)": -0.04991016170893528,
     "Allocation (%)": 1.55,
-    "Price Change (1D)": -0.74
+    "Price Change (1D)": -0.7
   },
   {
     "Ticker": "VOO",
@@ -352,11 +352,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.51,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 94613.77,
+    "LTP": 94641.05,
     "Buy Value": 43719,
-    "Present Value": 48475.96,
-    "P&L (%)": 10.880778555731403,
+    "Present Value": 48489.94,
+    "P&L (%)": 10.91274882431916,
     "Allocation (%)": 6.28,
-    "Price Change (1D)": 0.76
+    "Price Change (1D)": 0.01
   }
 ]
