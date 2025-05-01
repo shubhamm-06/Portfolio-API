@@ -57,7 +57,7 @@
     "Present Value": 10555.65,
     "P&L (%)": -24.137931034482754,
     "Allocation (%)": 1.35,
-    "Price Change (1D)": 0.64
+    "Price Change (1D)": 0.66
   },
   {
     "Ticker": "NVDA",
@@ -117,7 +117,7 @@
     "Present Value": 33683.23,
     "P&L (%)": -0.9213109802144683,
     "Allocation (%)": 4.31,
-    "Price Change (1D)": -1.28
+    "Price Change (1D)": -1.26
   },
   {
     "Ticker": "GOOGL",
@@ -213,7 +213,7 @@
     "Present Value": 14401.7,
     "P&L (%)": 2.9190992493744754,
     "Allocation (%)": 1.84,
-    "Price Change (1D)": -0.64
+    "Price Change (1D)": -0.72
   },
   {
     "Ticker": "UNH",
@@ -237,7 +237,7 @@
     "Present Value": 6326.9,
     "P&L (%)": 5.452103303009957,
     "Allocation (%)": 0.81,
-    "Price Change (1D)": 3.62
+    "Price Change (1D)": 3.68
   },
   {
     "Ticker": "BOTZ",
@@ -352,11 +352,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.51,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 96808.5,
+    "LTP": 96686.52,
     "Buy Value": 43719,
-    "Present Value": 49600.45,
-    "P&L (%)": 13.452849947872526,
+    "Present Value": 49537.95,
+    "P&L (%)": 13.30989784514765,
     "Allocation (%)": 6.35,
-    "Price Change (1D)": 0.22
+    "Price Change (1D)": 0.12
   }
 ]
