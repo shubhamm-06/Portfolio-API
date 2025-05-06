@@ -128,7 +128,7 @@
     "Buy Value": 40000,
     "Present Value": 42600.41,
     "P&L (%)": 6.505285136369568,
-    "Allocation (%)": 5.26,
+    "Allocation (%)": 5.25,
     "Price Change (1D)": -0.6
   },
   {
@@ -140,7 +140,7 @@
     "Buy Value": 32000,
     "Present Value": 36360.36,
     "P&L (%)": 13.628185036856452,
-    "Allocation (%)": 4.49,
+    "Allocation (%)": 4.48,
     "Price Change (1D)": -2
   },
   {
@@ -164,7 +164,7 @@
     "Buy Value": 16000,
     "Present Value": 21138.28,
     "P&L (%)": 32.114406484427626,
-    "Allocation (%)": 2.61,
+    "Allocation (%)": 2.6,
     "Price Change (1D)": 0.32
   },
   {
@@ -213,7 +213,7 @@
     "Present Value": 14518.41,
     "P&L (%)": 3.7531276063386096,
     "Allocation (%)": 1.79,
-    "Price Change (1D)": -0.24
+    "Price Change (1D)": -0.2
   },
   {
     "Ticker": "UNH",
@@ -237,7 +237,7 @@
     "Present Value": 6310.78,
     "P&L (%)": 5.183466634104652,
     "Allocation (%)": 0.77,
-    "Price Change (1D)": -2.34
+    "Price Change (1D)": -2.31
   },
   {
     "Ticker": "BOTZ",
@@ -260,7 +260,7 @@
     "Buy Value": 94219,
     "Present Value": 97042.82,
     "P&L (%)": 2.9983371440449025,
-    "Allocation (%)": 11.98,
+    "Allocation (%)": 11.97,
     "Price Change (1D)": -0.95
   },
   {
@@ -332,7 +332,7 @@
     "Buy Value": 21990,
     "Present Value": 22030.29,
     "P&L (%)": 0.18726591760300804,
-    "Allocation (%)": 2.72,
+    "Allocation (%)": 2.71,
     "Price Change (1D)": -0.63
   },
   {
@@ -352,11 +352,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.51,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 95243.66,
+    "LTP": 96352.45,
     "Buy Value": 43719,
-    "Present Value": 48798.69,
-    "P&L (%)": 11.618965963383268,
-    "Allocation (%)": 6.02,
-    "Price Change (1D)": -0.11
+    "Present Value": 49366.79,
+    "P&L (%)": 12.918390967320944,
+    "Allocation (%)": 6.09,
+    "Price Change (1D)": -0.06
   }
 ]
