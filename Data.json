@@ -140,7 +140,7 @@
     "Buy Value": 32000,
     "Present Value": 36948.5,
     "P&L (%)": 15.466171377715854,
-    "Allocation (%)": 4.54,
+    "Allocation (%)": 4.53,
     "Price Change (1D)": 1.62
   },
   {
@@ -272,7 +272,7 @@
     "Buy Value": 63808,
     "Present Value": 69505.96,
     "P&L (%)": 8.930538112259692,
-    "Allocation (%)": 8.54,
+    "Allocation (%)": 8.53,
     "Price Change (1D)": 0.4
   },
   {
@@ -320,7 +320,7 @@
     "Buy Value": 11022,
     "Present Value": 10334.45,
     "P&L (%)": -6.229597388465721,
-    "Allocation (%)": 1.27,
+    "Allocation (%)": 1.26,
     "Price Change (1D)": -2.27
   },
   {
@@ -328,12 +328,12 @@
     "Name": "iShares Core S&P Small-Cap ETF",
     "Qty": 216.72,
     "Avg Buy Price (P/S)": 101.46,
-    "LTP": 101.77,
+    "LTP": 101.79,
     "Buy Value": 21990,
-    "Present Value": 22056.3,
-    "P&L (%)": 0.30553912872068034,
+    "Present Value": 22060.64,
+    "P&L (%)": 0.3252513305736374,
     "Allocation (%)": 2.71,
-    "Price Change (1D)": 0.12
+    "Price Change (1D)": 0.14
   },
   {
     "Ticker": "VOO",
@@ -352,11 +352,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.51,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 96455.89,
+    "LTP": 96792.64,
     "Buy Value": 43719,
-    "Present Value": 49419.78,
-    "P&L (%)": 13.039615475485085,
-    "Allocation (%)": 6.07,
-    "Price Change (1D)": 0.1
+    "Present Value": 49592.32,
+    "P&L (%)": 13.434263127498557,
+    "Allocation (%)": 6.09,
+    "Price Change (1D)": 0.05
   }
 ]
