@@ -104,7 +104,7 @@
     "Buy Value": 38560,
     "Present Value": 39553.28,
     "P&L (%)": 2.5781769793745712,
-    "Allocation (%)": 4.88,
+    "Allocation (%)": 4.87,
     "Price Change (1D)": -0.72
   },
   {
@@ -116,7 +116,7 @@
     "Buy Value": 34000,
     "Present Value": 34037.52,
     "P&L (%)": 0.1208276695363427,
-    "Allocation (%)": 4.2,
+    "Allocation (%)": 4.19,
     "Price Change (1D)": -4.09
   },
   {
@@ -213,7 +213,7 @@
     "Present Value": 14518.41,
     "P&L (%)": 3.7531276063386096,
     "Allocation (%)": 1.79,
-    "Price Change (1D)": -0.2
+    "Price Change (1D)": -0.24
   },
   {
     "Ticker": "UNH",
@@ -272,7 +272,7 @@
     "Buy Value": 63808,
     "Present Value": 69231.03,
     "P&L (%)": 8.499661868418512,
-    "Allocation (%)": 8.54,
+    "Allocation (%)": 8.53,
     "Price Change (1D)": -0.82
   },
   {
@@ -284,7 +284,7 @@
     "Buy Value": 41495,
     "Present Value": 38499.06,
     "P&L (%)": -7.2169872769117225,
-    "Allocation (%)": 4.75,
+    "Allocation (%)": 4.74,
     "Price Change (1D)": -0.83
   },
   {
@@ -308,7 +308,7 @@
     "Buy Value": 48847,
     "Present Value": 49282.31,
     "P&L (%)": 0.891313742437341,
-    "Allocation (%)": 6.08,
+    "Allocation (%)": 6.07,
     "Price Change (1D)": -0.95
   },
   {
@@ -352,11 +352,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.51,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 96352.45,
+    "LTP": 96998.43,
     "Buy Value": 43719,
-    "Present Value": 49366.79,
-    "P&L (%)": 12.918390967320944,
-    "Allocation (%)": 6.09,
-    "Price Change (1D)": -0.06
+    "Present Value": 49697.76,
+    "P&L (%)": 13.675434739400114,
+    "Allocation (%)": 6.13,
+    "Price Change (1D)": 0.16
   }
 ]
