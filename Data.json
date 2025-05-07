@@ -104,7 +104,7 @@
     "Buy Value": 38560,
     "Present Value": 39553.28,
     "P&L (%)": 2.5781769793745712,
-    "Allocation (%)": 4.88,
+    "Allocation (%)": 4.87,
     "Price Change (1D)": -0.72
   },
   {
@@ -116,7 +116,7 @@
     "Buy Value": 34000,
     "Present Value": 34037.52,
     "P&L (%)": 0.1208276695363427,
-    "Allocation (%)": 4.2,
+    "Allocation (%)": 4.19,
     "Price Change (1D)": -4.09
   },
   {
@@ -284,7 +284,7 @@
     "Buy Value": 41495,
     "Present Value": 38499.06,
     "P&L (%)": -7.2169872769117225,
-    "Allocation (%)": 4.75,
+    "Allocation (%)": 4.74,
     "Price Change (1D)": -0.83
   },
   {
@@ -352,11 +352,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.51,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 96443.59,
+    "LTP": 96676,
     "Buy Value": 43719,
-    "Present Value": 49413.48,
-    "P&L (%)": 13.025200728284592,
-    "Allocation (%)": 6.09,
-    "Price Change (1D)": -0.4
+    "Present Value": 49532.56,
+    "P&L (%)": 13.297569134533893,
+    "Allocation (%)": 6.11,
+    "Price Change (1D)": -0.16
   }
 ]
