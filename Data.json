@@ -33,7 +33,7 @@
     "Present Value": 5326.49,
     "P&L (%)": 6.531816266329536,
     "Allocation (%)": 0.64,
-    "Price Change (1D)": -1.94
+    "Price Change (1D)": -1.96
   },
   {
     "Ticker": "MSFT",
@@ -68,7 +68,7 @@
     "Buy Value": 26565,
     "Present Value": 28624.64,
     "P&L (%)": 7.757987513771577,
-    "Allocation (%)": 3.48,
+    "Allocation (%)": 3.47,
     "Price Change (1D)": 0.26
   },
   {
@@ -116,7 +116,7 @@
     "Buy Value": 34000,
     "Present Value": 33298.14,
     "P&L (%)": -2.054070382117504,
-    "Allocation (%)": 4.05,
+    "Allocation (%)": 4.04,
     "Price Change (1D)": -4
   },
   {
@@ -160,10 +160,10 @@
     "Name": "Netflix Inc",
     "Qty": 18.58,
     "Avg Buy Price (P/S)": 861.14,
-    "LTP": 1144.46,
+    "LTP": 1144.43,
     "Buy Value": 16000,
-    "Present Value": 21264.06,
-    "P&L (%)": 32.90057365817405,
+    "Present Value": 21263.5,
+    "P&L (%)": 32.897089904080644,
     "Allocation (%)": 2.58,
     "Price Change (1D)": -0.95
   },
@@ -260,7 +260,7 @@
     "Buy Value": 94219,
     "Present Value": 98423.48,
     "P&L (%)": 4.46372895447932,
-    "Allocation (%)": 11.97,
+    "Allocation (%)": 11.96,
     "Price Change (1D)": 1.01
   },
   {
@@ -344,7 +344,7 @@
     "Buy Value": 50300,
     "Present Value": 55840.47,
     "P&L (%)": 11.015155725615108,
-    "Allocation (%)": 6.79,
+    "Allocation (%)": 6.78,
     "Price Change (1D)": 0.67
   },
   {
@@ -352,11 +352,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.51,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 101367.7,
+    "LTP": 102516.9,
     "Buy Value": 43719,
-    "Present Value": 51936.38,
-    "P&L (%)": 18.795916243521564,
-    "Allocation (%)": 6.31,
-    "Price Change (1D)": 0.08
+    "Present Value": 52525.18,
+    "P&L (%)": 20.142698965700863,
+    "Allocation (%)": 6.38,
+    "Price Change (1D)": 0.25
   }
 ]
