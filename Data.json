@@ -160,10 +160,10 @@
     "Name": "Netflix Inc",
     "Qty": 18.58,
     "Avg Buy Price (P/S)": 861.14,
-    "LTP": 1144.46,
+    "LTP": 1144.43,
     "Buy Value": 16000,
-    "Present Value": 21264.06,
-    "P&L (%)": 32.90057365817405,
+    "Present Value": 21263.5,
+    "P&L (%)": 32.897089904080644,
     "Allocation (%)": 2.58,
     "Price Change (1D)": -0.95
   },
@@ -308,7 +308,7 @@
     "Buy Value": 48847,
     "Present Value": 50593.73,
     "P&L (%)": 3.5760587726879884,
-    "Allocation (%)": 6.15,
+    "Allocation (%)": 6.14,
     "Price Change (1D)": 0.89
   },
   {
@@ -352,11 +352,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.51,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 102532.6,
+    "LTP": 102714.4,
     "Buy Value": 43719,
-    "Present Value": 52533.22,
-    "P&L (%)": 20.161098277168175,
-    "Allocation (%)": 6.38,
-    "Price Change (1D)": -0.63
+    "Present Value": 52626.37,
+    "P&L (%)": 20.374155272375432,
+    "Allocation (%)": 6.39,
+    "Price Change (1D)": -0.46
   }
 ]
