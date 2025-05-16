@@ -33,7 +33,7 @@
     "Present Value": 5832.17,
     "P&L (%)": 16.645596291613977,
     "Allocation (%)": 0.63,
-    "Price Change (1D)": 0.52
+    "Price Change (1D)": 0.51
   },
   {
     "Ticker": "MSFT",
@@ -80,7 +80,7 @@
     "Buy Value": 13175,
     "Present Value": 14695.42,
     "P&L (%)": 11.542685393907867,
-    "Allocation (%)": 1.59,
+    "Allocation (%)": 1.6,
     "Price Change (1D)": 0.04
   },
   {
@@ -201,7 +201,7 @@
     "Present Value": 13018.77,
     "P&L (%)": 0.1454468523978927,
     "Allocation (%)": 1.41,
-    "Price Change (1D)": 3.5
+    "Price Change (1D)": 3.48
   },
   {
     "Ticker": "NU",
@@ -225,7 +225,7 @@
     "Present Value": 21359.34,
     "P&L (%)": -7.132631311042522,
     "Allocation (%)": 2.32,
-    "Price Change (1D)": 6.4
+    "Price Change (1D)": 6.49
   },
   {
     "Ticker": "TSM",
@@ -364,11 +364,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.51,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 103934.5,
+    "LTP": 103697.4,
     "Buy Value": 43719,
-    "Present Value": 53251.5,
-    "P&L (%)": 21.804027878824243,
-    "Allocation (%)": 5.79,
-    "Price Change (1D)": -0.04
+    "Present Value": 53130.02,
+    "P&L (%)": 21.526163117748087,
+    "Allocation (%)": 5.78,
+    "Price Change (1D)": -0.08
   }
 ]
