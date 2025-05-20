@@ -350,13 +350,13 @@
   {
     "Ticker": "VOO",
     "Name": "Vanguard S&P 500 ETF",
-    "Qty": 107.52,
-    "Avg Buy Price (P/S)": 467.81,
+    "Qty": 91.22,
+    "Avg Buy Price (P/S)": 476.24,
     "LTP": 546.82,
-    "Buy Value": 50300,
-    "Present Value": 58795.18,
-    "P&L (%)": 16.889335413950118,
-    "Allocation (%)": 7.18,
+    "Buy Value": 43447.802926793665,
+    "Present Value": 49885.84,
+    "P&L (%)": 14.820258693095925,
+    "Allocation (%)": 6.09,
     "Price Change (1D)": 0.1
   },
   {
@@ -364,11 +364,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.42,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 105305.9,
+    "LTP": 105356,
     "Buy Value": 36056.43045554677,
-    "Present Value": 44497.67,
-    "P&L (%)": 23.411213595145764,
+    "Present Value": 44518.84,
+    "P&L (%)": 23.469927321547775,
     "Allocation (%)": 5.43,
-    "Price Change (1D)": -0.28
+    "Price Change (1D)": -0.23
   }
 ]
