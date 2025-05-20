@@ -1,5 +1,15 @@
 [
   {
+    "Ticker": "VOO",
+    "TickerImg": "https://1000logos.net/wp-content/uploads/2021/05/Vanguard-logo.jpg",
+    "Buy or Sell": "Sold",
+    "Average Price": 546.0780673205041,
+    "Total Investment": 25000,
+    "Allocation": 6.09,
+    "Content": "Sold 45.78 shares of Vanguard S&P 500 ETF (VOO) at an average price of $546.07 per share. Total Allocation changed to 6.09%",
+    "Date": "19/05/2025"
+  },
+  {
     "Ticker": "ADBE",
     "TickerImg": "https://s3-symbol-logo.tradingview.com/adobe--600.png",
     "Buy or Sell": "Bought",
@@ -285,8 +295,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 467.81,
     "Total Investment": 50300,
-    "Allocation": 7.18,
-    "Content": "Bought 107.52 shares of Vanguard S&P 500 ETF (VOO) at an average price of $467.81 per share. Total Allocation changed to 7.18%",
+    "Allocation": 6.09,
+    "Content": "Bought 107.52 shares of Vanguard S&P 500 ETF (VOO) at an average price of $467.81 per share. Total Allocation changed to 6.09%",
     "Date": "21/04/2025"
   },
   {
