@@ -176,7 +176,7 @@
     "Buy Value": 12000,
     "Present Value": 15640.27,
     "P&L (%)": 30.33620964195265,
-    "Allocation (%)": 1.91,
+    "Allocation (%)": 1.9,
     "Price Change (1D)": -0.25
   },
   {
@@ -225,7 +225,7 @@
     "Present Value": 23113.98,
     "P&L (%)": 0.49629370406897283,
     "Allocation (%)": 2.82,
-    "Price Change (1D)": 8.21
+    "Price Change (1D)": 8.18
   },
   {
     "Ticker": "TSM",
@@ -237,7 +237,7 @@
     "Present Value": 7088.09,
     "P&L (%)": 18.139080529946888,
     "Allocation (%)": 0.86,
-    "Price Change (1D)": -0.34
+    "Price Change (1D)": -0.37
   },
   {
     "Ticker": "ADBE",
@@ -356,7 +356,7 @@
     "Buy Value": 50300,
     "Present Value": 58795.18,
     "P&L (%)": 16.889335413950118,
-    "Allocation (%)": 7.18,
+    "Allocation (%)": 7.17,
     "Price Change (1D)": 0.1
   },
   {
@@ -364,11 +364,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.42,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 105737,
+    "LTP": 106095.3,
     "Buy Value": 36056.43045554677,
-    "Present Value": 44679.84,
-    "P&L (%)": 23.916432905563013,
-    "Allocation (%)": 5.45,
-    "Price Change (1D)": 0.44
+    "Present Value": 44831.24,
+    "P&L (%)": 24.336335663444018,
+    "Allocation (%)": 5.47,
+    "Price Change (1D)": 0.55
   }
 ]
