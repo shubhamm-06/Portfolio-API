@@ -268,12 +268,12 @@
     "Name": "Invesco NASDAQ 100 ETF",
     "Qty": 372.58,
     "Avg Buy Price (P/S)": 192.44,
-    "LTP": 211.24,
+    "LTP": 211.21,
     "Buy Value": 71700.55200205884,
-    "Present Value": 78704.22,
-    "P&L (%)": 9.769278736229479,
+    "Present Value": 78693.04,
+    "P&L (%)": 9.75368946165039,
     "Allocation (%)": 9.75,
-    "Price Change (1D)": -1.38
+    "Price Change (1D)": -1.4
   },
   {
     "Ticker": "IVV",
@@ -364,11 +364,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.42,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 108307.1,
+    "LTP": 108370.2,
     "Buy Value": 36056.43045554677,
-    "Present Value": 45765.85,
-    "P&L (%)": 26.92841191206583,
+    "Present Value": 45792.51,
+    "P&L (%)": 27.00236073713501,
     "Allocation (%)": 5.67,
-    "Price Change (1D)": -0.27
+    "Price Change (1D)": 0.23
   }
 ]
