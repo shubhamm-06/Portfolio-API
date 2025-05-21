@@ -201,7 +201,7 @@
     "Present Value": 12461.16,
     "P&L (%)": -4.143913049227137,
     "Allocation (%)": 1.54,
-    "Price Change (1D)": -2.95
+    "Price Change (1D)": -2.92
   },
   {
     "Ticker": "NU",
@@ -364,11 +364,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.42,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 108370.2,
+    "LTP": 108377,
     "Buy Value": 36056.43045554677,
-    "Present Value": 45792.51,
-    "P&L (%)": 27.00236073713501,
+    "Present Value": 45795.39,
+    "P&L (%)": 27.01032986566862,
     "Allocation (%)": 5.67,
-    "Price Change (1D)": 0.23
+    "Price Change (1D)": -0.16
   }
 ]
