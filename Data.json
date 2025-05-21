@@ -33,7 +33,7 @@
     "Present Value": 5810.05,
     "P&L (%)": 16.203118415507788,
     "Allocation (%)": 0.71,
-    "Price Change (1D)": -0.21
+    "Price Change (1D)": -0.22
   },
   {
     "Ticker": "MSFT",
@@ -57,7 +57,7 @@
     "Present Value": 11634.28,
     "P&L (%)": -16.385993049986624,
     "Allocation (%)": 1.42,
-    "Price Change (1D)": 0.77
+    "Price Change (1D)": 0.79
   },
   {
     "Ticker": "NVDA",
@@ -201,7 +201,7 @@
     "Present Value": 12840.35,
     "P&L (%)": -1.2270425365931024,
     "Allocation (%)": 1.57,
-    "Price Change (1D)": -1.07
+    "Price Change (1D)": -1.1
   },
   {
     "Ticker": "NU",
@@ -364,11 +364,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.42,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 106937.2,
+    "LTP": 107135.9,
     "Buy Value": 36056.43045554677,
-    "Present Value": 45186.99,
-    "P&L (%)": 25.322984091744356,
-    "Allocation (%)": 5.52,
-    "Price Change (1D)": 0.06
+    "Present Value": 45270.95,
+    "P&L (%)": 25.555846715218966,
+    "Allocation (%)": 5.53,
+    "Price Change (1D)": 0.15
   }
 ]
