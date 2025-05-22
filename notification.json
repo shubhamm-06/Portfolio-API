@@ -5,8 +5,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 183.91086453432237,
     "Total Investment": 12000,
-    "Allocation": 3.25,
-    "Content": "Bought 65.24 shares of Palo Alto Networks Inc (PANW) at an average price of $183.91 per share. Total Allocation changed to 3.25%",
+    "Allocation": 3.24,
+    "Content": "Bought 65.24 shares of Palo Alto Networks Inc (PANW) at an average price of $183.91 per share. Total Allocation changed to 3.24%",
     "Date": "21/05/2025"
   },
   {
@@ -45,7 +45,7 @@
     "Buy or Sell": "Sold",
     "Average Price": 102449.88864142538,
     "Total Investment": 4600,
-    "Allocation": 5.79,
+    "Allocation": 5.8,
     "Content": "Sold 0.0449 Bitcoin (BTC) at an average price of $102449.9 per BTC. Total Allocation changed to 5.36%",
     "Date": "16/05/2025"
   },
@@ -285,8 +285,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 95.99139917063431,
     "Total Investment": 5000,
-    "Allocation": 4,
-    "Content": "Bought 52.08 shares of NVIDIA Corp (NVDA) at an average price of $95.99 per share. Total Allocation changed to 4%",
+    "Allocation": 3.99,
+    "Content": "Bought 52.08 shares of NVIDIA Corp (NVDA) at an average price of $95.99 per share. Total Allocation changed to 3.99%",
     "Date": "21/04/2025"
   },
   {
@@ -315,8 +315,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 103.92,
     "Total Investment": 4995,
-    "Allocation": 4,
-    "Content": "Bought 48.06 shares of NVIDIA Corp (NVDA) at an average price of $103.92 per share. Total Allocation changed to 4%",
+    "Allocation": 3.99,
+    "Content": "Bought 48.06 shares of NVIDIA Corp (NVDA) at an average price of $103.92 per share. Total Allocation changed to 3.99%",
     "Date": "16/04/2025"
   },
   {
@@ -415,7 +415,7 @@
     "Buy or Sell": "Bought",
     "Average Price": 83312.48,
     "Total Investment": 5445,
-    "Allocation": 5.79,
+    "Allocation": 5.8,
     "Content": "Bought 0.065 Bitcoin (BTC) at an average price of $83312.48 per BTC. Total Allocation changed to 7.74%",
     "Date": "12/04/2025"
   },
@@ -435,7 +435,7 @@
     "Buy or Sell": "Bought",
     "Average Price": 76488.6,
     "Total Investment": 11045,
-    "Allocation": 5.79,
+    "Allocation": 5.8,
     "Content": "Bought 0.144 Bitcoin (BTC) at an average price of $76488.8 per BTC. Total Allocation changed to 6.97%",
     "Date": "09/04/2025"
   },
@@ -665,8 +665,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 95.04,
     "Total Investment": 1573,
-    "Allocation": 4,
-    "Content": "Bought 16.55 shares of NVIDIA Corp (NVDA) at an average price of $95.04 per share. Total Allocation changed to 4%",
+    "Allocation": 3.99,
+    "Content": "Bought 16.55 shares of NVIDIA Corp (NVDA) at an average price of $95.04 per share. Total Allocation changed to 3.99%",
     "Date": "04/04/2025"
   },
   {
@@ -675,8 +675,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 158.74,
     "Total Investment": 5180,
-    "Allocation": 3.25,
-    "Content": "Bought 32.63 shares of Palo Alto Networks Inc (PANW) at an average price of $158.74 per share. Total Allocation changed to 3.25%",
+    "Allocation": 3.24,
+    "Content": "Bought 32.63 shares of Palo Alto Networks Inc (PANW) at an average price of $158.74 per share. Total Allocation changed to 3.24%",
     "Date": "04/04/2025"
   },
   {
@@ -905,7 +905,7 @@
     "Buy or Sell": "Bought",
     "Average Price": 85812.15,
     "Total Investment": 27229,
-    "Allocation": 5.79,
+    "Allocation": 5.8,
     "Content": "Bought 0.303 Bitcoin (BTC) at an average price of $89890 per BTC. Total Allocation changed to 12.44%",
     "Date": "02/03/2025"
   },
