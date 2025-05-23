@@ -57,7 +57,7 @@
     "Present Value": 11161.91,
     "P&L (%)": -19.780807270783203,
     "Allocation (%)": 1.39,
-    "Price Change (1D)": -2.07
+    "Price Change (1D)": -2.12
   },
   {
     "Ticker": "NVDA",
@@ -213,7 +213,7 @@
     "Present Value": 13993.22,
     "P&L (%)": 0,
     "Allocation (%)": 1.74,
-    "Price Change (1D)": -2.08
+    "Price Change (1D)": -2.12
   },
   {
     "Ticker": "UNH",
@@ -237,7 +237,7 @@
     "Present Value": 7032.41,
     "P&L (%)": 17.211062946455826,
     "Allocation (%)": 0.87,
-    "Price Change (1D)": -2.19
+    "Price Change (1D)": -2.15
   },
   {
     "Ticker": "ADBE",
@@ -304,12 +304,12 @@
     "Name": "iShares US Technology ETF",
     "Qty": 147.7,
     "Avg Buy Price (P/S)": 162.09,
-    "LTP": 155.07,
+    "LTP": 155.14,
     "Buy Value": 23942,
-    "Present Value": 22903.83,
-    "P&L (%)": -4.330927262631878,
+    "Present Value": 22914.17,
+    "P&L (%)": -4.287741378246664,
     "Allocation (%)": 2.86,
-    "Price Change (1D)": -1.27
+    "Price Change (1D)": -1.23
   },
   {
     "Ticker": "SOXX",
@@ -364,11 +364,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.42,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 108636.9,
+    "LTP": 108483.8,
     "Buy Value": 36056.43045554677,
-    "Present Value": 45905.21,
-    "P&L (%)": 27.314914645945677,
-    "Allocation (%)": 5.73,
-    "Price Change (1D)": -0.1
+    "Present Value": 45840.51,
+    "P&L (%)": 27.135492060872895,
+    "Allocation (%)": 5.72,
+    "Price Change (1D)": -0.11
   }
 ]
