@@ -44,7 +44,7 @@
     "Buy Value": 35970,
     "Present Value": 41547.11,
     "P&L (%)": 15.507774413711703,
-    "Allocation (%)": 5.18,
+    "Allocation (%)": 5.19,
     "Price Change (1D)": -1.03
   },
   {
@@ -182,13 +182,13 @@
   {
     "Ticker": "AAPL",
     "Name": "Apple Inc",
-    "Qty": 47.26,
-    "Avg Buy Price (P/S)": 172.42,
+    "Qty": 0,
+    "Avg Buy Price (P/S)": 0,
     "LTP": 195.27,
-    "Buy Value": 8150,
-    "Present Value": 9229.81,
-    "P&L (%)": 13.252522909175285,
-    "Allocation (%)": 1.15,
+    "Buy Value": 0,
+    "Present Value": 0,
+    "P&L (%)": 0.13249238799478033,
+    "Allocation (%)": 0,
     "Price Change (1D)": -3.02
   },
   {
@@ -364,11 +364,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.42,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 108250.5,
+    "LTP": 108097.8,
     "Buy Value": 36056.43045554677,
-    "Present Value": 45741.93,
-    "P&L (%)": 26.862080636330226,
-    "Allocation (%)": 5.71,
-    "Price Change (1D)": 0.89
+    "Present Value": 45677.41,
+    "P&L (%)": 26.683126823524123,
+    "Allocation (%)": 5.7,
+    "Price Change (1D)": 0.75
   }
 ]
