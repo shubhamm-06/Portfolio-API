@@ -33,7 +33,7 @@
     "Present Value": 5667.67,
     "P&L (%)": 13.355607729817573,
     "Allocation (%)": 0.7,
-    "Price Change (1D)": 0.01
+    "Price Change (1D)": -0.01
   },
   {
     "Ticker": "MSFT",
@@ -57,7 +57,7 @@
     "Present Value": 11161.91,
     "P&L (%)": -19.780807270783203,
     "Allocation (%)": 1.39,
-    "Price Change (1D)": -2.12
+    "Price Change (1D)": -2.07
   },
   {
     "Ticker": "NVDA",
@@ -76,12 +76,12 @@
     "Name": "Palo Alto Networks Inc",
     "Qty": 141.39,
     "Avg Buy Price (P/S)": 178.04,
-    "LTP": 186.75,
+    "LTP": 186.74,
     "Buy Value": 25175,
-    "Present Value": 26406.26,
-    "P&L (%)": 4.892159065378571,
+    "Present Value": 26404.84,
+    "P&L (%)": 4.88654235003371,
     "Allocation (%)": 3.29,
-    "Price Change (1D)": 0.33
+    "Price Change (1D)": 0.32
   },
   {
     "Ticker": "AMD",
@@ -117,7 +117,7 @@
     "Present Value": 34581.8,
     "P&L (%)": 1.7217942908926154,
     "Allocation (%)": 4.32,
-    "Price Change (1D)": -1.16
+    "Price Change (1D)": -1.2
   },
   {
     "Ticker": "GOOGL",
@@ -128,7 +128,7 @@
     "Buy Value": 48620,
     "Present Value": 53454.35,
     "P&L (%)": 9.945833061410958,
-    "Allocation (%)": 6.67,
+    "Allocation (%)": 6.68,
     "Price Change (1D)": -1.4
   },
   {
@@ -201,7 +201,7 @@
     "Present Value": 12267.96,
     "P&L (%)": -5.63011543191103,
     "Allocation (%)": 1.53,
-    "Price Change (1D)": -0.21
+    "Price Change (1D)": -0.2
   },
   {
     "Ticker": "NU",
@@ -237,7 +237,7 @@
     "Present Value": 7032.41,
     "P&L (%)": 17.211062946455826,
     "Allocation (%)": 0.87,
-    "Price Change (1D)": -2.19
+    "Price Change (1D)": -2.15
   },
   {
     "Ticker": "ADBE",
@@ -364,11 +364,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.42,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 107724.2,
+    "LTP": 107407,
     "Buy Value": 36056.43045554677,
-    "Present Value": 45519.54,
-    "P&L (%)": 26.245293526442502,
-    "Allocation (%)": 5.68,
-    "Price Change (1D)": -0.7
+    "Present Value": 45385.51,
+    "P&L (%)": 25.873557118963152,
+    "Allocation (%)": 5.67,
+    "Price Change (1D)": 0.23
   }
 ]
