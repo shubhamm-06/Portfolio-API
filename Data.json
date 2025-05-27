@@ -76,12 +76,12 @@
     "Name": "Palo Alto Networks Inc",
     "Qty": 141.39,
     "Avg Buy Price (P/S)": 178.04,
-    "LTP": 186.74,
+    "LTP": 186.75,
     "Buy Value": 25175,
-    "Present Value": 26404.84,
-    "P&L (%)": 4.88654235003371,
+    "Present Value": 26406.26,
+    "P&L (%)": 4.892159065378571,
     "Allocation (%)": 3.29,
-    "Price Change (1D)": 0.32
+    "Price Change (1D)": 0.33
   },
   {
     "Ticker": "AMD",
@@ -164,7 +164,7 @@
     "Buy Value": 16000,
     "Present Value": 22024.54,
     "P&L (%)": 37.65357549295122,
-    "Allocation (%)": 2.74,
+    "Allocation (%)": 2.75,
     "Price Change (1D)": -0.22
   },
   {
@@ -364,11 +364,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.42,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 108954.5,
+    "LTP": 108868.4,
     "Buy Value": 36056.43045554677,
-    "Present Value": 46039.41,
-    "P&L (%)": 27.68711982569172,
+    "Present Value": 46003.03,
+    "P&L (%)": 27.58621659528827,
     "Allocation (%)": 5.74,
-    "Price Change (1D)": -0.45
+    "Price Change (1D)": -0.53
   }
 ]
