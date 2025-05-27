@@ -525,8 +525,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 847.71,
     "Total Investment": 8000,
-    "Allocation": 2.74,
-    "Content": "Bought 9.43 shares of Netflix Inc (NFLX) at an average price of $847.71 per share. Total Allocation changed to 2.74%",
+    "Allocation": 2.75,
+    "Content": "Bought 9.43 shares of Netflix Inc (NFLX) at an average price of $847.71 per share. Total Allocation changed to 2.75%",
     "Date": "07/04/2025"
   },
   {
@@ -615,8 +615,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 875.27,
     "Total Investment": 8000,
-    "Allocation": 2.74,
-    "Content": "Bought 9.14 shares of Netflix Inc (NFLX) at an average price of $875.27 per share. Total Allocation changed to 2.74%",
+    "Allocation": 2.75,
+    "Content": "Bought 9.14 shares of Netflix Inc (NFLX) at an average price of $875.27 per share. Total Allocation changed to 2.75%",
     "Date": "04/04/2025"
   },
   {
@@ -913,7 +913,7 @@
     "Ticker": "BTCUSD",
     "TickerImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png",
     "Buy or Sell": "Bought",
-    "Average Price": 85812.15,
+    "Average Price": "#N/A",
     "Total Investment": 27229,
     "Allocation": 5.74,
     "Content": "Bought 0.303 Bitcoin (BTC) at an average price of $89890 per BTC. Total Allocation changed to 12.44%",
