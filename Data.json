@@ -92,7 +92,7 @@
     "Buy Value": 26000,
     "Present Value": 27126.43,
     "P&L (%)": 4.33515482695811,
-    "Allocation (%)": 3.3,
+    "Allocation (%)": 3.31,
     "Price Change (1D)": 3.85
   },
   {
@@ -105,7 +105,7 @@
     "Present Value": 44045.01,
     "P&L (%)": 14.227101352849852,
     "Allocation (%)": 5.37,
-    "Price Change (1D)": 2.5
+    "Price Change (1D)": 0
   },
   {
     "Ticker": "NVO",
@@ -273,7 +273,7 @@
     "Present Value": 4972.69,
     "P&L (%)": -0.5416698908921989,
     "Allocation (%)": 0.6,
-    "Price Change (1D)": 3.44
+    "Price Change (1D)": 0
   },
   {
     "Ticker": "BOTZ",
@@ -400,11 +400,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.42,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 108852.9,
+    "LTP": 108595.8,
     "Buy Value": 36056.43045554677,
-    "Present Value": 45996.48,
-    "P&L (%)": 27.56805166995432,
-    "Allocation (%)": 5.61,
-    "Price Change (1D)": -0.11
+    "Present Value": 45887.84,
+    "P&L (%)": 27.26674829554404,
+    "Allocation (%)": 5.6,
+    "Price Change (1D)": -0.34
   }
 ]
