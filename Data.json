@@ -261,7 +261,7 @@
     "Present Value": 9911.7,
     "P&L (%)": -0.8824036873628908,
     "Allocation (%)": 1.21,
-    "Price Change (1D)": -0.35
+    "Price Change (1D)": -0.3
   },
   {
     "Ticker": "TMDX",
@@ -400,10 +400,10 @@
     "Name": "Bitcoin ",
     "Qty": 0.42,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 107373,
+    "LTP": 107350,
     "Buy Value": 36056.43045554677,
-    "Present Value": 45371.14,
-    "P&L (%)": 25.833711476295125,
+    "Present Value": 45361.42,
+    "P&L (%)": 25.806757070960874,
     "Allocation (%)": 5.56,
     "Price Change (1D)": "-"
   }
