@@ -92,7 +92,7 @@
     "Buy Value": 26000,
     "Present Value": 27126.43,
     "P&L (%)": 4.33515482695811,
-    "Allocation (%)": 3.31,
+    "Allocation (%)": 3.3,
     "Price Change (1D)": 3.85
   },
   {
@@ -264,6 +264,18 @@
     "Price Change (1D)": 2.51
   },
   {
+    "Ticker": "TMDX",
+    "Name": "TransMedics Group Inc",
+    "Qty": 38.68,
+    "Avg Buy Price (P/S)": 129.23,
+    "LTP": 128.53,
+    "Buy Value": 5000,
+    "Present Value": 4972.69,
+    "P&L (%)": -0.5416698908921989,
+    "Allocation (%)": 0.6,
+    "Price Change (1D)": 3.44
+  },
+  {
     "Ticker": "BOTZ",
     "Name": "Global X Robotics and Artificial Intelligence ETF",
     "Qty": 245.79,
@@ -388,11 +400,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.42,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 108780.2,
+    "LTP": 109048.5,
     "Buy Value": 36056.43045554677,
-    "Present Value": 45965.76,
-    "P&L (%)": 27.482852310484745,
-    "Allocation (%)": 5.6,
-    "Price Change (1D)": -0.18
+    "Present Value": 46079.13,
+    "P&L (%)": 27.797281308362148,
+    "Allocation (%)": 5.62,
+    "Price Change (1D)": 0.06
   }
 ]
