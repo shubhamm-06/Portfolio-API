@@ -92,7 +92,7 @@
     "Buy Value": 26000,
     "Present Value": 27126.43,
     "P&L (%)": 4.33515482695811,
-    "Allocation (%)": 3.31,
+    "Allocation (%)": 3.3,
     "Price Change (1D)": 3.85
   },
   {
@@ -189,7 +189,7 @@
     "Present Value": 0,
     "P&L (%)": 0.13249238799478033,
     "Allocation (%)": 0,
-    "Price Change (1D)": 2.53
+    "Price Change (1D)": 0
   },
   {
     "Ticker": "LLY",
@@ -400,11 +400,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.42,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 108595.8,
+    "LTP": 108899.6,
     "Buy Value": 36056.43045554677,
-    "Present Value": 45887.84,
-    "P&L (%)": 27.26674829554404,
-    "Allocation (%)": 5.6,
-    "Price Change (1D)": -0.34
+    "Present Value": 46016.21,
+    "P&L (%)": 27.622780832089532,
+    "Allocation (%)": 5.61,
+    "Price Change (1D)": -0.07
   }
 ]
