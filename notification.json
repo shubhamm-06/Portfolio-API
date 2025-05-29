@@ -1,5 +1,25 @@
 [
   {
+    "Ticker": "",
+    "TickerImg": "",
+    "Buy or Sell": "",
+    "Average Price": "",
+    "Total Investment": "",
+    "Allocation": "#N/A",
+    "Content": "#DIV/0!",
+    "Date": ""
+  },
+  {
+    "Ticker": "TSM",
+    "TickerImg": "data:image/png;base64,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",
+    "Buy or Sell": "Bought",
+    "Average Price": 196.95216524286664,
+    "Total Investment": 8000,
+    "Allocation": 1.85,
+    "Content": "Bought 40.61 shares of Taiwan Semicndctr Mnufctrng Co Ltd (TSM) at an average price of $196.95 per share. Total Allocation changed to 1.85%",
+    "Date": "28/05/2025"
+  },
+  {
     "Ticker": "TMDX",
     "TickerImg": "https://s.yimg.com/ny/api/res/1.2/cyHY3gGqkoc3FOATC0JkVA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTY0MA--/https://media.zenfs.com/en/us.finance.gurufocus/a410ebc008fcaacd848b874cef7e8d35",
     "Buy or Sell": "Bought",
@@ -245,8 +265,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 163.79569217329583,
     "Total Investment": 6000,
-    "Allocation": 0.88,
-    "Content": "Bought 36.63 shares of Taiwan Semicndctr Mnufctrng Co Ltd (TSM) at an average price of $163.79 per share. Total Allocation changed to 0.88%",
+    "Allocation": 1.85,
+    "Content": "Bought 36.63 shares of Taiwan Semicndctr Mnufctrng Co Ltd (TSM) at an average price of $163.79 per share. Total Allocation changed to 1.85%",
     "Date": "28/04/2025"
   },
   {
@@ -405,8 +425,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 677.7363606,
     "Total Investment": 2000,
-    "Allocation": 2.6,
-    "Content": "Bought 2.95 shares of ASML Holding NV (ASML) at an average price of $677.73 per share. Total Allocation changed to 2.6%",
+    "Allocation": 2.59,
+    "Content": "Bought 2.95 shares of ASML Holding NV (ASML) at an average price of $677.73 per share. Total Allocation changed to 2.59%",
     "Date": "14/04/2025"
   },
   {
@@ -625,8 +645,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 607.9,
     "Total Investment": 6000,
-    "Allocation": 2.6,
-    "Content": "Bought 9.87 shares of ASML Holding NV (ASML) at an average price of $607.9 per share. Total Allocation changed to 2.6%",
+    "Allocation": 2.59,
+    "Content": "Bought 9.87 shares of ASML Holding NV (ASML) at an average price of $607.9 per share. Total Allocation changed to 2.59%",
     "Date": "04/04/2025"
   },
   {
@@ -765,8 +785,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 662.63,
     "Total Investment": 6000,
-    "Allocation": 2.6,
-    "Content": "Bought 9.05 shares of ASML Holding NV (ASML) at an average price of $662.63 per share. Total Allocation changed to 2.6%",
+    "Allocation": 2.59,
+    "Content": "Bought 9.05 shares of ASML Holding NV (ASML) at an average price of $662.63 per share. Total Allocation changed to 2.59%",
     "Date": "31/03/2025"
   },
   {
