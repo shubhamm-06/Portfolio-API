@@ -350,13 +350,13 @@
   {
     "Ticker": "FXI",
     "Name": "iShares China Large-Cap ETF",
-    "Qty": 299.81,
-    "Avg Buy Price (P/S)": 36.76,
+    "Qty": 0,
+    "Avg Buy Price (P/S)": 0,
     "LTP": 35.24,
-    "Buy Value": 11022,
-    "Present Value": 10565.3,
-    "P&L (%)": -4.13492927094667,
-    "Allocation (%)": 1.29,
+    "Buy Value": 0,
+    "Present Value": 0,
+    "P&L (%)": -0.041434911994193344,
+    "Allocation (%)": 0,
     "Price Change (1D)": -1.01
   },
   {
@@ -400,11 +400,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.42,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 107776.7,
+    "LTP": 107914.5,
     "Buy Value": 36056.43045554677,
-    "Present Value": 45541.72,
-    "P&L (%)": 26.306819886444604,
-    "Allocation (%)": 5.58,
-    "Price Change (1D)": -0.13
+    "Present Value": 45599.95,
+    "P&L (%)": 26.468311932316784,
+    "Allocation (%)": 5.59,
+    "Price Change (1D)": 0
   }
 ]
