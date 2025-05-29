@@ -64,12 +64,12 @@
     "Name": "NVIDIA Corp",
     "Qty": 243.88,
     "Avg Buy Price (P/S)": 108.92,
-    "LTP": 139.18,
+    "LTP": 139.19,
     "Buy Value": 26565,
-    "Present Value": 33943.75,
-    "P&L (%)": 27.781858244583184,
+    "Present Value": 33946.18,
+    "P&L (%)": 27.79103929489533,
     "Allocation (%)": 4.15,
-    "Price Change (1D)": 3.24
+    "Price Change (1D)": 3.25
   },
   {
     "Ticker": "PANW",
@@ -117,7 +117,7 @@
     "Present Value": 35665.2,
     "P&L (%)": 4.908624074913156,
     "Allocation (%)": 4.36,
-    "Price Change (1D)": 1.22
+    "Price Change (1D)": 1.25
   },
   {
     "Ticker": "GOOGL",
@@ -201,7 +201,7 @@
     "Present Value": 12420.25,
     "P&L (%)": -4.458607148051661,
     "Allocation (%)": 1.52,
-    "Price Change (1D)": 0.44
+    "Price Change (1D)": 0.48
   },
   {
     "Ticker": "NU",
@@ -213,7 +213,7 @@
     "Present Value": 13993.22,
     "P&L (%)": 0,
     "Allocation (%)": 1.71,
-    "Price Change (1D)": -1.64
+    "Price Change (1D)": -1.72
   },
   {
     "Ticker": "UNH",
@@ -261,7 +261,7 @@
     "Present Value": 9951.63,
     "P&L (%)": -0.48310369475733395,
     "Allocation (%)": 1.21,
-    "Price Change (1D)": 0.43
+    "Price Change (1D)": 0.4
   },
   {
     "Ticker": "TMDX",
@@ -296,7 +296,7 @@
     "Buy Value": 71700.55200205884,
     "Present Value": 79766.08,
     "P&L (%)": 11.250259821242988,
-    "Allocation (%)": 9.77,
+    "Allocation (%)": 9.76,
     "Price Change (1D)": 0.2
   },
   {
@@ -400,11 +400,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.42,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 106097.8,
+    "LTP": 106284.4,
     "Buy Value": 36056.43045554677,
-    "Present Value": 44832.29,
-    "P&L (%)": 24.339265490110783,
-    "Allocation (%)": 5.49,
-    "Price Change (1D)": 0.32
+    "Present Value": 44911.14,
+    "P&L (%)": 24.55794775251824,
+    "Allocation (%)": 5.5,
+    "Price Change (1D)": 0.1
   }
 ]
