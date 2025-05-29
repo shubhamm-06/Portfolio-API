@@ -213,7 +213,7 @@
     "Present Value": 13993.22,
     "P&L (%)": 0,
     "Allocation (%)": 1.71,
-    "Price Change (1D)": -1.72
+    "Price Change (1D)": -1.64
   },
   {
     "Ticker": "UNH",
@@ -237,7 +237,7 @@
     "Present Value": 15229.83,
     "P&L (%)": 8.790420483390358,
     "Allocation (%)": 1.86,
-    "Price Change (1D)": 0.52
+    "Price Change (1D)": 0.51
   },
   {
     "Ticker": "ADBE",
@@ -400,11 +400,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.42,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 106284.4,
+    "LTP": 106294.5,
     "Buy Value": 36056.43045554677,
-    "Present Value": 44911.14,
-    "P&L (%)": 24.55794775251824,
+    "Present Value": 44915.41,
+    "P&L (%)": 24.569784252251985,
     "Allocation (%)": 5.5,
-    "Price Change (1D)": 0.1
+    "Price Change (1D)": -0.03
   }
 ]
