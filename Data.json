@@ -8,7 +8,7 @@
     "Buy Value": 18839,
     "Present Value": 21194.16,
     "P&L (%)": 12.502448948835815,
-    "Allocation (%)": 2.6,
+    "Allocation (%)": 2.59,
     "Price Change (1D)": -1.36
   },
   {
@@ -230,13 +230,13 @@
   {
     "Ticker": "TSM",
     "Name": "Taiwan Semicndctr Mnufctrng Co Ltd",
-    "Qty": 36.63,
-    "Avg Buy Price (P/S)": 163.79,
+    "Qty": 77.25,
+    "Avg Buy Price (P/S)": 181.22,
     "LTP": 196.14,
-    "Buy Value": 6000,
-    "Present Value": 7184.8,
-    "P&L (%)": 19.750900543378712,
-    "Allocation (%)": 0.88,
+    "Buy Value": 14000,
+    "Present Value": 15151.81,
+    "P&L (%)": 8.233086855755428,
+    "Allocation (%)": 1.85,
     "Price Change (1D)": -0.78
   },
   {
@@ -400,11 +400,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.42,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 107651.4,
+    "LTP": 107776.7,
     "Buy Value": 36056.43045554677,
-    "Present Value": 45488.78,
-    "P&L (%)": 26.159976973906257,
+    "Present Value": 45541.72,
+    "P&L (%)": 26.306819886444604,
     "Allocation (%)": 5.58,
-    "Price Change (1D)": -0.25
+    "Price Change (1D)": -0.13
   }
 ]
