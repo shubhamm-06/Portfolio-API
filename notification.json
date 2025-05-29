@@ -1,13 +1,13 @@
 [
   {
-    "Ticker": "",
-    "TickerImg": "",
-    "Buy or Sell": "",
-    "Average Price": "",
-    "Total Investment": "",
-    "Allocation": "#N/A",
-    "Content": "#DIV/0!",
-    "Date": ""
+    "Ticker": "FXI",
+    "TickerImg": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/072015/ishares_by_blackrock.png?itok=PTkpmJEu",
+    "Buy or Sell": "Sold",
+    "Average Price": 35.28,
+    "Total Investment": 10537,
+    "Allocation": 0,
+    "Content": "Sold 298.66 shares of iShares China Large-Cap ETF (FXI) at an average price of $35.28 per share. Total Allocation changed to 0%",
+    "Date": "28/05/2025"
   },
   {
     "Ticker": "TSM",
@@ -105,7 +105,7 @@
     "Buy or Sell": "Sold",
     "Average Price": 102449.88864142538,
     "Total Investment": 4600,
-    "Allocation": 5.58,
+    "Allocation": 5.59,
     "Content": "Sold 0.0449 Bitcoin (BTC) at an average price of $102449.9 per BTC. Total Allocation changed to 5.36%",
     "Date": "16/05/2025"
   },
@@ -475,7 +475,7 @@
     "Buy or Sell": "Bought",
     "Average Price": 83312.48,
     "Total Investment": 5445,
-    "Allocation": 5.58,
+    "Allocation": 5.59,
     "Content": "Bought 0.065 Bitcoin (BTC) at an average price of $83312.48 per BTC. Total Allocation changed to 7.74%",
     "Date": "12/04/2025"
   },
@@ -495,7 +495,7 @@
     "Buy or Sell": "Bought",
     "Average Price": 76488.6,
     "Total Investment": 11045,
-    "Allocation": 5.58,
+    "Allocation": 5.59,
     "Content": "Bought 0.144 Bitcoin (BTC) at an average price of $76488.8 per BTC. Total Allocation changed to 6.97%",
     "Date": "09/04/2025"
   },
@@ -925,8 +925,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 36.97,
     "Total Investment": 6759,
-    "Allocation": 1.29,
-    "Content": "Bought 182.82 shares of iShares China Large-Cap ETF (FXI) at an average price of $36.97 per share. Total Allocation changed to 1.29%",
+    "Allocation": 0,
+    "Content": "Bought 182.82 shares of iShares China Large-Cap ETF (FXI) at an average price of $36.97 per share. Total Allocation changed to 0%",
     "Date": "06/03/2025"
   },
   {
@@ -965,7 +965,7 @@
     "Buy or Sell": "Bought",
     "Average Price": 85812.15,
     "Total Investment": 27229,
-    "Allocation": 5.58,
+    "Allocation": 5.59,
     "Content": "Bought 0.303 Bitcoin (BTC) at an average price of $89890 per BTC. Total Allocation changed to 12.44%",
     "Date": "02/03/2025"
   },
@@ -975,8 +975,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 36.44,
     "Total Investment": 4263,
-    "Allocation": 1.29,
-    "Content": "Bought 116.98 shares of iShares China Large-Cap ETF (FXI) at an average price of $36.44 per share. Total Allocation changed to 1.29%",
+    "Allocation": 0,
+    "Content": "Bought 116.98 shares of iShares China Large-Cap ETF (FXI) at an average price of $36.44 per share. Total Allocation changed to 0%",
     "Date": "26/02/2025"
   },
   {
