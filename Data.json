@@ -8,7 +8,7 @@
     "Buy Value": 18839,
     "Present Value": 21194.16,
     "P&L (%)": 12.502448948835815,
-    "Allocation (%)": 2.6,
+    "Allocation (%)": 2.59,
     "Price Change (1D)": -1.36
   },
   {
@@ -237,7 +237,7 @@
     "Present Value": 7184.8,
     "P&L (%)": 19.750900543378712,
     "Allocation (%)": 0.88,
-    "Price Change (1D)": -0.77
+    "Price Change (1D)": -0.78
   },
   {
     "Ticker": "ADBE",
@@ -344,7 +344,7 @@
     "Buy Value": 48847,
     "Present Value": 54947.52,
     "P&L (%)": 12.489196197061368,
-    "Allocation (%)": 6.74,
+    "Allocation (%)": 6.73,
     "Price Change (1D)": -0.5
   },
   {
@@ -400,11 +400,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.42,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 107734.7,
+    "LTP": 108044.7,
     "Buy Value": 36056.43045554677,
-    "Present Value": 45523.98,
-    "P&L (%)": 26.257598798442928,
-    "Allocation (%)": 5.58,
-    "Price Change (1D)": -0.15
+    "Present Value": 45654.97,
+    "P&L (%)": 26.620897305121993,
+    "Allocation (%)": 5.59,
+    "Price Change (1D)": 0.12
   }
 ]
