@@ -33,7 +33,7 @@
     "Present Value": 5739.91,
     "P&L (%)": 14.800433447715356,
     "Allocation (%)": 0.7,
-    "Price Change (1D)": 0.74
+    "Price Change (1D)": 0.72
   },
   {
     "Ticker": "MSFT",
@@ -212,7 +212,7 @@
     "Buy Value": 14000,
     "Present Value": 14016.57,
     "P&L (%)": 0.1668056713928238,
-    "Allocation (%)": 1.72,
+    "Allocation (%)": 1.71,
     "Price Change (1D)": 0.17
   },
   {
@@ -261,7 +261,7 @@
     "Present Value": 9928.7,
     "P&L (%)": -0.7123314682901547,
     "Allocation (%)": 1.21,
-    "Price Change (1D)": -0.22
+    "Price Change (1D)": -0.23
   },
   {
     "Ticker": "TMDX",
@@ -400,11 +400,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.42,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 104538.5,
+    "LTP": 104896.8,
     "Buy Value": 36056.43045554677,
-    "Present Value": 44173.4,
-    "P&L (%)": 22.51187400151507,
-    "Allocation (%)": 5.42,
-    "Price Change (1D)": -0.25
+    "Present Value": 44324.8,
+    "P&L (%)": 22.931776759396076,
+    "Allocation (%)": 5.43,
+    "Price Change (1D)": 0.36
   }
 ]
