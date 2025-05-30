@@ -117,7 +117,7 @@
     "Present Value": 36712.67,
     "P&L (%)": 7.989729648089422,
     "Allocation (%)": 4.5,
-    "Price Change (1D)": 2.94
+    "Price Change (1D)": 2.91
   },
   {
     "Ticker": "GOOGL",
@@ -212,7 +212,7 @@
     "Buy Value": 14000,
     "Present Value": 14016.57,
     "P&L (%)": 0.1668056713928238,
-    "Allocation (%)": 1.71,
+    "Allocation (%)": 1.72,
     "Price Change (1D)": 0.17
   },
   {
@@ -400,11 +400,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.42,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 104896.8,
+    "LTP": 104677,
     "Buy Value": 36056.43045554677,
-    "Present Value": 44324.8,
-    "P&L (%)": 22.931776759396076,
-    "Allocation (%)": 5.43,
-    "Price Change (1D)": 0.36
+    "Present Value": 44231.93,
+    "P&L (%)": 22.674186398853948,
+    "Allocation (%)": 5.42,
+    "Price Change (1D)": -0.01
   }
 ]
