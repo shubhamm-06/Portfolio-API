@@ -57,7 +57,7 @@
     "Present Value": 11425.99,
     "P&L (%)": -17.882919005613466,
     "Allocation (%)": 1.39,
-    "Price Change (1D)": -0.52
+    "Price Change (1D)": -0.55
   },
   {
     "Ticker": "NVDA",
@@ -117,7 +117,7 @@
     "Present Value": 35665.2,
     "P&L (%)": 4.908624074913156,
     "Allocation (%)": 4.36,
-    "Price Change (1D)": 1.22
+    "Price Change (1D)": 1.25
   },
   {
     "Ticker": "GOOGL",
@@ -128,7 +128,7 @@
     "Buy Value": 48620,
     "Present Value": 54529.97,
     "P&L (%)": 12.158193565228757,
-    "Allocation (%)": 6.67,
+    "Allocation (%)": 6.68,
     "Price Change (1D)": -0.29
   },
   {
@@ -201,7 +201,7 @@
     "Present Value": 12420.25,
     "P&L (%)": -4.458607148051661,
     "Allocation (%)": 1.52,
-    "Price Change (1D)": 0.48
+    "Price Change (1D)": 0.44
   },
   {
     "Ticker": "NU",
@@ -213,7 +213,7 @@
     "Present Value": 13993.22,
     "P&L (%)": 0,
     "Allocation (%)": 1.71,
-    "Price Change (1D)": -1.64
+    "Price Change (1D)": -1.72
   },
   {
     "Ticker": "UNH",
@@ -225,7 +225,7 @@
     "Present Value": 21817.39,
     "P&L (%)": -5.14109375497088,
     "Allocation (%)": 2.67,
-    "Price Change (1D)": 0.08
+    "Price Change (1D)": 0.02
   },
   {
     "Ticker": "TSM",
@@ -400,11 +400,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.42,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 105963.6,
+    "LTP": 105513.9,
     "Buy Value": 36056.43045554677,
-    "Present Value": 44775.59,
-    "P&L (%)": 24.181992394638755,
-    "Allocation (%)": 5.48,
-    "Price Change (1D)": 0.16
+    "Present Value": 44585.56,
+    "P&L (%)": 23.654975173820752,
+    "Allocation (%)": 5.46,
+    "Price Change (1D)": -0.13
   }
 ]
