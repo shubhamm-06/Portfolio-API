@@ -1,17 +1,17 @@
 [
   {
-    "unrealizedPnL": 81746.25461560045,
-    "unrealizedPnLPercent": 0.10704762636737941,
+    "unrealizedPnL": 81742.74461560044,
+    "unrealizedPnLPercent": 0.10704302998348002,
     "realizedPnL": 29256.687870117115,
     "realizedPnLPercent": 0.03831195700150958,
     "investedAmount": 763643.7853843994,
-    "currentValue": 845390.0399999998,
-    "lastUpdate": "2025-05-30T09:00:55.000Z",
+    "currentValue": 845386.5299999998,
+    "lastUpdate": "2025-05-31T07:02:06.856Z",
     "riskFreeReturn": 0.045,
     "dailyInterestAccumulated": 0.0001232876712328767,
     "CashPostion": 265612.9024857178,
     "todaysDailyInterest": 32.74679619686931,
-    "accumulatedDailyInterestSince": "Present Value + K2",
+    "accumulatedDailyInterestSince": 32.74679619686931,
     "totalAmountStartedWith": 11493.75
   }
 ]
