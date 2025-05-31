@@ -400,11 +400,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.42,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 103740,
+    "LTP": 103770.3,
     "Buy Value": 36056.43045554677,
-    "Present Value": 43835.99,
-    "P&L (%)": 21.5760873641498,
+    "Present Value": 43848.79,
+    "P&L (%)": 21.611596863351014,
     "Allocation (%)": 5.38,
-    "Price Change (1D)": -0.29
+    "Price Change (1D)": -0.26
   }
 ]
