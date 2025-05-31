@@ -62,13 +62,13 @@
   {
     "Ticker": "NVDA",
     "Name": "NVIDIA Corp",
-    "Qty": 243.88,
-    "Avg Buy Price (P/S)": 108.92,
+    "Qty": 281.01,
+    "Avg Buy Price (P/S)": 112.32,
     "LTP": 135.13,
-    "Buy Value": 26565,
-    "Present Value": 32956.02,
-    "P&L (%)": 24.063532868160113,
-    "Allocation (%)": 4.04,
+    "Buy Value": 31565,
+    "Present Value": 37974.2,
+    "P&L (%)": 20.308048433048437,
+    "Allocation (%)": 4.66,
     "Price Change (1D)": -2.92
   },
   {
@@ -86,13 +86,13 @@
   {
     "Ticker": "AMD",
     "Name": "Advanced Micro Devices Inc",
-    "Qty": 236.78,
-    "Avg Buy Price (P/S)": 109.8,
+    "Qty": 282.12,
+    "Avg Buy Price (P/S)": 109.88,
     "LTP": 110.73,
-    "Buy Value": 26000,
-    "Present Value": 26219.53,
-    "P&L (%)": 0.8469945355191318,
-    "Allocation (%)": 3.22,
+    "Buy Value": 31000,
+    "Present Value": 31239.25,
+    "P&L (%)": 0.7735711685475142,
+    "Allocation (%)": 3.83,
     "Price Change (1D)": -2.03
   },
   {
@@ -296,7 +296,7 @@
     "Buy Value": 71700.55200205884,
     "Present Value": 79639.4,
     "P&L (%)": 11.073581376013305,
-    "Allocation (%)": 9.78,
+    "Allocation (%)": 9.77,
     "Price Change (1D)": -0.16
   },
   {
@@ -400,11 +400,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.42,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 103380.1,
+    "LTP": 103644.7,
     "Buy Value": 36056.43045554677,
-    "Present Value": 43683.91,
-    "P&L (%)": 21.154309517202073,
-    "Allocation (%)": 5.36,
-    "Price Change (1D)": -0.64
+    "Present Value": 43795.72,
+    "P&L (%)": 21.46440237161265,
+    "Allocation (%)": 5.37,
+    "Price Change (1D)": -0.38
   }
 ]
