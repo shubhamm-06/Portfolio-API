@@ -983,7 +983,7 @@
     "Ticker": "BTCUSD",
     "TickerImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png",
     "Buy or Sell": "Bought",
-    "Average Price": 85812.15,
+    "Average Price": "#N/A",
     "Total Investment": 27229,
     "Allocation": 5.42,
     "Content": "Bought 0.303 Bitcoin (BTC) at an average price of $89890 per BTC. Total Allocation changed to 12.44%",
