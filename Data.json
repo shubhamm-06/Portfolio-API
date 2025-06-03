@@ -57,7 +57,7 @@
     "Present Value": 11598.94,
     "P&L (%)": -16.63993584603047,
     "Allocation (%)": 1.4,
-    "Price Change (1D)": 1.29
+    "Price Change (1D)": 1.3
   },
   {
     "Ticker": "NVDA",
@@ -128,7 +128,7 @@
     "Buy Value": 48620,
     "Present Value": 52727.75,
     "P&L (%)": 8.451347647327559,
-    "Allocation (%)": 6.36,
+    "Allocation (%)": 6.37,
     "Price Change (1D)": -1.69
   },
   {
@@ -201,7 +201,7 @@
     "Present Value": 12905.15,
     "P&L (%)": -0.7285565061021554,
     "Allocation (%)": 1.55,
-    "Price Change (1D)": 0.49
+    "Price Change (1D)": 0.57
   },
   {
     "Ticker": "NU",
@@ -261,7 +261,7 @@
     "Present Value": 9857.47,
     "P&L (%)": -1.4246629365803094,
     "Allocation (%)": 1.19,
-    "Price Change (1D)": 0.87
+    "Price Change (1D)": 0.94
   },
   {
     "Ticker": "TMDX",
@@ -400,11 +400,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.42,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 105757.3,
+    "LTP": 105720.7,
     "Buy Value": 36056.43045554677,
-    "Present Value": 44688.41,
-    "P&L (%)": 23.940223098097167,
+    "Present Value": 44672.95,
+    "P&L (%)": 23.897330435695693,
     "Allocation (%)": 5.39,
-    "Price Change (1D)": 0.03
+    "Price Change (1D)": -0.05
   }
 ]
