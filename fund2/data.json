@@ -4,12 +4,12 @@
     "Name": "Advanced Micro Devices Inc",
     "Qty": 88.851,
     "Avg Buy Price (P/S)": 112.54,
-    "LTP": 113.79,
+    "LTP": 114.63,
     "Buy Value": 10000,
-    "Present Value": 10110.35,
-    "P&L (%)": 1.1107161897991824,
-    "Allocation (%)": 25.15,
-    "Price Change (1D)": 2.76
+    "Present Value": 10184.99,
+    "P&L (%)": 1.8571174693442234,
+    "Allocation (%)": 25.4,
+    "Price Change (1D)": 3.52
   },
   {
     "Ticker": "GOOGL",
@@ -20,7 +20,7 @@
     "Buy Value": 10000,
     "Present Value": 10016.04,
     "P&L (%)": 0.1659259259259266,
-    "Allocation (%)": 24.92,
+    "Allocation (%)": 24.98,
     "Price Change (1D)": -1.58
   },
   {
@@ -28,11 +28,11 @@
     "Name": "Uber Technologies Inc",
     "Qty": 237.812,
     "Avg Buy Price (P/S)": 84.1,
-    "LTP": 84.35,
+    "LTP": 83.64,
     "Buy Value": 20000,
-    "Present Value": 20059.44,
-    "P&L (%)": 0.2972651605231867,
-    "Allocation (%)": 49.91,
-    "Price Change (1D)": 0.23
+    "Present Value": 19890.59,
+    "P&L (%)": -0.5469678953626561,
+    "Allocation (%)": 49.61,
+    "Price Change (1D)": -0.62
   }
 ]
