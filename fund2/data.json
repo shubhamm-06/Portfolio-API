@@ -70,5 +70,17 @@
     "P&L (%)": 0.2635228848821248,
     "Allocation (%)": 9.05,
     "Price Change (1D)": 1.95
+  },
+  {
+    "Ticker": "TMO",
+    "Name": "Thermo Fisher Scientific Inc",
+    "Qty": 12.279,
+    "Avg Buy Price (P/S)": 407.19,
+    "LTP": 403.26,
+    "Buy Value": 5000,
+    "Present Value": 4951.62,
+    "P&L (%)": -0.9651514035216993,
+    "Allocation (%)": 8.94,
+    "Price Change (1D)": 0.81
   }
 ]
