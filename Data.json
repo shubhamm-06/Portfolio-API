@@ -28,12 +28,12 @@
     "Name": "HCA Healthcare Inc",
     "Qty": 15.05,
     "Avg Buy Price (P/S)": 332.22,
-    "LTP": 381.49,
+    "LTP": 381.66,
     "Buy Value": 5000,
-    "Present Value": 5741.42,
-    "P&L (%)": 14.830533983504901,
+    "Present Value": 5743.98,
+    "P&L (%)": 14.881704894347116,
     "Allocation (%)": 0.69,
-    "Price Change (1D)": -0.44
+    "Price Change (1D)": -0.37
   },
   {
     "Ticker": "MSFT",
@@ -117,7 +117,7 @@
     "Present Value": 41985.77,
     "P&L (%)": 7.667015393812599,
     "Allocation (%)": 5.04,
-    "Price Change (1D)": 1.61
+    "Price Change (1D)": 1.59
   },
   {
     "Ticker": "GOOGL",
@@ -201,7 +201,7 @@
     "Present Value": 13164.02,
     "P&L (%)": 1.2627431276362333,
     "Allocation (%)": 1.58,
-    "Price Change (1D)": 2.08
+    "Price Change (1D)": 1.97
   },
   {
     "Ticker": "NU",
@@ -280,10 +280,10 @@
     "Name": "Uber Technologies Inc",
     "Qty": 118.9,
     "Avg Buy Price (P/S)": 84.1,
-    "LTP": 83.43,
+    "LTP": 83.45,
     "Buy Value": 10000,
-    "Present Value": 9920.32,
-    "P&L (%)": -0.7966706302021256,
+    "Present Value": 9922.7,
+    "P&L (%)": -0.7728894173602753,
     "Allocation (%)": 1.19,
     "Price Change (1D)": 1.11
   },
@@ -412,11 +412,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.42,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 104788.4,
+    "LTP": 104742.2,
     "Buy Value": 36056.43045554677,
-    "Present Value": 44279,
-    "P&L (%)": 22.804739475125064,
-    "Allocation (%)": 5.32,
-    "Price Change (1D)": -0.21
+    "Present Value": 44259.48,
+    "P&L (%)": 22.75059627832322,
+    "Allocation (%)": 5.31,
+    "Price Change (1D)": 0.05
   }
 ]
