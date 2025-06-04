@@ -4,35 +4,59 @@
     "Name": "Advanced Micro Devices Inc",
     "Qty": 88.851,
     "Avg Buy Price (P/S)": 112.54,
-    "LTP": 114.63,
+    "LTP": 117.31,
     "Buy Value": 10000,
-    "Present Value": 10184.99,
-    "P&L (%)": 1.8571174693442234,
-    "Allocation (%)": 25.4,
-    "Price Change (1D)": 3.52
+    "Present Value": 10423.11,
+    "P&L (%)": 4.238492980273676,
+    "Allocation (%)": 23.15,
+    "Price Change (1D)": 2.34
   },
   {
     "Ticker": "GOOGL",
     "Name": "Alphabet Inc Class A",
     "Qty": 59.256,
     "Avg Buy Price (P/S)": 168.75,
-    "LTP": 169.03,
+    "LTP": 166.18,
     "Buy Value": 10000,
-    "Present Value": 10016.04,
-    "P&L (%)": 0.1659259259259266,
-    "Allocation (%)": 24.98,
-    "Price Change (1D)": -1.58
+    "Present Value": 9847.16,
+    "P&L (%)": -1.5229629629629589,
+    "Allocation (%)": 21.87,
+    "Price Change (1D)": -1.69
   },
   {
     "Ticker": "UBER",
     "Name": "Uber Technologies Inc",
-    "Qty": 237.812,
-    "Avg Buy Price (P/S)": 84.1,
-    "LTP": 83.64,
-    "Buy Value": 20000,
-    "Present Value": 19890.59,
-    "P&L (%)": -0.5469678953626561,
-    "Allocation (%)": 49.61,
-    "Price Change (1D)": -0.62
+    "Qty": 118.91,
+    "Avg Buy Price (P/S)": 84.09,
+    "LTP": 82.53,
+    "Buy Value": 10000,
+    "Present Value": 9813.64,
+    "P&L (%)": -1.855155190866931,
+    "Allocation (%)": 21.79,
+    "Price Change (1D)": -1.34
+  },
+  {
+    "Ticker": "PANW",
+    "Name": "Palo Alto Networks Inc",
+    "Qty": 25.411,
+    "Avg Buy Price (P/S)": 196.76,
+    "LTP": 197.12,
+    "Buy Value": 5000,
+    "Present Value": 5009.01,
+    "P&L (%)": 0.18296401707664853,
+    "Allocation (%)": 11.12,
+    "Price Change (1D)": 1.16
+  },
+  {
+    "Ticker": "AMZN",
+    "Name": "Amazon.com Inc",
+    "Qty": 48.275,
+    "Avg Buy Price (P/S)": 207.14,
+    "LTP": 205.71,
+    "Buy Value": 10000,
+    "Present Value": 9930.65,
+    "P&L (%)": -0.6903543497151581,
+    "Allocation (%)": 22.05,
+    "Price Change (1D)": -0.45
   }
 ]
