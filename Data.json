@@ -74,13 +74,13 @@
   {
     "Ticker": "PANW",
     "Name": "Palo Alto Networks Inc",
-    "Qty": 141.39,
-    "Avg Buy Price (P/S)": 178.04,
+    "Qty": 166.81,
+    "Avg Buy Price (P/S)": 180.89,
     "LTP": 197.12,
-    "Buy Value": 25175,
-    "Present Value": 27872.57,
-    "P&L (%)": 10.71669287800495,
-    "Allocation (%)": 3.36,
+    "Buy Value": 30175,
+    "Present Value": 32881.58,
+    "P&L (%)": 8.972303609928698,
+    "Allocation (%)": 3.97,
     "Price Change (1D)": 1.16
   },
   {
@@ -400,11 +400,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.42,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 105548.7,
+    "LTP": 105439,
     "Buy Value": 36056.43045554677,
-    "Present Value": 44600.27,
-    "P&L (%)": 23.695758361022147,
+    "Present Value": 44553.91,
+    "P&L (%)": 23.567197566884428,
     "Allocation (%)": 5.38,
-    "Price Change (1D)": 0.13
+    "Price Change (1D)": 0.03
   }
 ]
