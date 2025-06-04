@@ -276,6 +276,18 @@
     "Price Change (1D)": 3.87
   },
   {
+    "Ticker": "UBER",
+    "Name": "Uber Technologies Inc",
+    "Qty": 118.9,
+    "Avg Buy Price (P/S)": 84.1,
+    "LTP": 82.53,
+    "Buy Value": 10000,
+    "Present Value": 9813.31,
+    "P&L (%)": -1.8668252080856045,
+    "Allocation (%)": 1.18,
+    "Price Change (1D)": -1.34
+  },
+  {
     "Ticker": "BOTZ",
     "Name": "Global X Robotics and Artificial Intelligence ETF",
     "Qty": 245.79,
@@ -400,11 +412,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.42,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 105439,
+    "LTP": 105505.7,
     "Buy Value": 36056.43045554677,
-    "Present Value": 44553.91,
-    "P&L (%)": 23.567197566884428,
+    "Present Value": 44582.1,
+    "P&L (%)": 23.64536534235376,
     "Allocation (%)": 5.38,
-    "Price Change (1D)": 0.03
+    "Price Change (1D)": 0.09
   }
 ]
