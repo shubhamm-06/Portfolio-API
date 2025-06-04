@@ -1,5 +1,35 @@
 [
   {
+    "Ticker": "TMO",
+    "TickerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVBuGJJzmCP3MAlS5Ie_KfQ2bfNj1ZtAj0vA&s",
+    "Buy or Sell": "Bought",
+    "Average Price": 407.1992833,
+    "Total Investment": 5000,
+    "Allocation": 1.78,
+    "Content": "Bought 12.27 shares of Thermo Fisher Scientific Inc (TMO) at an average price of $407.19 per share. Total Allocation changed to 1.78%",
+    "Date": "04/06/2025"
+  },
+  {
+    "Ticker": "VOO",
+    "TickerImg": "https://1000logos.net/wp-content/uploads/2021/05/Vanguard-logo.jpg",
+    "Buy or Sell": "Sold",
+    "Average Price": 548.36,
+    "Total Investment": 50026.33443999999,
+    "Allocation": 0,
+    "Content": "Sold 91.22 shares of Vanguard S&P 500 ETF (VOO) at an average price of $548.36 per share. Total Allocation changed to 0%",
+    "Date": "04/06/2025"
+  },
+  {
+    "Ticker": "NVO",
+    "TickerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3s3mvhhcsti4CfcfLtFOjWL1_HCVDZYl9Jw&s",
+    "Buy or Sell": "Bought",
+    "Average Price": 72.10013266,
+    "Total Investment": 5000,
+    "Allocation": 5.05,
+    "Content": "Bought 69.34 shares of Novo Nordisk A/S (NVO) at an average price of $72.1 per share. Total Allocation changed to 5.05%",
+    "Date": "04/06/2025"
+  },
+  {
     "Ticker": "PANW",
     "TickerImg": "data:image/png;base64,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",
     "Buy or Sell": "Bought",
@@ -35,8 +65,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 134.64024127531235,
     "Total Investment": 5000,
-    "Allocation": 4.77,
-    "Content": "Bought 37.13 shares of NVIDIA Corp (NVDA) at an average price of $134.64 per share. Total Allocation changed to 4.77%",
+    "Allocation": 4.78,
+    "Content": "Bought 37.13 shares of NVIDIA Corp (NVDA) at an average price of $134.64 per share. Total Allocation changed to 4.78%",
     "Date": "30/05/2025"
   },
   {
@@ -45,8 +75,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 110.29492863918118,
     "Total Investment": 5000,
-    "Allocation": 4.01,
-    "Content": "Bought 45.33 shares of Advanced Micro Devices Inc (AMD) at an average price of $110.29 per share. Total Allocation changed to 4.01%",
+    "Allocation": 4.02,
+    "Content": "Bought 45.33 shares of Advanced Micro Devices Inc (AMD) at an average price of $110.29 per share. Total Allocation changed to 4.02%",
     "Date": "30/05/2025"
   },
   {
@@ -95,8 +125,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 405.7124310288867,
     "Total Investment": 10000,
-    "Allocation": 1.19,
-    "Content": "Bought 24.64 shares of Thermo Fisher Scientific Inc (TMO) at an average price of $405.71 per share. Total Allocation changed to 1.19%",
+    "Allocation": 1.78,
+    "Content": "Bought 24.64 shares of Thermo Fisher Scientific Inc (TMO) at an average price of $405.71 per share. Total Allocation changed to 1.78%",
     "Date": "27/05/2025"
   },
   {
@@ -125,8 +155,8 @@
     "Buy or Sell": "Sold",
     "Average Price": 546.0780673205041,
     "Total Investment": 25000,
-    "Allocation": 6,
-    "Content": "Sold 45.78 shares of Vanguard S&P 500 ETF (VOO) at an average price of $546.07 per share. Total Allocation changed to 6%",
+    "Allocation": 0,
+    "Content": "Sold 45.78 shares of Vanguard S&P 500 ETF (VOO) at an average price of $546.07 per share. Total Allocation changed to 0%",
     "Date": "19/05/2025"
   },
   {
@@ -155,7 +185,7 @@
     "Buy or Sell": "Sold",
     "Average Price": 102449.88864142538,
     "Total Investment": 4600,
-    "Allocation": 5.32,
+    "Allocation": 5.33,
     "Content": "Sold 0.0449 Bitcoin (BTC) at an average price of $102449.9 per BTC. Total Allocation changed to 5.36%",
     "Date": "16/05/2025"
   },
@@ -175,8 +205,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 251.7994632959647,
     "Total Investment": 10040,
-    "Allocation": 2.63,
-    "Content": "Bought 39.87 shares of UnitedHealth Group Inc (UNH) at an average price of $251.79 per share. Total Allocation changed to 2.63%",
+    "Allocation": 2.64,
+    "Content": "Bought 39.87 shares of UnitedHealth Group Inc (UNH) at an average price of $251.79 per share. Total Allocation changed to 2.64%",
     "Date": "15/05/2025"
   },
   {
@@ -185,8 +215,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 112.51631486565552,
     "Total Investment": 10000,
-    "Allocation": 4.01,
-    "Content": "Bought 88.87 shares of Advanced Micro Devices Inc (AMD) at an average price of $112.51 per share. Total Allocation changed to 4.01%",
+    "Allocation": 4.02,
+    "Content": "Bought 88.87 shares of Advanced Micro Devices Inc (AMD) at an average price of $112.51 per share. Total Allocation changed to 4.02%",
     "Date": "14/05/2025"
   },
   {
@@ -215,8 +245,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 109.78756106933085,
     "Total Investment": 4000,
-    "Allocation": 4.01,
-    "Content": "Bought 36.43 shares of Advanced Micro Devices Inc (AMD) at an average price of $109.78 per share. Total Allocation changed to 4.01%",
+    "Allocation": 4.02,
+    "Content": "Bought 36.43 shares of Advanced Micro Devices Inc (AMD) at an average price of $109.78 per share. Total Allocation changed to 4.02%",
     "Date": "13/05/2025"
   },
   {
@@ -245,8 +275,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 333.000333000333,
     "Total Investment": 4000,
-    "Allocation": 2.63,
-    "Content": "Bought 12.01 shares of UnitedHealth Group Inc (UNH) at an average price of $333 per share. Total Allocation changed to 2.63%",
+    "Allocation": 2.64,
+    "Content": "Bought 12.01 shares of UnitedHealth Group Inc (UNH) at an average price of $333 per share. Total Allocation changed to 2.64%",
     "Date": "13/05/2025"
   },
   {
@@ -275,8 +305,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 190.0253730936076,
     "Total Investment": 6965,
-    "Allocation": 6.88,
-    "Content": "Bought 36.65 shares of iShares Semiconductor ETF (SOXX) at an average price of $190.02 per share. Total Allocation changed to 6.88%",
+    "Allocation": 6.87,
+    "Content": "Bought 36.65 shares of iShares Semiconductor ETF (SOXX) at an average price of $190.02 per share. Total Allocation changed to 6.87%",
     "Date": "02/05/2025"
   },
   {
@@ -285,8 +315,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 188.39487565938208,
     "Total Investment": 5000,
-    "Allocation": 5.33,
-    "Content": "Bought 26.54 shares of Amazon.com Inc (AMZN) at an average price of $188.39 per share. Total Allocation changed to 5.33%",
+    "Allocation": 5.32,
+    "Content": "Bought 26.54 shares of Amazon.com Inc (AMZN) at an average price of $188.39 per share. Total Allocation changed to 5.32%",
     "Date": "02/05/2025"
   },
   {
@@ -305,8 +335,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 420.9339471953396,
     "Total Investment": 8960,
-    "Allocation": 2.63,
-    "Content": "Bought 21.28 shares of UnitedHealth Group Inc (UNH) at an average price of $420.93 per share. Total Allocation changed to 2.63%",
+    "Allocation": 2.64,
+    "Content": "Bought 21.28 shares of UnitedHealth Group Inc (UNH) at an average price of $420.93 per share. Total Allocation changed to 2.64%",
     "Date": "28/04/2025"
   },
   {
@@ -335,8 +365,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 96.8569906533004,
     "Total Investment": 4000,
-    "Allocation": 4.01,
-    "Content": "Bought 41.29 shares of Advanced Micro Devices Inc (AMD) at an average price of $96.85 per share. Total Allocation changed to 4.01%",
+    "Allocation": 4.02,
+    "Content": "Bought 41.29 shares of Advanced Micro Devices Inc (AMD) at an average price of $96.85 per share. Total Allocation changed to 4.02%",
     "Date": "28/04/2025"
   },
   {
@@ -365,8 +395,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 62.60643093258539,
     "Total Investment": 10000,
-    "Allocation": 4.46,
-    "Content": "Bought 159.72 shares of Novo Nordisk A/S (NVO) at an average price of $62.6 per share. Total Allocation changed to 4.46%",
+    "Allocation": 5.05,
+    "Content": "Bought 159.72 shares of Novo Nordisk A/S (NVO) at an average price of $62.6 per share. Total Allocation changed to 5.05%",
     "Date": "28/04/2025"
   },
   {
@@ -385,8 +415,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 166.26794258373207,
     "Total Investment": 5560,
-    "Allocation": 5.33,
-    "Content": "Bought 33.44 shares of Amazon.com Inc (AMZN) at an average price of $166.267942583732 per share. Total Allocation changed to 5.33%",
+    "Allocation": 5.32,
+    "Content": "Bought 33.44 shares of Amazon.com Inc (AMZN) at an average price of $166.267942583732 per share. Total Allocation changed to 5.32%",
     "Date": "21/04/2025"
   },
   {
@@ -395,8 +425,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 95.99139917063431,
     "Total Investment": 5000,
-    "Allocation": 4.77,
-    "Content": "Bought 52.08 shares of NVIDIA Corp (NVDA) at an average price of $95.99 per share. Total Allocation changed to 4.77%",
+    "Allocation": 4.78,
+    "Content": "Bought 52.08 shares of NVIDIA Corp (NVDA) at an average price of $95.99 per share. Total Allocation changed to 4.78%",
     "Date": "21/04/2025"
   },
   {
@@ -405,8 +435,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 162.3083859332732,
     "Total Investment": 9000,
-    "Allocation": 6.88,
-    "Content": "Bought 55.45 shares of iShares Semiconductor ETF (SOXX) at an average price of $162.3 per share. Total Allocation changed to 6.88%",
+    "Allocation": 6.87,
+    "Content": "Bought 55.45 shares of iShares Semiconductor ETF (SOXX) at an average price of $162.3 per share. Total Allocation changed to 6.87%",
     "Date": "21/04/2025"
   },
   {
@@ -415,8 +445,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 467.81,
     "Total Investment": 50300,
-    "Allocation": 6,
-    "Content": "Bought 107.52 shares of Vanguard S&P 500 ETF (VOO) at an average price of $467.81 per share. Total Allocation changed to 6%",
+    "Allocation": 0,
+    "Content": "Bought 107.52 shares of Vanguard S&P 500 ETF (VOO) at an average price of $467.81 per share. Total Allocation changed to 0%",
     "Date": "21/04/2025"
   },
   {
@@ -425,8 +455,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 103.92,
     "Total Investment": 4995,
-    "Allocation": 4.77,
-    "Content": "Bought 48.06 shares of NVIDIA Corp (NVDA) at an average price of $103.92 per share. Total Allocation changed to 4.77%",
+    "Allocation": 4.78,
+    "Content": "Bought 48.06 shares of NVIDIA Corp (NVDA) at an average price of $103.92 per share. Total Allocation changed to 4.78%",
     "Date": "16/04/2025"
   },
   {
@@ -445,8 +475,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 64.9378760985324,
     "Total Investment": 6000,
-    "Allocation": 4.46,
-    "Content": "Bought 92.39 shares of Novo Nordisk A/S (NVO) at an average price of $64.93 per share. Total Allocation changed to 4.46%",
+    "Allocation": 5.05,
+    "Content": "Bought 92.39 shares of Novo Nordisk A/S (NVO) at an average price of $64.93 per share. Total Allocation changed to 5.05%",
     "Date": "15/04/2025"
   },
   {
@@ -485,8 +515,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 175.002625,
     "Total Investment": 5000,
-    "Allocation": 6.88,
-    "Content": "Bought 28.57 shares of iShares Semiconductor ETF (SOXX) at an average price of $175 per share. Total Allocation changed to 6.88%",
+    "Allocation": 6.87,
+    "Content": "Bought 28.57 shares of iShares Semiconductor ETF (SOXX) at an average price of $175 per share. Total Allocation changed to 6.87%",
     "Date": "14/04/2025"
   },
   {
@@ -525,7 +555,7 @@
     "Buy or Sell": "Bought",
     "Average Price": 83312.48,
     "Total Investment": 5445,
-    "Allocation": 5.32,
+    "Allocation": 5.33,
     "Content": "Bought 0.065 Bitcoin (BTC) at an average price of $83312.48 per BTC. Total Allocation changed to 7.74%",
     "Date": "12/04/2025"
   },
@@ -545,7 +575,7 @@
     "Buy or Sell": "Bought",
     "Average Price": 76488.6,
     "Total Investment": 11045,
-    "Allocation": 5.32,
+    "Allocation": 5.33,
     "Content": "Bought 0.144 Bitcoin (BTC) at an average price of $76488.8 per BTC. Total Allocation changed to 6.97%",
     "Date": "09/04/2025"
   },
@@ -565,8 +595,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 156.57,
     "Total Investment": 2150,
-    "Allocation": 6.88,
-    "Content": "Bought 13.73 shares of iShares Semiconductor ETF (SOXX) at an average price of $156.57 per share. Total Allocation changed to 6.88%",
+    "Allocation": 6.87,
+    "Content": "Bought 13.73 shares of iShares Semiconductor ETF (SOXX) at an average price of $156.57 per share. Total Allocation changed to 6.87%",
     "Date": "08/04/2025"
   },
   {
@@ -585,8 +615,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 155.84,
     "Total Investment": 6525,
-    "Allocation": 6.88,
-    "Content": "Bought 41.86 shares of iShares Semiconductor ETF (SOXX) at an average price of $155.84 per share. Total Allocation changed to 6.88%",
+    "Allocation": 6.87,
+    "Content": "Bought 41.86 shares of iShares Semiconductor ETF (SOXX) at an average price of $155.84 per share. Total Allocation changed to 6.87%",
     "Date": "07/04/2025"
   },
   {
@@ -645,8 +675,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 499.18,
     "Total Investment": 8000,
-    "Allocation": 5.1,
-    "Content": "Bought 16.02 shares of Meta Platforms Inc (META) at an average price of $499.18 per share. Total Allocation changed to 5.1%",
+    "Allocation": 5.09,
+    "Content": "Bought 16.02 shares of Meta Platforms Inc (META) at an average price of $499.18 per share. Total Allocation changed to 5.09%",
     "Date": "07/04/2025"
   },
   {
@@ -735,8 +765,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 504.62,
     "Total Investment": 6000,
-    "Allocation": 5.1,
-    "Content": "Bought 11.89 shares of Meta Platforms Inc (META) at an average price of $504.62 per share. Total Allocation changed to 5.1%",
+    "Allocation": 5.09,
+    "Content": "Bought 11.89 shares of Meta Platforms Inc (META) at an average price of $504.62 per share. Total Allocation changed to 5.09%",
     "Date": "04/04/2025"
   },
   {
@@ -745,8 +775,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 63.41,
     "Total Investment": 6000,
-    "Allocation": 4.46,
-    "Content": "Bought 94.62 shares of Novo Nordisk A/S (NVO) at an average price of $63.41 per share. Total Allocation changed to 4.46%",
+    "Allocation": 5.05,
+    "Content": "Bought 94.62 shares of Novo Nordisk A/S (NVO) at an average price of $63.41 per share. Total Allocation changed to 5.05%",
     "Date": "04/04/2025"
   },
   {
@@ -765,8 +795,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 173.01,
     "Total Investment": 6000,
-    "Allocation": 5.33,
-    "Content": "Bought 34.68 shares of Amazon.com Inc (AMZN) at an average price of $173.01 per share. Total Allocation changed to 5.33%",
+    "Allocation": 5.32,
+    "Content": "Bought 34.68 shares of Amazon.com Inc (AMZN) at an average price of $173.01 per share. Total Allocation changed to 5.32%",
     "Date": "04/04/2025"
   },
   {
@@ -775,8 +805,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 95.04,
     "Total Investment": 1573,
-    "Allocation": 4.77,
-    "Content": "Bought 16.55 shares of NVIDIA Corp (NVDA) at an average price of $95.04 per share. Total Allocation changed to 4.77%",
+    "Allocation": 4.78,
+    "Content": "Bought 16.55 shares of NVIDIA Corp (NVDA) at an average price of $95.04 per share. Total Allocation changed to 4.78%",
     "Date": "04/04/2025"
   },
   {
@@ -805,8 +835,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 231.66,
     "Total Investment": 6000,
-    "Allocation": 5.33,
-    "Content": "Bought 25.9 shares of Amazon.com Inc (AMZN) at an average price of $231.66 per share. Total Allocation changed to 5.33%",
+    "Allocation": 5.32,
+    "Content": "Bought 25.9 shares of Amazon.com Inc (AMZN) at an average price of $231.66 per share. Total Allocation changed to 5.32%",
     "Date": "04/04/2025"
   },
   {
@@ -815,8 +845,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 506.32,
     "Total Investment": 10000,
-    "Allocation": 5.1,
-    "Content": "Bought 19.75 shares of Meta Platforms Inc (META) at an average price of $506.32 per share. Total Allocation changed to 5.1%",
+    "Allocation": 5.09,
+    "Content": "Bought 19.75 shares of Meta Platforms Inc (META) at an average price of $506.32 per share. Total Allocation changed to 5.09%",
     "Date": "04/04/2025"
   },
   {
@@ -865,8 +895,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 69.44,
     "Total Investment": 7000,
-    "Allocation": 4.46,
-    "Content": "Bought 100.8 shares of Novo Nordisk A/S (NVO) at an average price of $69.44 per share. Total Allocation changed to 4.46%",
+    "Allocation": 5.05,
+    "Content": "Bought 100.8 shares of Novo Nordisk A/S (NVO) at an average price of $69.44 per share. Total Allocation changed to 5.05%",
     "Date": "31/03/2025"
   },
   {
@@ -885,8 +915,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 576.36,
     "Total Investment": 8000,
-    "Allocation": 5.1,
-    "Content": "Bought 13.88 shares of Meta Platforms Inc (META) at an average price of $576.36 per share. Total Allocation changed to 5.1%",
+    "Allocation": 5.09,
+    "Content": "Bought 13.88 shares of Meta Platforms Inc (META) at an average price of $576.36 per share. Total Allocation changed to 5.09%",
     "Date": "31/03/2025"
   },
   {
@@ -895,8 +925,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 190.26,
     "Total Investment": 5000,
-    "Allocation": 5.33,
-    "Content": "Bought 26.27 shares of Amazon.com Inc (AMZN) at an average price of $190.26 per share. Total Allocation changed to 5.33%",
+    "Allocation": 5.32,
+    "Content": "Bought 26.27 shares of Amazon.com Inc (AMZN) at an average price of $190.26 per share. Total Allocation changed to 5.32%",
     "Date": "31/03/2025"
   },
   {
@@ -915,8 +945,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 78.79,
     "Total Investment": 5000,
-    "Allocation": 4.46,
-    "Content": "Bought 63.45 shares of Novo Nordisk A/S (NVO) at an average price of $78.79 per share. Total Allocation changed to 4.46%",
+    "Allocation": 5.05,
+    "Content": "Bought 63.45 shares of Novo Nordisk A/S (NVO) at an average price of $78.79 per share. Total Allocation changed to 5.05%",
     "Date": "20/03/2025"
   },
   {
@@ -945,8 +975,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 204.44,
     "Total Investment": 6000,
-    "Allocation": 6.88,
-    "Content": "Bought 29.34 shares of iShares Semiconductor ETF (SOXX) at an average price of $204.44 per share. Total Allocation changed to 6.88%",
+    "Allocation": 6.87,
+    "Content": "Bought 29.34 shares of iShares Semiconductor ETF (SOXX) at an average price of $204.44 per share. Total Allocation changed to 6.87%",
     "Date": "17/03/2025"
   },
   {
@@ -965,8 +995,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 194.54,
     "Total Investment": 11000,
-    "Allocation": 5.33,
-    "Content": "Bought 56.54 shares of Amazon.com Inc (AMZN) at an average price of $194.54 per share. Total Allocation changed to 5.33%",
+    "Allocation": 5.32,
+    "Content": "Bought 56.54 shares of Amazon.com Inc (AMZN) at an average price of $194.54 per share. Total Allocation changed to 5.32%",
     "Date": "10/03/2025"
   },
   {
@@ -1015,7 +1045,7 @@
     "Buy or Sell": "Bought",
     "Average Price": 85812.15,
     "Total Investment": 27229,
-    "Allocation": 5.32,
+    "Allocation": 5.33,
     "Content": "Bought 0.303 Bitcoin (BTC) at an average price of $89890 per BTC. Total Allocation changed to 12.44%",
     "Date": "02/03/2025"
   },
@@ -1035,8 +1065,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 230.53,
     "Total Investment": 13207,
-    "Allocation": 6.88,
-    "Content": "Bought 57.28 shares of iShares Semiconductor ETF (SOXX) at an average price of $230.53 per share. Total Allocation changed to 6.88%",
+    "Allocation": 6.87,
+    "Content": "Bought 57.28 shares of iShares Semiconductor ETF (SOXX) at an average price of $230.53 per share. Total Allocation changed to 6.87%",
     "Date": "19/02/2025"
   },
   {
@@ -1055,8 +1085,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 111.72,
     "Total Investment": 8000,
-    "Allocation": 4.01,
-    "Content": "Bought 71.6 shares of Advanced Micro Devices Inc (AMD) at an average price of $111.72 per share. Total Allocation changed to 4.01%",
+    "Allocation": 4.02,
+    "Content": "Bought 71.6 shares of Advanced Micro Devices Inc (AMD) at an average price of $111.72 per share. Total Allocation changed to 4.02%",
     "Date": "12/02/2025"
   }
 ]
