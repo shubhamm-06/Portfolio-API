@@ -14,13 +14,13 @@
   {
     "Ticker": "AVGO",
     "Name": "Broadcom Inc",
-    "Qty": 88.02,
-    "Avg Buy Price (P/S)": 181.77,
-    "LTP": 256.85,
-    "Buy Value": 16000,
-    "Present Value": 22607.93,
-    "P&L (%)": 41.30494581063983,
-    "Allocation (%)": 2.73,
+    "Qty": 0,
+    "Avg Buy Price (P/S)": 0,
+    "LTP": "",
+    "Buy Value": "",
+    "Present Value": 0,
+    "P&L (%)": 41.3,
+    "Allocation (%)": 0,
     "Price Change (1D)": 3.27
   },
   {
@@ -225,7 +225,7 @@
     "Present Value": 22040.56,
     "P&L (%)": -4.170775936118079,
     "Allocation (%)": 2.66,
-    "Price Change (1D)": -1.15
+    "Price Change (1D)": -1.16
   },
   {
     "Ticker": "TSM",
@@ -261,7 +261,7 @@
     "Present Value": 9857.47,
     "P&L (%)": -1.4246629365803094,
     "Allocation (%)": 1.19,
-    "Price Change (1D)": 0.87
+    "Price Change (1D)": 0.94
   },
   {
     "Ticker": "TMDX",
@@ -400,11 +400,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.42,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 105598.8,
+    "LTP": 105543.8,
     "Buy Value": 36056.43045554677,
-    "Present Value": 44621.44,
-    "P&L (%)": 23.75447208742416,
-    "Allocation (%)": 5.39,
-    "Price Change (1D)": 0.18
+    "Present Value": 44598.2,
+    "P&L (%)": 23.69001590075529,
+    "Allocation (%)": 5.38,
+    "Price Change (1D)": 0.13
   }
 ]
