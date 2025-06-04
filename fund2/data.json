@@ -4,59 +4,59 @@
     "Name": "Advanced Micro Devices Inc",
     "Qty": 88.851,
     "Avg Buy Price (P/S)": 112.54,
-    "LTP": 119.02,
+    "LTP": 119.05,
     "Buy Value": 10000,
-    "Present Value": 10575.04,
-    "P&L (%)": 5.757952727918952,
-    "Allocation (%)": 23.3,
-    "Price Change (1D)": 1.46
+    "Present Value": 10577.71,
+    "P&L (%)": 5.7846099164741345,
+    "Allocation (%)": 23.28,
+    "Price Change (1D)": 1.48
   },
   {
     "Ticker": "GOOGL",
     "Name": "Alphabet Inc Class A",
     "Qty": 59.256,
     "Avg Buy Price (P/S)": 168.75,
-    "LTP": 167.04,
+    "LTP": 167.42,
     "Buy Value": 10000,
-    "Present Value": 9898.12,
-    "P&L (%)": -1.013333333333338,
-    "Allocation (%)": 21.81,
-    "Price Change (1D)": 0.52
+    "Present Value": 9920.63,
+    "P&L (%)": -0.7881481481481555,
+    "Allocation (%)": 21.84,
+    "Price Change (1D)": 0.74
   },
   {
     "Ticker": "UBER",
     "Name": "Uber Technologies Inc",
     "Qty": 118.91,
     "Avg Buy Price (P/S)": 84.09,
-    "LTP": 83.61,
+    "LTP": 83.89,
     "Buy Value": 10000,
-    "Present Value": 9942.06,
-    "P&L (%)": -0.5708169818052133,
-    "Allocation (%)": 21.9,
-    "Price Change (1D)": 1.31
+    "Present Value": 9975.35,
+    "P&L (%)": -0.23784040908550697,
+    "Allocation (%)": 21.96,
+    "Price Change (1D)": 1.64
   },
   {
     "Ticker": "PANW",
     "Name": "Palo Alto Networks Inc",
     "Qty": 25.411,
     "Avg Buy Price (P/S)": 196.76,
-    "LTP": 194.81,
+    "LTP": 194.28,
     "Buy Value": 5000,
-    "Present Value": 4950.31,
-    "P&L (%)": -0.9910550924984696,
-    "Allocation (%)": 10.9,
-    "Price Change (1D)": -1.17
+    "Present Value": 4936.84,
+    "P&L (%)": -1.2604187843057482,
+    "Allocation (%)": 10.86,
+    "Price Change (1D)": -1.44
   },
   {
     "Ticker": "AMZN",
     "Name": "Amazon.com Inc",
     "Qty": 48.275,
     "Avg Buy Price (P/S)": 207.14,
-    "LTP": 207.51,
+    "LTP": 207.41,
     "Buy Value": 10000,
-    "Present Value": 10017.54,
-    "P&L (%)": 0.17862315342280805,
-    "Allocation (%)": 22.07,
-    "Price Change (1D)": 0.87
+    "Present Value": 10012.71,
+    "P&L (%)": 0.1303466254707011,
+    "Allocation (%)": 22.04,
+    "Price Change (1D)": 0.83
   }
 ]
