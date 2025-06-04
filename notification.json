@@ -1,5 +1,15 @@
 [
   {
+    "Ticker": "PANW",
+    "TickerImg": "data:image/png;base64,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",
+    "Buy or Sell": "Bought",
+    "Average Price": 196.76518043367045,
+    "Total Investment": 5000,
+    "Allocation": 3.97,
+    "Content": "Bought 25.41 shares of Palo Alto Networks Inc (PANW) at an average price of $196.76 per share. Total Allocation changed to 3.97%",
+    "Date": "03/06/2025"
+  },
+  {
     "Ticker": "AVGO",
     "TickerImg": "https://s.yimg.com/uu/api/res/1.2/5yTX_hi82kkMF.pyKrq02w--~B/aD00MDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/us.finance.gurufocus/af6ba755dda68906b5bf581711656523.cf.webp",
     "Buy or Sell": "Sold",
@@ -95,8 +105,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 183.91086453432237,
     "Total Investment": 12000,
-    "Allocation": 3.36,
-    "Content": "Bought 65.24 shares of Palo Alto Networks Inc (PANW) at an average price of $183.91 per share. Total Allocation changed to 3.36%",
+    "Allocation": 3.97,
+    "Content": "Bought 65.24 shares of Palo Alto Networks Inc (PANW) at an average price of $183.91 per share. Total Allocation changed to 3.97%",
     "Date": "21/05/2025"
   },
   {
@@ -765,8 +775,8 @@
     "Buy or Sell": "Bought",
     "Average Price": 158.74,
     "Total Investment": 5180,
-    "Allocation": 3.36,
-    "Content": "Bought 32.63 shares of Palo Alto Networks Inc (PANW) at an average price of $158.74 per share. Total Allocation changed to 3.36%",
+    "Allocation": 3.97,
+    "Content": "Bought 32.63 shares of Palo Alto Networks Inc (PANW) at an average price of $158.74 per share. Total Allocation changed to 3.97%",
     "Date": "04/04/2025"
   },
   {
