@@ -8,7 +8,7 @@
     "Buy Value": 18839,
     "Present Value": 21229.65,
     "P&L (%)": 12.690829628513306,
-    "Allocation (%)": 2.56,
+    "Allocation (%)": 2.55,
     "Price Change (1D)": 0.67
   },
   {
@@ -104,7 +104,7 @@
     "Buy Value": 38560,
     "Present Value": 44449.07,
     "P&L (%)": 15.27500554446661,
-    "Allocation (%)": 5.36,
+    "Allocation (%)": 5.35,
     "Price Change (1D)": 0.33
   },
   {
@@ -117,7 +117,7 @@
     "Present Value": 42341.29,
     "P&L (%)": 8.57868778956809,
     "Allocation (%)": 5.1,
-    "Price Change (1D)": 0.82
+    "Price Change (1D)": 0.85
   },
   {
     "Ticker": "GOOGL",
@@ -237,7 +237,7 @@
     "Present Value": 15708.01,
     "P&L (%)": 12.206158260677633,
     "Allocation (%)": 1.89,
-    "Price Change (1D)": 0.45
+    "Price Change (1D)": 0.46
   },
   {
     "Ticker": "ADBE",
@@ -285,7 +285,7 @@
     "Present Value": 10067.77,
     "P&L (%)": 0.6777645659928745,
     "Allocation (%)": 1.21,
-    "Price Change (1D)": 1.49
+    "Price Change (1D)": 1.46
   },
   {
     "Ticker": "BOTZ",
@@ -356,7 +356,7 @@
     "Buy Value": 48847,
     "Present Value": 56966.1,
     "P&L (%)": 16.621650821089013,
-    "Allocation (%)": 6.87,
+    "Allocation (%)": 6.86,
     "Price Change (1D)": -0.42
   },
   {
@@ -412,11 +412,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.42,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 101385.5,
+    "LTP": 101947.7,
     "Buy Value": 36056.43045554677,
-    "Present Value": 42841.08,
-    "P&L (%)": 18.816776609388945,
-    "Allocation (%)": 5.16,
+    "Present Value": 43078.64,
+    "P&L (%)": 19.475636030211433,
+    "Allocation (%)": 5.19,
     "Price Change (1D)": "-"
   }
 ]
