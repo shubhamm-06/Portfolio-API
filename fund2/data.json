@@ -9,7 +9,7 @@
     "Present Value": 10279.17,
     "P&L (%)": 2.799004798293932,
     "Allocation (%)": 14.51,
-    "Price Change (1D)": -2.44
+    "Price Change (1D)": 0
   },
   {
     "Ticker": "GOOGL",
@@ -21,7 +21,7 @@
     "Present Value": 9967.45,
     "P&L (%)": -0.3199999999999953,
     "Allocation (%)": 14.07,
-    "Price Change (1D)": 0.1
+    "Price Change (1D)": 0
   },
   {
     "Ticker": "UBER",
@@ -33,7 +33,7 @@
     "Present Value": 10068.1,
     "P&L (%)": 0.6897371863479584,
     "Allocation (%)": 14.21,
-    "Price Change (1D)": 1.46
+    "Price Change (1D)": 0.01
   },
   {
     "Ticker": "PANW",
@@ -45,7 +45,7 @@
     "Present Value": 5008.76,
     "P&L (%)": 0.17788168326896867,
     "Allocation (%)": 7.07,
-    "Price Change (1D)": 1.57
+    "Price Change (1D)": 0
   },
   {
     "Ticker": "AMZN",
@@ -57,7 +57,7 @@
     "Present Value": 10036.85,
     "P&L (%)": 0.37172926523124955,
     "Allocation (%)": 14.17,
-    "Price Change (1D)": 0.33
+    "Price Change (1D)": 0
   },
   {
     "Ticker": "NVO",
@@ -69,7 +69,7 @@
     "Present Value": 5038.13,
     "P&L (%)": 0.7628294036061184,
     "Allocation (%)": 7.11,
-    "Price Change (1D)": 0.85
+    "Price Change (1D)": 0.07
   },
   {
     "Ticker": "TMO",
@@ -81,7 +81,7 @@
     "Present Value": 4891.46,
     "P&L (%)": -2.1685208379380594,
     "Allocation (%)": 6.9,
-    "Price Change (1D)": -1.31
+    "Price Change (1D)": 0
   },
   {
     "Ticker": "SLV",
@@ -93,6 +93,6 @@
     "Present Value": 15531.28,
     "P&L (%)": 3.5748483881264113,
     "Allocation (%)": 21.93,
-    "Price Change (1D)": 3.54
+    "Price Change (1D)": 0
   }
 ]
