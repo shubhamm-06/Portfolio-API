@@ -4,95 +4,95 @@
     "Name": "Advanced Micro Devices Inc",
     "Qty": 88.851,
     "Avg Buy Price (P/S)": 112.54,
-    "LTP": 115.69,
+    "LTP": 117.64,
     "Buy Value": 10000,
-    "Present Value": 10279.17,
-    "P&L (%)": 2.799004798293932,
+    "Present Value": 10452.43,
+    "P&L (%)": 4.531722054380659,
     "Allocation (%)": 14.51,
-    "Price Change (1D)": 0
+    "Price Change (1D)": 1.69
   },
   {
     "Ticker": "GOOGL",
     "Name": "Alphabet Inc Class A",
     "Qty": 59.256,
     "Avg Buy Price (P/S)": 168.75,
-    "LTP": 168.21,
+    "LTP": 173.36,
     "Buy Value": 10000,
-    "Present Value": 9967.45,
-    "P&L (%)": -0.3199999999999953,
-    "Allocation (%)": 14.07,
-    "Price Change (1D)": 0
+    "Present Value": 10272.62,
+    "P&L (%)": 2.73185185185186,
+    "Allocation (%)": 14.26,
+    "Price Change (1D)": 3.06
   },
   {
     "Ticker": "UBER",
     "Name": "Uber Technologies Inc",
     "Qty": 118.91,
     "Avg Buy Price (P/S)": 84.09,
-    "LTP": 84.67,
+    "LTP": 85.5,
     "Buy Value": 10000,
-    "Present Value": 10068.1,
-    "P&L (%)": 0.6897371863479584,
-    "Allocation (%)": 14.21,
-    "Price Change (1D)": 0.01
+    "Present Value": 10166.8,
+    "P&L (%)": 1.6767748840527965,
+    "Allocation (%)": 14.11,
+    "Price Change (1D)": 0.99
   },
   {
     "Ticker": "PANW",
     "Name": "Palo Alto Networks Inc",
     "Qty": 25.411,
     "Avg Buy Price (P/S)": 196.76,
-    "LTP": 197.11,
+    "LTP": 199.75,
     "Buy Value": 5000,
-    "Present Value": 5008.76,
-    "P&L (%)": 0.17788168326896867,
-    "Allocation (%)": 7.07,
-    "Price Change (1D)": 0
+    "Present Value": 5075.84,
+    "P&L (%)": 1.5196178084976668,
+    "Allocation (%)": 7.04,
+    "Price Change (1D)": 1.34
   },
   {
     "Ticker": "AMZN",
     "Name": "Amazon.com Inc",
     "Qty": 48.275,
     "Avg Buy Price (P/S)": 207.14,
-    "LTP": 207.91,
+    "LTP": 212.07,
     "Buy Value": 10000,
-    "Present Value": 10036.85,
-    "P&L (%)": 0.37172926523124955,
-    "Allocation (%)": 14.17,
-    "Price Change (1D)": 0
+    "Present Value": 10237.67,
+    "P&L (%)": 2.380032828039011,
+    "Allocation (%)": 14.21,
+    "Price Change (1D)": 2
   },
   {
     "Ticker": "NVO",
     "Name": "Novo Nordisk A/S",
     "Qty": 69.348,
     "Avg Buy Price (P/S)": 72.1,
-    "LTP": 72.65,
+    "LTP": 75.15,
     "Buy Value": 5000,
-    "Present Value": 5038.13,
-    "P&L (%)": 0.7628294036061184,
-    "Allocation (%)": 7.11,
-    "Price Change (1D)": 0.07
+    "Present Value": 5211.5,
+    "P&L (%)": 4.230235783633858,
+    "Allocation (%)": 7.23,
+    "Price Change (1D)": 3.51
   },
   {
     "Ticker": "TMO",
     "Name": "Thermo Fisher Scientific Inc",
     "Qty": 12.279,
     "Avg Buy Price (P/S)": 407.19,
-    "LTP": 398.36,
+    "LTP": 404.94,
     "Buy Value": 5000,
-    "Present Value": 4891.46,
-    "P&L (%)": -2.1685208379380594,
+    "Present Value": 4972.25,
+    "P&L (%)": -0.5525675974360864,
     "Allocation (%)": 6.9,
-    "Price Change (1D)": 0
+    "Price Change (1D)": 1.74
   },
   {
     "Ticker": "SLV",
     "Name": "iShares Silver Trust",
     "Qty": 478.622,
     "Avg Buy Price (P/S)": 31.33,
-    "LTP": 32.45,
+    "LTP": 32.69,
     "Buy Value": 15000,
-    "Present Value": 15531.28,
-    "P&L (%)": 3.5748483881264113,
-    "Allocation (%)": 21.93,
-    "Price Change (1D)": 0
+    "Present Value": 15646.15,
+    "P&L (%)": 4.3408873284391944,
+    "Allocation (%)": 21.72,
+    "Price Change (1D)": 0.72
   }
 ]
