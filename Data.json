@@ -408,14 +408,26 @@
     "Price Change (1D)": -0.14
   },
   {
+    "Ticker": "SLV",
+    "Name": "iShares Silver Trust",
+    "Qty": 478.62,
+    "Avg Buy Price (P/S)": 31.33,
+    "LTP": 32.45,
+    "Buy Value": 15000,
+    "Present Value": 15531.28,
+    "P&L (%)": 3.5748483881264113,
+    "Allocation (%)": 1.87,
+    "Price Change (1D)": 3.54
+  },
+  {
     "Ticker": "BTCUSD",
     "Name": "Bitcoin ",
     "Qty": 0.42,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 103257.5,
+    "LTP": 103114,
     "Buy Value": 36056.43045554677,
-    "Present Value": 43632.11,
-    "P&L (%)": 21.01063081746383,
+    "Present Value": 43571.47,
+    "P&L (%)": 20.842458766791424,
     "Allocation (%)": 5.25,
     "Price Change (1D)": "-"
   }
