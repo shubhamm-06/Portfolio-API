@@ -213,7 +213,7 @@
     "Present Value": 14179.96,
     "P&L (%)": 1.33444537114262,
     "Allocation (%)": 1.69,
-    "Price Change (1D)": 0.33
+    "Price Change (1D)": 0.41
   },
   {
     "Ticker": "UNH",
@@ -225,7 +225,7 @@
     "Present Value": 22186.91,
     "P&L (%)": -3.5345019565424733,
     "Allocation (%)": 2.64,
-    "Price Change (1D)": 2.49
+    "Price Change (1D)": 2.48
   },
   {
     "Ticker": "TSM",
@@ -261,7 +261,7 @@
     "Present Value": 14840.96,
     "P&L (%)": -1.058591826686364,
     "Allocation (%)": 1.77,
-    "Price Change (1D)": 0.97
+    "Price Change (1D)": 0.89
   },
   {
     "Ticker": "TMDX",
@@ -285,7 +285,7 @@
     "Present Value": 10178.35,
     "P&L (%)": 1.7835909631391205,
     "Allocation (%)": 1.21,
-    "Price Change (1D)": 1.1
+    "Price Change (1D)": 1.11
   },
   {
     "Ticker": "BOTZ",
@@ -424,11 +424,11 @@
     "Name": "Bitcoin ",
     "Qty": 0.42,
     "Avg Buy Price (P/S)": 85329.28,
-    "LTP": 104362.5,
+    "LTP": 104117,
     "Buy Value": 36056.43045554677,
-    "Present Value": 44099.03,
-    "P&L (%)": 22.305614204174702,
-    "Allocation (%)": 5.26,
-    "Price Change (1D)": -0.05
+    "Present Value": 43995.29,
+    "P&L (%)": 22.017905225498215,
+    "Allocation (%)": 5.24,
+    "Price Change (1D)": -0.3
   }
 ]
